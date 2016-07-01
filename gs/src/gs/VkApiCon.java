@@ -109,7 +109,8 @@ public class VkApiCon {
      * @throws java.lang.Exception
      */
     public static PostCollection searchFor(Integer id, String keyword, PostCollection postList) throws Exception{
-        //owner_id durch domain und id durch domain-name (bei http://vk.com/compact.magazin = compact.magazin) austauschen
+        //owner_id durch domain und id durch domain-name 
+	// (bei http://vk.com/compact.magazin = compact.magazin) austauschen
         String link = String.format("http://api.vk.com/method/wall.search?owner_id=%2d&count=100&query=%s", id, keyword);
         String content = getText(link);
         int sizeBefore = postList.getPostList().size();
@@ -120,7 +121,8 @@ public class VkApiCon {
         }
         //Berechnet die Anzahl gefundener Posts zu bestimmtem Keyword 
         //durch subtrahieren der alten länge der postList von aktueller.
-        System.out.println((postList.getPostList().size() - sizeBefore) + " Posts mit dem Keyword " + keyword + " gefunden.");
+        System.out.println((postList.getPostList().size() - sizeBefore) + 
+		" Posts mit dem Keyword " + keyword + " gefunden.");
         return postList;
     }
 
@@ -158,7 +160,8 @@ public class VkApiCon {
         File vkPosts = new File("vkPostList.xml"); 
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Auf welchen Seiten möchtest du suchen? Gib nichts ein um in Pegida zu suchen. \n(id eingeben, bei gruppen negativ)");
+        System.out.println("Auf welchen Seiten möchtest du suchen? Gib nichts "
+		+ "ein um in Pegida zu suchen. \n(id eingeben, bei gruppen negativ)");
         String input = scanner.nextLine();
         //Pegida als Standartsuche, ansonsten die eingegebenen ids
         String[] ids;
@@ -170,7 +173,10 @@ public class VkApiCon {
             ids = input.split(" ");
 
         System.out.println("Nach welchen Wörtern soll gesucht werden?");
-        System.out.println("Hinweis: Sollen mehrere Wörter in einem Post vorkommen trenne sie bitte durch ein - , \n ansonten genügt ein Leerzeichen.");
+        System.out.println("Hinweis: Sollen mehrere Wörter in einem Post "
+		+ "vorkommen trenne sie bitte durch ein - , \n ansonten "
+		+ "genügt ein Leerzeichen.");
+	System.out.println("Test12");
         input = scanner.nextLine();
         String[] keywords = input.split(" ");
         for(int j = 0; j < ids.length; j++){
