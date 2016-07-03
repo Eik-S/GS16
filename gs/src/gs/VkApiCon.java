@@ -178,6 +178,7 @@ public class VkApiCon {
 		+ "genügt ein Leerzeichen.");
 	System.out.println("Test, Test");
 	System.out.println("And a third one");
+        System.out.println("This is another text äääh test");
         input = scanner.nextLine();
         String[] keywords = input.split(" ");
         for(int j = 0; j < ids.length; j++){
