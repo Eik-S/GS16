@@ -176,6 +176,7 @@ public class VkApiCon {
         System.out.println("Hinweis: Sollen mehrere Wörter in einem Post "
 		+ "vorkommen trenne sie bitte durch ein - , \n ansonten "
 		+ "genügt ein Leerzeichen.");
+	System.out.println("Test, Test");
         input = scanner.nextLine();
         String[] keywords = input.split(" ");
         for(int j = 0; j < ids.length; j++){
