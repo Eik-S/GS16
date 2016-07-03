@@ -177,6 +177,7 @@ public class VkApiCon {
 		+ "vorkommen trenne sie bitte durch ein - , \n ansonten "
 		+ "genügt ein Leerzeichen.");
 	System.out.println("Test, Test");
+	System.out.println("And a third one");
         input = scanner.nextLine();
         String[] keywords = input.split(" ");
         for(int j = 0; j < ids.length; j++){
