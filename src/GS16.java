@@ -121,6 +121,6 @@ public class GS16 {
                 addDomainsToIdList(domainFileDefault);
             }
         }
-        collectAllPostsByIdList(idFileDefault);
+        addIdsToGroupTable(idFileDefault);
     }
 }

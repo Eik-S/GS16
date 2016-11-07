@@ -18,7 +18,7 @@ import java.util.Set;
  * @author Eike Mücksch<eikm>
  */
 public class KeywordSet {
-    private final String path = "";
+    private final String path = "./src/inputLists/";
     private Set<String> keywordSet;
 
     public KeywordSet() {

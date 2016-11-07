@@ -18,7 +18,7 @@ import java.util.Set;
  * @author Eike Mücksch<eikm>
  */
 public class DomainSet {
-    private final String path = "";
+    private final String path = "./src/inputLists/";
     private final String defaultFileName = "vk_domain_list.txt";
     private final String nameFileName = "vk_name_list.txt";
     private Set<String> domainSet;

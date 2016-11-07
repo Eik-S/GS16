@@ -58,7 +58,7 @@ public class GroupIdSet {
             throw new IllegalArgumentException("Nothing to write, set is empty.");
         }
         setGroupIdSetFromFile(defaultFileName);
-        try (java.io.FileWriter fileWriter = new java.io.FileWriter(defaultFileName)){
+        try (java.io.FileWriter fileWriter = new java.io.FileWriter(relPath + defaultFileName)){
             Iterator it = idSet.iterator();
             while(it.hasNext()){
                 fileWriter.write((Integer)it.next() + "\n");

@@ -1,5 +1,26 @@
-# GS16
-Projekt  VK.com
+# GS16 - post collection on VK.com
+## How to use:
+
+1. Download The Repo [GS16_compiled](https://github.com/Eik-S/GS16_compiled)
+2. Execute GS16.jar in terminal using the following Arguments:
+  - wallGet: Get all Posts from the groups/persons wall set in 'vk_id_list.txt'
+  - wallSearch: Search for All Keywords from 'vk_keyword_list.txt' in all groups/persons set in 'vk_id_list.txt'
+  - createGroupInfo: Create a Table with Domain, Name and Url information to every id in 'vk_id_list.txt'
+  - findIds: Add the ids of the groups in 'vk_domain_list.txt' to 'vk_id_list.txt'
+    - the domain list must contain the name part of the groups url if the groups url is not defined by its id, if the url e.g. is 'vk.com/group/patrioten', the list should contain 'patrioten'
+  
+### Examples:
+```
+java -jar GS16.jar wallGet
+java -jar GS16.jar wallSearch
+...
+```
+
+## Important:
+The text lists are located at src/inputLists/fooBar.txt
+The output of 'wallGet' is located at postLists/fooBar.json
+'wallSearch' will create a new Folder named with the current date/time
+#### :exclamation: Actually its not possible to work with own filenames or directorys :exclamation: 
 
 
 # Format of output json file:
