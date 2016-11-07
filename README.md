@@ -22,6 +22,7 @@ Projekt  VK.com
   - sex: gender
   - uid: user id of the person
 3. The wall array with a list of posts similar to the 'postLists' without Keyword search
+
 ##### This format information just contains the most important tags.
 ##### For additional information visit: 
 - [The official vk.com post group object documentation](https://vk.com/dev/fields_groups)
@@ -43,12 +44,14 @@ Those attachements contain additional source data of the media:
 ###### For foto media:
 - src: small preview picture of the shared foto
 - src_big: the shared foto
+
 ###### For video media:
 - duration: duration of the video in seconds
 - image: small preview picture for the video
 - image_big: preview picture for the video
 - platform: platform e.g. youtube
 - title: title of the video
+
 ##### This format information just contains the most important tags.
 ##### For additional information visit: 
 - [The official vk.com post object documentation](https://vk.com/dev/post)
