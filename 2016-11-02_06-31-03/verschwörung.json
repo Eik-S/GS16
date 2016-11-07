@@ -1,0 +1,899 @@
+
+{"response": {
+    "groups": [{
+        "gid": 117825845,
+        "is_closed": 0,
+        "name": "Schwarze Front (Seite)",
+        "photo": "http://cs630516.vk.me/v630516376/1f26f/-gfLupW-sto.jpg",
+        "photo_big": "http://cs630516.vk.me/v630516376/1f26c/yu-n1Mjc-oo.jpg",
+        "photo_medium": "http://cs630516.vk.me/v630516376/1f26e/_-VJWOEgmtw.jpg",
+        "screen_name": "club117825845",
+        "type": "page"
+    }],
+    "profiles": [{
+        "deactivated": "deleted",
+        "first_name": "Aryan",
+        "last_name": "Chainsaw-Massacre",
+        "online": 0,
+        "photo": "http://vk.com/images/deactivated_50.png",
+        "photo_medium_rec": "http://vk.com/images/deactivated_100.png",
+        "sex": 2,
+        "uid": 350647547
+    }],
+    "wall": [
+        1,
+        {
+            "attachment": {
+                "audio": {
+                    "aid": 456239041,
+                    "artist": "Die Lunikoff Verschwörung",
+                    "duration": 259,
+                    "genre": 18,
+                    "owner_id": 2000298248,
+                    "performer": "Die Lunikoff Verschwörung",
+                    "title": "Die Merkel Muß Weg",
+                    "url": "http://cs611930.vk.me/u22029188/audios/2230b603b05e.mp3?extra=huDeKIrNxAJOWlZHlD4IHUJQDgAZm7yPKAIk3LGwSQzmtLZJZRsVjRCvrlNwz256Fkk1osruynxCRMC5KSGiCXIZ3-ZRNloUTpuYv3KyWzNubxlSyyld4I6x15RmNyMr"
+                },
+                "type": "audio"
+            },
+            "attachments": [{
+                "audio": {
+                    "aid": 456239041,
+                    "artist": "Die Lunikoff Verschwörung",
+                    "duration": 259,
+                    "genre": 18,
+                    "owner_id": 2000298248,
+                    "performer": "Die Lunikoff Verschwörung",
+                    "title": "Die Merkel Muß Weg",
+                    "url": "http://cs611930.vk.me/u22029188/audios/2230b603b05e.mp3?extra=huDeKIrNxAJOWlZHlD4IHUJQDgAZm7yPKAIk3LGwSQzmtLZJZRsVjRCvrlNwz256Fkk1osruynxCRMC5KSGiCXIZ3-ZRNloUTpuYv3KyWzNubxlSyyld4I6x15RmNyMr"
+                },
+                "type": "audio"
+            }],
+            "comments": {"count": 0},
+            "copy_owner_id": 350647547,
+            "copy_post_date": 1465713347,
+            "copy_post_id": 80,
+            "copy_post_type": "post",
+            "date": 1465722637,
+            "from_id": -117825845,
+            "id": 117,
+            "likes": {"count": 2},
+            "post_type": "copy",
+            "reposts": {"count": 0},
+            "text": "",
+            "to_id": -117825845
+        }
+    ]
+}}
+{"response": {
+    "groups": [{
+        "gid": 84818382,
+        "is_closed": 0,
+        "name": "Deutsche Patrioten / German Patriots",
+        "photo": "http://cs621931.vk.me/v621931053/c1de/q9VKzIPo-x4.jpg",
+        "photo_big": "http://cs621931.vk.me/v621931053/c1dc/01OcPCd9dmA.jpg",
+        "photo_medium": "http://cs621931.vk.me/v621931053/c1dd/Z8CHUjJAvP8.jpg",
+        "screen_name": "patrioten",
+        "type": "group"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 112827918,
+        "is_closed": 0,
+        "name": "Das Letzte",
+        "photo": "http://cs626229.vk.me/v626229566/33b82/OYspdacmGLU.jpg",
+        "photo_big": "http://cs626229.vk.me/v626229566/33b80/1ImG2IaQeOo.jpg",
+        "photo_medium": "http://cs626229.vk.me/v626229566/33b81/whyDlQp-tSU.jpg",
+        "screen_name": "club112827918",
+        "type": "page"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 86775514,
+        "is_closed": 0,
+        "name": "Anonymous",
+        "photo": "http://cs636017.vk.me/v636017232/8f56/9n2DcOIR-YU.jpg",
+        "photo_big": "http://cs636017.vk.me/v636017232/8f54/i-lenN0eyUA.jpg",
+        "photo_medium": "http://cs636017.vk.me/v636017232/8f55/I8LucWwS5Ck.jpg",
+        "screen_name": "anonymous.kollektiv",
+        "type": "page"
+    }],
+    "profiles": [
+        {
+            "first_name": "Frank",
+            "last_name": "Pdx",
+            "online": 0,
+            "photo": "http://cs614829.vk.me/v614829609/1998b/UTZZHdpLYuI.jpg",
+            "photo_medium_rec": "http://cs614829.vk.me/v614829609/1998a/KVDkzhibtoM.jpg",
+            "screen_name": "id263520953",
+            "sex": 0,
+            "uid": 263520953
+        },
+        {
+            "first_name": "Juán",
+            "last_name": "Felicitadea",
+            "online": 0,
+            "photo": "http://cs622328.vk.me/v622328471/125b7/GsrSHC3YNW0.jpg",
+            "photo_medium_rec": "http://cs622328.vk.me/v622328471/125b6/Fv09RsaAcSY.jpg",
+            "screen_name": "id283555586",
+            "sex": 0,
+            "uid": 283555586
+        },
+        {
+            "first_name": "Andre",
+            "hidden": 1,
+            "last_name": "Weisnet",
+            "online": 0,
+            "photo": "http://cs636823.vk.me/v636823987/1bd27/DnYO5xnH7Nw.jpg",
+            "photo_medium_rec": "http://cs636823.vk.me/v636823987/1bd26/bWxOG8IjB48.jpg",
+            "screen_name": "id323521987",
+            "sex": 2,
+            "uid": 323521987
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Martin",
+            "online": 0,
+            "photo": "http://cs636021.vk.me/v636021030/26931/OBk0K9Un7xo.jpg",
+            "photo_medium_rec": "http://cs636021.vk.me/v636021030/26930/IbcfWCkZpVE.jpg",
+            "screen_name": "id323820030",
+            "sex": 2,
+            "uid": 323820030
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "Richter",
+            "online": 1,
+            "photo": "http://cs631124.vk.me/v631124525/20c3/iJpA_ciBrYA.jpg",
+            "photo_medium_rec": "http://cs631124.vk.me/v631124525/20c2/GQ-3DtuLh8U.jpg",
+            "screen_name": "id336091525",
+            "sex": 2,
+            "uid": 336091525
+        },
+        {
+            "first_name": "Bernhard",
+            "last_name": "Nowack",
+            "online": 0,
+            "photo": "http://cs633625.vk.me/v633625726/414b/yGrF5lmQ3qU.jpg",
+            "photo_medium_rec": "http://cs633625.vk.me/v633625726/414a/iMD495bZaqs.jpg",
+            "screen_name": "id338265726",
+            "sex": 2,
+            "uid": 338265726
+        },
+        {
+            "first_name": "Martino",
+            "last_name": "Balko",
+            "online": 0,
+            "photo": "http://cs630525.vk.me/v630525607/d6bf/BREpDiM8d-I.jpg",
+            "photo_medium_rec": "http://cs630525.vk.me/v630525607/d6be/BLk8p_tTvMM.jpg",
+            "screen_name": "id342619883",
+            "sex": 0,
+            "uid": 342619883
+        },
+        {
+            "first_name": "Matti",
+            "last_name": "Bugatti",
+            "online": 0,
+            "photo": "http://cs629502.vk.me/v629502398/4215c/JjWEmWhIhGA.jpg",
+            "photo_medium_rec": "http://cs629502.vk.me/v629502398/4215b/U9ja9dgbTgk.jpg",
+            "screen_name": "id348908398",
+            "sex": 2,
+            "uid": 348908398
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Müller",
+            "online": 0,
+            "photo": "http://cs631523.vk.me/v631523923/12d89/jNzWi2MPK68.jpg",
+            "photo_medium_rec": "http://cs631523.vk.me/v631523923/12d88/w1xHN7LzDnQ.jpg",
+            "screen_name": "id348979591",
+            "sex": 2,
+            "uid": 348979591
+        },
+        {
+            "first_name": "Andreas",
+            "last_name": "Strinnholm",
+            "online": 0,
+            "photo": "http://cs637127.vk.me/v637127393/14091/xRYj1ibc84c.jpg",
+            "photo_medium_rec": "http://cs637127.vk.me/v637127393/14090/52of9rnLwqM.jpg",
+            "screen_name": "id350683393",
+            "sex": 2,
+            "uid": 350683393
+        },
+        {
+            "first_name": "Me",
+            "last_name": "All",
+            "online": 0,
+            "photo": "http://cs615722.vk.me/v615722782/54d0/2AjUl1vwgss.jpg",
+            "photo_medium_rec": "http://cs615722.vk.me/v615722782/54cf/1rCDocmfFr0.jpg",
+            "screen_name": "id359128782",
+            "sex": 2,
+            "uid": 359128782
+        }
+    ],
+    "wall": [
+        23,
+        {
+            "attachment": {
+                "link": {
+                    "description": "",
+                    "image_big": "http://cs637516.vk.me/v637516232/1676c/T9z53v29G7I.jpg",
+                    "image_src": "http://cs637516.vk.me/v637516232/1676a/S-6bcAQO7L0.jpg",
+                    "title": "Die »Antideutschen« \u2013 Eine Subkultur neoliberaler Erfüllungsgehilfen | anonymousnews.ru",
+                    "url": "http://www.anonymousnews.ru/2016/10/11/die-antideutschen-eine-subkultur-neoliberaler-erfuellungsgehilfen/"
+                },
+                "type": "link"
+            },
+            "attachments": [{
+                "link": {
+                    "description": "",
+                    "image_big": "http://cs637516.vk.me/v637516232/1676c/T9z53v29G7I.jpg",
+                    "image_src": "http://cs637516.vk.me/v637516232/1676a/S-6bcAQO7L0.jpg",
+                    "title": "Die »Antideutschen« \u2013 Eine Subkultur neoliberaler Erfüllungsgehilfen | anonymousnews.ru",
+                    "url": "http://www.anonymousnews.ru/2016/10/11/die-antideutschen-eine-subkultur-neoliberaler-erfuellungsgehilfen/"
+                },
+                "type": "link"
+            }],
+            "comments": {"count": 14},
+            "date": 1476198540,
+            "from_id": -86775514,
+            "id": 49856,
+            "likes": {"count": 24},
+            "post_type": "post",
+            "reposts": {"count": 2},
+            "text": "Die »Antideutschen« \u2013 Eine Subkultur neoliberaler Erfüllungsgehilfen zwischen Geheimdiensten, Hartz-IV-Amt, staatlich finanzierten Demo-Tourismus und Jutta Ditfurth Gedächtnis-Kult. Als angeblich Antideutsch bezeichnet sich eine bestimmte Strömung \u201einnerhalb\u201c der deutschen Linken. Die Absurdität antideutscher Positionen ist inzwischen ebenso legendär, wie der sprichwörtliche Selbsthass der Deutschen auf sich selbst bzw. Andere. Mit Amerika und Israel Fahnen bewaffnet tauchen die selbsternannten Anti-Kapitalisten auf Befehl des Inneren immer dort auf wo es für sie eigentlich nichts zu protestieren gibt. Viele kennen die übel riechenden Zeitgenossen auch als Randerscheinung von den Mahnwachen bzw. Montagsdemos. In Dresden, bei PEGIDA, traten sie dutzendfach im Rudel als Demo-Söldner des Freistaates Sachsen in Erscheinung. Auf Facebook betreiben Sie Seiten wie We Watch Fake Anonymous, Friedensdemo-Watch, PEGIDAwatch, GenFM oder die Die Kentrail-Verschwörung. Doch wer sind schlumpfähnlichen daher kommenden antideutschen Gestalten wirklich?",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1476090084,
+            "from_id": 348908398,
+            "id": 49784,
+            "likes": {"count": 8},
+            "post_id": 49760,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Der 3. Weltkrieg beginnt in Syrien! Wenn Deutschland nicht aus der NATO Austritt bekommen wir auch Atombomben ab. Der Mensch ist des Menschen ärgster Feind. Wir leben in einer Welt mit einer teuflischen Verschwörung. Schade eigentlich ich hatte es mir in meinem kleinen Garten gerade gemütlich gemacht um etwas wachsen und gedeihen zu können. Da gibt es nur die Hoffnung auf ewiges Leben im Himmel ohne Tränen, Schmerzen und Leid. Ich erwarte das schlimmste in den kommenden Tagen, Monaten oder Jahren... Sterben ist ein Gewinn! Genieß das Leben mit deiner Frau und die kurzen Tage unter der Sonne, denn sie sind dein Lohn für deine Mühen.",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "link": {
+                    "description": "",
+                    "image_big": "http://cs636421.vk.me/v636421232/29205/UYR9pjgpy-4.jpg",
+                    "image_src": "http://cs636421.vk.me/v636421232/29203/2KGGp8hciMQ.jpg",
+                    "title": "Der Zufall ist ein Verschwörer \u2013 US-Waffenhändler belieferte IS-Attentäter von Paris | anonymousnews.ru",
+                    "url": "http://www.anonymousnews.ru/2016/07/06/der-zufall-ist-ein-verschwoerer-us-waffenhaendler-belieferte-is-attentaeter-von-paris/"
+                },
+                "type": "link"
+            },
+            "attachments": [{
+                "link": {
+                    "description": "",
+                    "image_big": "http://cs636421.vk.me/v636421232/29205/UYR9pjgpy-4.jpg",
+                    "image_src": "http://cs636421.vk.me/v636421232/29203/2KGGp8hciMQ.jpg",
+                    "title": "Der Zufall ist ein Verschwörer \u2013 US-Waffenhändler belieferte IS-Attentäter von Paris | anonymousnews.ru",
+                    "url": "http://www.anonymousnews.ru/2016/07/06/der-zufall-ist-ein-verschwoerer-us-waffenhaendler-belieferte-is-attentaeter-von-paris/"
+                },
+                "type": "link"
+            }],
+            "comments": {"count": 3},
+            "date": 1473915529,
+            "from_id": -86775514,
+            "id": 47691,
+            "likes": {"count": 61},
+            "post_type": "post",
+            "reposts": {"count": 16},
+            "text": "Eine der automatischen Schusswaffen des Attentates vom 13. November 2015 in Paris ist auf einen Händler zurückgeführt worden, der bereits in den Waffenhandel der CIA, in die Iran-Contra-Affäre mit illegalen Waffen verwickelt war. Das jedenfalls berichtete die \u201ePalm Beach Post\u201e, eine der großen Tageszeitung in den Vereinigten Staaten. Und die Iran-Contra \u2014Affäre war ein bekannter und bewiesener Deal der Reagan-Regierung: Man lieferte Geld und Waffen an die rechte Guerilla-Bewegung der Contras in Nicaragua, das aus geheimen Waffengeschäften mit dem Iran stammte. Die Contras revanchierten sich mit mehreren Tonnen Kokain für die USA, bei der CIA war das bekannt, geduldet, vermittelt. Verschwörung?",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1464064355,
+            "from_id": 336091525,
+            "id": 33775,
+            "likes": {"count": 2},
+            "post_id": 33646,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Ja richtig zuerst abgewartet bis alle \"Organe\" inzwischen involviert sind und nun der Aufschrei, \"bürger leistet wiederstand\", kaum zu glauben dass solche wie auch in Der Bundeswehr Reden halten und dann verlangen dass der Arme Otto Normal Verbraucher, abgeschuftet mit Kind und Industriefraß, gestresst mit Psyhogesundheits- masche, vorbei an den Ärtzen und Securitys bis zur MP , auch Gerichte bis zur Verfassung usw... sich bemüht was diese Prominente, Reiche, Inteligente, hoch Inteligent gebildete, einflussreiche ~70 Jahre lang nicht im stande gewesen sind?<br><br> Was sind dass denn für Menschen? Alsob diese nicht bei ihren Restaurant besuchen bereits angetrunken darüber gefaselt haben, besonderst über dass System mt Kanzlerakten und Top Secret Angelegenheiten bei einem \"Kaiserschwarm\" bereits die Pläne ziehen wie es denn nun um den eigenen Verlust und Gewinn aussieht... vermutlich dar etwas ja nicht Umsonst geplant gewesen sein? vielelciht garnicht geplant sondern Logisch nach den Logischen gesichtspunkten eines Reich und Arm Systems bereits Klar ist wie es ausgehen würde, keiner will Krieg oder stendigen ärger und Krankheiten... deswegen versucht es der Arme Mensch und der MIttelschichtler der was hart erarbeitetes hat es auch am wenigsten zu Riskieren, auch wenn es Steuerflucht sei, jeder möchte so wie diese Typen einfach mal in Sicherheit nach unten blicken und Aufschreien wie ein gesandter, \"Heult nicht\" \"Tut was\" \"das ist euer -unser- Recht\" , oder auch \"wir haben schliesslich es am besten verdient hier zu stehen und zu befehlen...\"! (wer ahnung hat weis was Inteligenzeinstellungen tatsächlich bewirkt haben und vom wem sie Ausgehen, die Zeit zeigt die Natur) Ich bin der Meinung sowas gehört sich nicht, es sollte einen anderen Buisness geben, damit jeder Reich wird oder alle nur noch dass selbe haben, nur so halten alle auch zusammen wenn sie alle in einem Boot sitzen, die Loyalität und Berufswelt teilt und erstellt im Großen und Ganzen nichts wirklich gutes, vor allem nur die Veschwörung was Gott ist und warum es Größere, Inteligentere gibt, bzw. wer welche Loyalität \"verdient\" habe....schluss endlich bis zum Obersten Befehls erteiler..., dann wird auch wirklich zusammen was getan anstatt schleichende hetze in einem \"Rechtssystem\" zu verüben...in dem Menschen so lang gequelt werden mit Psyhologik und einstellungen einer welcher die Macht hat zu entscheiden wie der Körper Reagiert, und leider hat nicht jeder die Erfahrungen...sondern nur noch etwas zu verlieren...! (...) wem schreibe ich, dass interessiert eh keinen von euch, die meisten brauchen den Profit und einige bis viele Berufstätige selbst Rechtsanwällte hängen an einem Topf und Arbeiten niemals gegen ihren Geldgeber oder ihr eigenes Portnmonai... dass schlimmste von allem ist dass es viele gibt die gar keine Erfahrung haben mit dem Übernatürlichem, es wird eher nach \"hauptsache Ausbildung oder Job\" hingelebt...(...) dieses Rechtsanwälte oder Ärtze bis zu den Kanzlern wissen dass und wissen genau was funktionieren kann bzw was gewolllt is auszulösen, gerade weil bestimmte formulare wie in der Kanzlerakte bereits vor jahrzehnten die Gesetze feststanden! es war eine Grenze mit Türkei eh gewillt durch die Nato... alles andere was in Deutschland abgeht ist gerade wegen diesen Rechtsanwälten und Gerichten bis hin zu Ärzten mit ihren Studien, -auch wie bei mir \"schizophrenie\"- eine Verschwörung und erniedrigung bis hin zu Diskriminierung meiner eigenen Religion mit der ich eine Erfahrung erlebte, auch die nichtaktzeptanz aufgrund \"Russland Deutscher\" (da meine Vorfahen in Deutschalnd waren und auch hier Arbeiteten und Firmen hatten usw) Flächendeckend ist in Deutschland nichts mit echter Menschenrechten oder \"keine chance für Rassisumss\" so zumindest meine Erfahrungen bis heute, einige Lehrer haben dies auch ausgenutz da viele Kinder Probleme im Jugendalter und Traumatisierungen hatten... natürlich passiert es nicht Oft, aber immer Öffter wird es Öffentlich, ich will gar nicht darüber diskutieren wie viele bereits schwer geisteskrank geschriebene einfach nur die Opfer dieser wohl Gesunden sind, gerade weil das Berufsgeheimniss auf einem Fundament aufbaut welches Verschwörung im eigentlichen SInn ist und demzufolge diesen Menschen nichts anderes bleibt als Zuerst mit Loyalität das gegenteil zu beweisen oder zu deklarieren, schon seind schulbeginn mit Psyhologen wird einiges versucht dazu kann ich so vieles schildern da were ich morgen nicht fertig... die Organisationen wissen auch bescheid auch ein Wesen das einigen hilft da es seine Intriegen weiter ausspielt... so hällt sich dass ganze eben wie \"eine hand wäscht die andere\"... es ist schwer für Menschen zu verstehen dass selbst solche Rechtsanwälte bis hin zu Ärzten im eigentlichen sinn garnicht brauchen sondern eine Gemeinschaft bilden welche sozusagen eine Elite darstellt und sich Prifilegien etc... erlaubt selbst dass mit der Wahrheit oder erklärung was Gerecht ist oder Ungerecht ist eine zu dieser Zeit mit entsprechender Erfahrung (und gott sei dann wissen dass nicht alle im wahrsten sinne des wortes) Missbrauch und \"So tun alsob nicht in der Lage selbst mehr zu Tun als zu Labern\" , erklärung was denn getan werden solle bzw ähnlich Aufschrei... (von menschen welche selbst die möglichkeit hatten und nicht nutzten auser den Profit anzusammeln, wer es beneidet macht mit dass sieht mann an den Steuerflüchtlingen).....wer gelesenkann die Rechtschreibfehler behalten... die Rechtschreibung und dass stendigen Lernen und Vergessen akzeptiere ich nicht bis endlich alle Erfahrungen haben mit dem welcher selbst die Gesundheitseinstellungen erstellt hat sammt den Periodensystemen...usw... genauso wie dass wegschauen oder ignorantz gegenüber Regierung so sollte es nicht vergessen sein warum eine Regierung überhaupt so handelt wie schon seid jahrhunderten nur in einer neuen version weil sich eben die verarbeitung und einstellung Kindergebären und einschulen veränderten....(...) Und zum Schluss, Damals Hexenverfolgung und Götzen anbeterei, und Heute? kein Wunder dass sich solche Regierungen und Mittmenschen als Rechtsanwälte welche ein Problem haben mit dem Übernatürlichem (so laut einem Rechtsanwalt) Heutzutage \"Aufschrei\" betreiben, im sinne ihrer eigeneninteressen usw... (...) A.Richter",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1462985236,
+            "from_id": 323820030,
+            "id": 31728,
+            "likes": {"count": 2},
+            "post_id": 31692,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "[id354056691|Eriks], vor allem brauchen wir Männer die nicht daheim auf dem Spfa die weltjüdische Verschwörung aufklären und recherchieren wer denn nun Kennedy erschossen hat,",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1460554053,
+            "from_id": 359128782,
+            "id": 28420,
+            "likes": {"count": 3},
+            "post_id": 28351,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Googelt mal die opfer unter denen bei dieser Katastrophe ;) Wisst ihr was dabei rausgekommen ist? Die Dame die damals das Team leitete die scheinbar Bin Laden fand war auch in dem Flugzeug. Der Houdini Effekt mal wieder. Alle sehen nach Links wärend rechts ne heiße braut zum flachlegen bereit liegt ;) Wie heißt es so schön in Sherlock Holmes 2 nichts unerledigt lassen. Zu Deutsch, das schwächste Glied einer Verschwörung muss immer daran glauben.",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "photo": {
+                    "access_key": "425073cdd50c4d6e01",
+                    "aid": -7,
+                    "created": 1460092890,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 410739032,
+                    "post_id": 27533,
+                    "src": "http://cs630029.vk.me/v630029232/2772b/tsc0vN-K7CQ.jpg",
+                    "src_big": "http://cs630029.vk.me/v630029232/2772c/jBZW9LMLISk.jpg",
+                    "src_small": "http://cs630029.vk.me/v630029232/2772a/2mvUtkg0IW8.jpg",
+                    "src_xbig": "http://cs630029.vk.me/v630029232/2772d/TC2MnBucHhY.jpg",
+                    "src_xxbig": "http://cs630029.vk.me/v630029232/2772e/1ANgvI8MNf0.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            },
+            "attachments": [{
+                "photo": {
+                    "access_key": "425073cdd50c4d6e01",
+                    "aid": -7,
+                    "created": 1460092890,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 410739032,
+                    "post_id": 27533,
+                    "src": "http://cs630029.vk.me/v630029232/2772b/tsc0vN-K7CQ.jpg",
+                    "src_big": "http://cs630029.vk.me/v630029232/2772c/jBZW9LMLISk.jpg",
+                    "src_small": "http://cs630029.vk.me/v630029232/2772a/2mvUtkg0IW8.jpg",
+                    "src_xbig": "http://cs630029.vk.me/v630029232/2772d/TC2MnBucHhY.jpg",
+                    "src_xxbig": "http://cs630029.vk.me/v630029232/2772e/1ANgvI8MNf0.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            }],
+            "comments": {"count": 9},
+            "date": 1460092890,
+            "from_id": -86775514,
+            "id": 27533,
+            "likes": {"count": 175},
+            "post_type": "post",
+            "reposts": {"count": 61},
+            "text": "Was heißt hier Verschwörungstheorie? Wer Menschen als »Verschwörungstheoretiker« bezeichnet, die Sachverhalte kritisch hinterfragen und die offensichtlichen Schwerverbrechen von regierenden Politikern, Wirtschaftsbossen und Journalisten als \"Verschwörungstheorie\" abtut, ohne auch noch ein Argument vorzuweisen, der macht sich nicht nur der Mittäterschaft schuldig, sondern outet sich gleichzeitig auch als resistenter Realitätsverweigerer bzw. als Sympathisant oder Mitarbeiter des politischen Machtaperrates. Es war der amerikanische Geheimdienst CIA, der die Wortschöpfungen »Verschwörungstheoretiker« bzw. »Verschwörungstheorie« in den 1960er kreierte, um kritische Zeitgenossen zu diskreditieren und unglaubwürdig erscheinen zu lassen. Bis heute erfreuen sich beide Begriffe großer Beliebtheit und werden besonders gern von Regierungs- und Medienvertretern genutzt, um all jene mundtot zu machen, die die richtigen Fragen zur richtigen Zeit stellen oder schlichtweg der Wahrheit zu nah kommem.[1][2]<br><br>Von Michael Lehner / NEOPresse<br><br>Jeder kritische Mensch, der abseits der von den \u201cQualitätsmedien\u201d und Politdarstellern vorgebenen Richtung, Themen, Ereignisse und anderes hinterfrägt, sich kritisch beispielsweise mit 9/11 und dem Zusammenbruch des Gebäudes WTC7 als drittes Hochhaus an diesem Tag beschäftigt, oder der sich im aktuellen Fall mit dem Ursprung des Islamic State beschäftigt oder auch Fragen zum CDC-Patent bzgl. Ebola stellt, landet unweigerlich in der Schublade des Verschwörungstheoretikers. Als Verschwörungstheorie bezeichnet man laut Wikipedia:<br><br>[...] im weitesten Sinne jeden Versuch, ein Ereignis, einen Zustand oder eine Entwicklung durch eine Verschwörung zu erklären, also durch das zielgerichtete, konspirative Wirken von Personen zu einem illegalen oder illegitimen Zweck. Der Begriff Verschwörungstheorie wird zumeist kritisch oder abwertend verwendet.[...] <br><br>Doch woher kommt dieser Begriff Verschwörungstheorie bzw. warum ist das Stigma, dass jemand ein Verschwörungstheoretiker ist, gleichzusetzen mit dessen öffentlicher \u201cHinrichtung\u201d als Spinner oder Weltfremder?<br><br>Interessanterweise kam der Begriff Verschwörungstheorie erstmals in den Medien nach Bekanntwerden des Warren Reports zur Ermordung John F. Kennedys auf, als man seitens der CIA Kritik(er) am Report und an der Kommission, die ihn erstellt hat, mit nachfolgendem Dokument mundtot machen wollte und sie erstmals in die Ecke der Verschwörungstheoretiker stellte, in dem man regelrechte Tipps zum Ungang mit \u201cunangenehmen Kritikern\u201d und wie man diesen begegnen kann gab:<br><br>CIA Dokument #1035-960<br>Re: Betreffend der Kritik am Warren Report<br><br>1. Unser Anliegen. Seit dem Tag der Ermordung des Präsidenten Kennedys, gab es Spekulationen über die Verantwortung für den Mord. Obwohl diese eine Zeit lang ihren Ursprung im Bericht der Warren Kommission (der am Ende des Septembers 1964 erschien) haben, hatten nun verschiedene Autoren Zeit den veröffentlichten Bericht der Kommission und andere Unterlagen zu untersuchen, um neue Vorwände für eine Befragung zu finden, und es hat eine neue Welle von Büchern und Artikeln gegeben, die die Ergebnisse der Kommission kritisieren. In den meisten Fällen spekulieren die Kritiker über die Existenz einer Art Verschwörung, und oft implizieren sie dabei, dass die Kommission selbst beteiligt war. Vermutlich als Folge der zunehmenden Herausforderungen bzgl. des Berichts der Warren Kommission, hat eine vor kurzem durchgeführte Meinungsumfrage angedeutet, dass 46% der amerikanischen Öffentlichkeit nicht glaubt, dass Oswald allein gehandelt hat, während mehr als die Hälfte der Befragten glaubt, dass die Kommission einige Fragen offen und ungelöst gelassen hat. Zweifellos zeigen Umfragen im Ausland ähnliche oder möglicherweise sogar weit unerwünschtere Ergebnisse.<br><br>2. Dieser Meinungstrend liegt nicht im Anliegen der US-Regierung, einschließlich unserer Organisation. Die Mitglieder der Warren Kommission wurden natürlich aufgrund ihrer Integrität, Erfahrung und Bekanntheit ausgewählt. Sie vertraten die beiden großen Parteien, und sie und ihre Mitarbeiter wurden bewusst aus allen Teilen des Landes ausgewählt. Allein aufgrund des Ansehens der Kommissare, sind die Bemühungen ihre Rechtschaffenheit und Weisheit anzufechten, als Zweifel an der ganzen Führung der amerikanischen Gesellschaft zu bewerten. Darüber hinaus scheint es eine zunehmende Tendenz zu geben, dass Präsident Johnson selbst, als diejenige Person, der man nachsagt davon profitiert zu haben, in gewisser Weise für das Attentat verantwortlich wäre.<br><br>In Anspielung auf die Ernsthaftigkeit, hat das nicht nur Effekte auf den betroffenen Einzelnen, sondern auch auf das ganze Ansehen der amerikanischen Regierung. Unsere Organisation ist dabei selbst direkt beteiligt: Neben anderen Fakten, haben wir Informationen zu der Untersuchung beigetragen. Verschwörungstheorien haben immer wieder unsere Organisation unter Verdacht, beispielsweise durch die fälschliche Behauptung, dass Lee Harvey Oswald für uns gearbeitet hat. Das Ziel dieser Ausführung ist es, Material bereit zu stellen, das dem entgegenwirkt, und die Behauptungen der Verschwörungstheoretiker zu diskreditieren, wie auch die Verbreitung solcher Behauptungen in anderen Ländern zu verhindern. Weitere Hintergrundinformationen werden in einem geheimen Abschnitt und in einer Reihe von nicht geheimen Anhängen geliefert.<br><br>3. Aktion. Wir empfehlen nicht, dass die Diskussion über die Frage der Ermordung eingeleitet wird, wenn sie nicht bereits stattfindet. Wo die Diskussion geführt wird, sollten bestimmte Ansprachen gemacht werden:<br><br>a. Wenn man die öffentliche Meinung (im englischen Original problem, Anm. d. Verf.) mit [?, unleserlich] und freundlich gestimmten elitären Kontakten (vor allem Politiker und Redakteure) diskutiert, weist man darauf hin, dass die Warren Kommission die Untersuchung so gründlich, wie menschlich möglich, vorgenommen hat, dass die Vorwürfe der Kritiker ohne ernsthafte Grundlage sind und dass eine weitere spekulative Diskussion nur in die Hände der Opposition spielt. Weisen Sie darauf hin, dass Teile der Verschwörungsgespräche scheinbar absichtlich von kommunistischen Propagandisten erzeugt werden. Fordern Sie sie auf, dass sie ihren Einfluss geltend machen, damit die unbegründete und unverantwortliche Spekulation entmutigt wird.<br><br>b. Nutzen Sie Propagandatechniken, um die Angriffe der Kritiker zu [negieren] und zu widerlegen. Buchbesprechungen und Reportagen sind für diesen Zweck besonders geeignet. Die nicht klassifizierten Anlagen zu diesen Leitlinien sollten nützliches Hintergrundmaterial für die Weitergabe von Techniken bieten. Als Teil unseres Vorgehens sollten wir darauf hinweisen, soweit zutreffend, dass die Kritiker (I) Theorien aufbauen, bevor die Beweise vorhanden sind, (II) politische Interessen haben, (III) finanzielle Interessen haben, (IV) hastig und ungenau in ihrer Forschung sind oder ( V) in ihre eigenen Theorien vernarrt sind. Im Zuge der Diskussionen über das ganze Phänomen der Kritik, kann eine sinnvolle Strategie sein, Epsteins Theorie des Angriffs herauszugreifen, in dem man den beiliegenden Fletcher [?] Artikel und den Spectator Bericht als Hintergundinformation nutzt. (Obwohl Mark Lanes Buch viel weniger überzeugend ist als das Epsteins und es schlecht wegkommt, wenn man von erfahrenen Kritikern konfrontiert wird, ist es auch viel schwieriger alles in Gänze zu beantworten, da man in einem Morast von nicht zusammengehörenden Details verloren geht.)<br><br>4. Findet im Privaten eine Mediendiskussionen statt, die sich nicht auf einen bestimmten Autor bezieht, oder wenn dort Publikationen angegriffen werden, die noch nicht weit verbreitet sind, sollten die folgenden Argumente nützlich sein:<br><br>a. Es sind keine wesentlichen neuen Beweise aufgetaucht, die die Kommission nicht geprüft hat. Das Attentat wird manchmal (z.B. durch Joachim Joesten und Bertrand Russell) mit der Dreyfus-Affäre verglichen; doch im Gegensatz zu diesem Fall, hat der Angriff auf die Warren Kommission keine neuen Beweise produziert, keine neuen Schuldigen überzeugend identifiziert, und es gibt keine Einigung unter den Kritikern. (Eine bessere Parallele, wenn auch eine unvollkommene, könnte zum Reichstagsbrand von 1933 gezogen werden, von der einige kompetente Historiker (Fritz Tobias, AJ.P. Taylor, DC Watt) jetzt annehmen, dass sie von Vander Lubbe auf eigene Initiative begangen wurde, ohne entweder für die Nazis oder für die Kommunisten zu agieren; die Nazis versuchten, die Schuld auf die Kommunisten zu schieben, aber letztere hatten mehr Erfolg die Welt davon zu überzeugen, dass die Nazis Schuld gewesen sind).<br><br>b. Kritiker überbewerten in der Regel bestimmte Dinge und ignorieren andere. Sie neigen dazu, mehr Gewicht den Erinnerungen der einzelnen Zeugen zu geben (die weniger zuverlässig und divergierend sind \u2013 und daher mehr Ansatzpunkte für die Kritik bieten) und weniger der Ballistik, Autopsie und fotografischen Beweisen. Eine genaue Untersuchung der Aufzeichnungen der Kommission wird normalerweise zeigen, dass die widersprüchlichen Zeugenaussagen aus dem Zusammenhang gerissen sind, oder von der Kommission aus gutem und ausreichendem Grund verworfen wurden.<br><br>c. Große behauptete Verschwörungen wären unmöglich in den Vereinigten Staaten zu verbergen, besonders seitdem Informanten damit rechnen können große Geldsummen usw. zu erhalten. Beachten Sie, dass Robert Kennedy, damaliger Generalstaatsanwalt und John F. Kennedys Bruder, der letzte Mann gewesen wäre der eine Verschwörung übersehen oder verborgen hätte. Und wie ein Rezensent darauf hinwies, hätte der Kongressabgeordneter Gerald R. Ford wohl kaum seine Stimme um der demokratischen Regierung Willen erhoben und Senator Russell hätte alles politische Interesse für ein Aufdecken eines Fehlverhaltens seitens des Chief Justice Warren gehabt. Ein Verschwörer hätte zudem kaum einen Ort für ein Attentat ausgewählt, wo so viel von Bedingungen abhing, die außerhalb seiner Kontrolle sind: die Strecke, die Geschwindigkeit der Autos, das bewegliches Ziel, das Risiko, dass der Attentäter entdeckt werden würde. Eine Gruppe von wohlhabenden Verschwörern hätte viel sicherere Bedingungen arrangiert können.<br><br>d. Kritiker werden oft durch eine Form von geistigem Stolz verleitet: sie setzen einige Theorien auf und verlieben sich in sie; sie haben auch die Kommission verspottet, weil sie nicht immer jede Frage mit einer einfachen Erklärung \u2013 auf die eine oder ander Art \u2013 beantwortete. Eigentlich war das Auftreten der Kommission und das ihrer Mitarbeiter ein ausgezeichneter Schutz dagegen sich gegenüber einer bestimmten Theorie zu verpflichten oder gegen die unerlaubte Transformation von Wahrscheinlichkeiten in Gewissheiten.<br><br>e. Oswald wäre für jeden vernünftigen Menschen keine Wahl als Mitverschwörer gewesen. Er war ein \u201cEinzelgänger\u201d, in Vieles verwickelt, von fragwürdiger Zuverlässigkeit und eine unbekannte Größe für jeden professionellen Geheimdienst.<br><br>f. Den Vorwürfen, dass der Bericht der Kommission ein schnell ausgeführter Auftrag war, ist zu entgegnen, dass er drei Monate nach dem ursprünglichen Termin herausgegeben wurde. In dem Maße wie die Kommission versuchte ihre Berichterstattung zu beschleunigen, war dies vor allem dem Druck unverantwortlicher Spekulationen geschuldet, die bereits auftraten. In einigen Fällen kam dieser von den gleichen Kritikern, die sich weigerten ihre Fehler zuzugeben und jetzt neue neue Kritik äußern.<br><br>d. Solche vagen Anschuldigungen, wie dass \u201cmehr als zehn Personen auf mysteriöse Weise starben\u201d kann immer irgendwie auf natürliche Weise erklärt werden, z.B.: die Betroffenen sind zum größten Teil eines natürlichen Todes gestorben; Mitarbeiter der Kommission befragten 418 Zeugen (das FBI befragte weit mehr Menschen, führte 25.000 Interviews und Re-Interviews), und in einer so großen Gruppe sind eine bestimmte Anzahl von Todesfällen zu erwarten. (Als Penn Jones, einer der Begründer der \u201czehn mysteriöse Todesfälle\u201d-These, im Fernsehen auftrat, stellte sich heraus, dass zwei der Toten auf seiner Liste aufgrund von Herzinfarkten starben, einer wegen Krebs, einer bei einem Frontalzusammenstoß auf einer Brücke, und einer als ein Fahrer gegen einen Brückenpfeiler auffuhr.)<br><br>5. Wenn möglich, zu Gegenspekulation unter Bezugnahme auf den Bericht der Kommission selbst ermutigen. Aufgeschlossene ausländische Leser sollten immer noch durch die Sorgfalt, Gründlichkeit, Objektivität und Geschwindigkeit mit der die Kommission arbeitete beeindruckt sein. Rezensenten anderer Bücher könnten ermutigt werden, dass sie die Idee in Betracht ziehen könnten und hinzufügen, dass sie, zurückblickend auf den Bericht selbst, diesen der Arbeit ihrer Kritiker für weit überlegen betrachten.<br><br>Soweit das CIA-Dokument aus dem Jahr 1968. Natürlich wurden die Techniken seit dieser Zeit verfeinert, psychologisch unterlegt und medial unterstützt. Doch zeigt es sehr gut, in wie weit man ungeliebte Fragen, Kritik und Kritiker in ein bestimmtes Licht stellen kann und somit deren Glaubwürdigkeit untergräbt.<br><br>Wer auch die erwähnten Anhänge (auf englisch) lesen möchte, kann dies beispielsweise hier tun:<br><br>http://thewebfairy.com/masonic/cia_document.htm#1<br><br>Liebe Blogger und Internetnutzer. Bitte teilt diesen Beitrag größtmöglich im Internet, in Foren und Blogs und natürlich auf VKontakte, Facebook und Twitter. Gerade jetzt ist es wichtig, dass wir uns von der deutschen Lügenpresse nicht beirren lassen und eine angemessene Gegenöffentlichkeit herstellen.<br><br>Weitere Informationen zum Thema:<br><br>Taz \u2013 Echtheit des Dokuments<br>http://www.taz.de/!127939/<br><br>Background Survey of Books Concerning the Assassination of President Kennedy http://thewebfairy.com/masonic/cia_document.htm#1<br><br>CIA Document 1035-960,<br>http://www.jfklancer.com/CIA.html<br><br>Verschwörungstheorie \u2013 eine Begriffsbestimmung<br>http://www.wissensmanufaktur.net/media/pdf/verschwoerungstheorie.pdf<br><br>Wikipedia:Verschwörungstheorie http://de.wikipedia.org/wiki/Verschw%C3%B6rungstheorie<br><br>Querverweise:<br><br>[1] Das Argument Verschwörungstheorie und sein CIA-Ursprung<br>http://www.neopresse.com/politik/das-argument-verschwoerungstheorie-und-sein-cia-ursprung/<br><br>[2] Was heißt hier Verschwörungstheorie?<br>http://www.taz.de/!127939/",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1459535010,
+            "from_id": 348908398,
+            "id": 26123,
+            "likes": {"count": 2},
+            "post_id": 26073,
+            "post_type": "reply",
+            "reposts": {"count": 1},
+            "text": "Was nützt einem der Reichtum der ganzen Welt, wenn er noch nicht mal in der Lage ist seinem Leben eine Elle hinzufügen!!? Wer das Leben mit Perspektive Ewigkeit leben möchte der findet Jesus Christus seinen Retter... Die Rothschilds dienen dem Mammon und dem Fürsten dieser Welt. Ich will nicht wissen, wieviele Leben die Rothschilds auf dem Gewissen haben und noch haben werden (WK 3). Es wäre zu schön um zu erwarten das sich diese Familie gegen die Weiterführung einer teuflischen Verschwörung wendet und die Menschen auf der Welt wachsen und gedeihen können und Frieden finden.",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "photo": {
+                    "access_key": "7f1e9628c7a157fdb8",
+                    "aid": -7,
+                    "created": 1459243364,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 409343652,
+                    "post_id": 25173,
+                    "src": "http://cs627730.vk.me/v627730232/46ef4/2ujrNZezdxs.jpg",
+                    "src_big": "http://cs627730.vk.me/v627730232/46ef5/nf6fKWfawmw.jpg",
+                    "src_small": "http://cs627730.vk.me/v627730232/46ef3/ZiFQk8fjtko.jpg",
+                    "src_xbig": "http://cs627730.vk.me/v627730232/46ef6/Skb81EmEZbI.jpg",
+                    "src_xxbig": "http://cs627730.vk.me/v627730232/46ef7/boucVpddy5o.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            },
+            "attachments": [{
+                "photo": {
+                    "access_key": "7f1e9628c7a157fdb8",
+                    "aid": -7,
+                    "created": 1459243364,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 409343652,
+                    "post_id": 25173,
+                    "src": "http://cs627730.vk.me/v627730232/46ef4/2ujrNZezdxs.jpg",
+                    "src_big": "http://cs627730.vk.me/v627730232/46ef5/nf6fKWfawmw.jpg",
+                    "src_small": "http://cs627730.vk.me/v627730232/46ef3/ZiFQk8fjtko.jpg",
+                    "src_xbig": "http://cs627730.vk.me/v627730232/46ef6/Skb81EmEZbI.jpg",
+                    "src_xxbig": "http://cs627730.vk.me/v627730232/46ef7/boucVpddy5o.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            }],
+            "comments": {"count": 5},
+            "date": 1459243362,
+            "from_id": -86775514,
+            "id": 25173,
+            "likes": {"count": 130},
+            "post_type": "post",
+            "reposts": {"count": 37},
+            "text": "Zehn unglaubliche Verschwörungstheorien, die sich als wahr herausstellten: Der Begriff »Verschwörungstheorie« wurde von der CIA kreiert  und im Allgemeinen vom Establishment als Waffe benutzt, um jeden, der die offiziellen Darstellungen der regierungsamtlichen Verlautbarungen in Zweifel zieht, als Wirrkopf verunglimpfen zu können. Aber es gibt zahlreiche Beispiele aus der Geschichte, die belegen, dass sich viele dieser Theorien als wahr erwiesen haben.<br><br>1. Operation AJAX und Terroranschläge unter falscher Flagge<br> <br>Die Behauptung, Regierungen und Geheimdienste führten unter falscher Flagge Terroranschläge durch, wird trotz einer Vielzahl dokumentierter Fälle von den Mainstream-Medien immer wieder als »Verschwörungstheorie« abgetan.<br> <br>Nachdem man jahrzehntelang alles abgestritten hatte, räumte die CIA im August 2013 letztlich ein, im Rahmen der Operation am Sturz des iranischen Ministerpräsidenten Mohammed Mossadegh im August 1953 beteiligt gewesen zu sein. Im Rahmen von AJAX steuerte die CIA verdeckte Operationen, zu denen auch Terroranschläge unter falscher Flagge gehörten, bei denen an die 300 Menschen getötet wurden.<br> <br>2. Der Zwischenfall im Golf von Tonkin<br> <br>Am 4. August 1964 wandte sich der amerikanische Präsident Lyndon B. Johnson in einer im Fernsehen übertragenen Rede an das amerikanische Volk und erklärte, Nordvietnam habe amerikanische Kriegsschiffe angegriffen. »Wiederholten Gewaltakten gegen die Streitkräfte der Vereinigten Staaten muss nicht nur mit einer verstärkten Alarmbereitschaft, sondern mit einer entsprechenden Antwort begegnet werden. Diese Antwort wird gerade, während ich hier heute Abend spreche, erteilt.«<br><br>Der Kongress verabschiedete drei Tage später die Resolution zum Golf von Tonkin, die Johnson rückwirkend ermächtigte, militärisch gegen Nordvietnam vorzugehen. 1969 kämpften bereits mehr als 500.000 amerikanische Soldaten in Südostasien.<br> <br>Johnson und sein Verteidigungsminister Robert McNamara hatten den Kongress und die amerikanische Bevölkerung belogen. Nordvietnam hatte entgegen den Behauptungen des Pentagon das amerikanische Kriegsschiff USS Maddox zu keiner Zeit angegriffen. Und die »unwiderlegbaren Beweise« für einen »unprovozierten« zweiten Angriff auf das amerikanische Kriegsschiff waren lediglich ein Täuschungsmanöver.<br> <br>3. Operation Gladio: Vom Staat unterstützter Terrorismus sollte den Linken in die Schuhe geschoben werden<br><br>Nach dem Zweiten Weltkrieg arbeiteten die CIA und der britische Geheimdienst MI6 unter dem Dach der NATO im Rahmen der Operation Gladio eng zusammen. Dabei wurden paramilitärische Einheiten aufgebaut, die im Falle eines Angriffs des Warschauer Paktes auf Westeuropa im Rücken des Gegners (Stay-Behind-Operationen) operieren sollten. Aber Gladio ging rasch weit über die Grenzen seiner eigentlichen Mission hinaus und entwickelte sich zu einem verdeckten Terrornetzwerk, das aus rechtsgerichteten Milizen, Kreisen des organisierten Verbrechens, Provokateuren und geheimen paramilitärischen Einheiten bestand. Diese Netzwerke waren in Frankreich, Belgien, Dänemark, den Niederlanden, Norwegen, Deutschland und der Schweiz aktiv.<br><br>Gladios »Strategie der Spannung« zielte darauf ab, linke politische Gruppen in Europa als Terroristen darzustellen und so die Bevölkerung in Angst und Schrecken zu versetzen, damit diese dann eher autoritär regierende Regierungen wählte. Um dieses Ziel zu erreichen, führten Gladio-Agenten zahlreiche Terroranschläge mit vielen Opfern durch, für die dann Linke und Marxisten verantwortlich gemacht wurden.<br> <br>So verübten Gladio-Agenten im August 1980 einen Bombenanschlag auf den Bahnhof von Bologna, bei dem 85 Menschen ums Leben kamen. Zunächst wurden die italienischen Roten Brigaden für den Anschlag verantwortlich gemacht, aber später stellte sich heraus, dass faschistische Kreise innerhalb der italienischen Geheimpolizei und Licio Gelli, der Chef der Freimaurerloge Propaganda Due, hinter dem Anschlag standen. Andere faschistische Gruppen, wie die Avanguardia Nazionale und Ordine Nuovo, waren ebenfalls an Terroranschlägen beteiligt. Im Rahmen der von Gladio verübten Terroranschläge wurden hunderte Menschen in ganz Europa getötet.<br> <br>Nach Aussagen von Vincenzo Vinciguerra, einem Gladio-Terroristen, der eine lebenslange Haftstrafe wegen Mordes an Polizisten verbüßt, war die Begründung für Gladio recht einfach. Man wollte erreichen, dass sich die italienische Bevölkerung an den Staat wendet und größere Sicherheit fordert. Diese politische Logik steckt hinter allen Massakern und Bombenanschlägen, die nicht verfolgt und bestraft werden, denn der Staat kann sich ja nicht selbst bestrafen oder für Straftaten die Verantwortung übernehmen.<br><br>4. Operation Northwood<br><br>In dem verdeckten Krieg gegen das kommunistische Regime auf Kuba im Rahmen der CIA-Operation Mongoose schlug der Vereinigte Generalstab einstimmig vor, der Staat selbst solle Terroranschläge in den USA unterstützen.<br> <br>Zu den Plänen gehörte der Abschuss entführter amerikanischer Flugzeuge, die Versenkung amerikanischer Schiffe und die Ermordung amerikanischer Bürger auf offener Straße in Washington. Diese bizarren Pläne schlossen sogar eine inszenierte Katastrophe bei der Weltraumbehörde NASA ein, bei der der Astronaut John Glenn ums Leben kommen sollte.<br> <br>Präsident John F. Kennedy, der sich von dem massiven Fehlschlag der von der CIA verpfuschten »Schweinebucht-Invasion« noch nicht erholt hatte, lehnte den Plan aber im März 1962 ab. Wenige Monate später verweigerte Kennedy dem treibenden Kopf hinter diesen Plänen, General Lyman Lemnitzer, eine zweite Amtszeit als ranghöchster amerikanischen Offizier. Im November 1963 wurde Kennedy in Dallas ermordet.<br><br>5. Der Überfall auf den Sender Gleiwitz<br><br>Beim Überfall auf den deutschen Radiosender Gleiwitz am 31. August 1939 handelt es sich um eine Operation unter falscher Flagge, die von der SS unter dem Decknamen Unternehmen Tannenberg durchgeführt wurde. Für den Überfall wurden polnische Soldaten verantwortlich gemacht.<br> <br>Deutsche SS-Angehörige hatten sich polnische Uniformen angezogen und den Sender besetzt, der sich ganz in der Nähe der polnischen Grenze befand. Nun wurde das Programm unterbrochen und eine Meldung in polnischer Sprache abgesetzt. Ein Oberschlesier, der sich in Haft befand, wurde in eine polnische Uniform gesteckt und später getötet, damit der Eindruck entstünde, der Überfall sei von Polen verübt worden. Am nächsten Tag marschierte Deutschland in Polen ein, wobei Hitler den Vorfall als Vorwand für sein Handeln benutzte. Neun Tage vor dem Überfall hatte Hitler vor seinen Generälen erklärt: »Ich werde propagandistischen Anlass zur Auslösung des Krieges geben, gleichgültig, ob glaubhaft. Der Sieger wird später nicht danach gefragt, ob er die Wahrheit gesagt hat oder nicht.«<br>Anmerkung der Redaktion:<br><br>In einer Eidesstattlichen Erklärung für den Nürnberger Prozess sagte SS-Strumbannführer Alfred Naujocks aus, dass er von SD-Chef Reinhard Heydrich ausersehen worden sei, mit fünf oder sechs ausgesuchten polnisch sprechenden Männern einen Überfall auf den Gleiwitzer Sender vorzutäuschen, weil man einen Kriegsgrund gegen Polen brauchte. Diese Aussage, die die Massenmedien weltweit verbreiteten ist mit Vorsicht zu genießen, da sie verschiedene Widersprüche enthielt, die bis heute nicht abschließend geklärt sind.<br><br>6. Tabakkonzerne fügen absichtlich und bewusst den Zigaretten süchtig machende Zusatzstoffe hinzu<br> <br>Verschwörungen werden nicht immer nur von Regierungen betrieben, sie können sich auch gegen Verbraucher richten. Wie die BBC berichtete, wurden amerikanische Tabakkonzerne dabei erwischt, dass sie bewusst Zigaretten mit einem höheren Suchtfaktor entwickelten, indem sie ihnen Zusatzstoffe hinzufügen, die künstlich einen suchtverstärkenden Kick des Produktes erzeugten und den Geschmack verbesserten.<br> <br>Clive Bates von der Anti-Rauchen-Organisation ASH sagte, diese Entdeckung enthülle »einen Skandal, bei dem die Tabakindustrie absichtlich Zusatzstoffe einsetze, um ihre gesundheitsschädlichen Produkte noch schlechter zu machen«.<br><br>7. Operation Fast and Furious<br> <br>Die Operation Fast and Furious, mit der die Regierung Obama angeblich darauf abzielte, den mexikanischen Drogenbaronen Waffen in die Hände zu spielen, um dann den Weg der Waffen zu verfolgen und damit die Drogenbanden auffliegen lassen zu können, war tatsächlich eine Verschwörung, um die Befürworter des zweiten Verfassungszusatzes zu dämonisieren.<br> <br>Aus Dokumenten, die dem amerikanischen Nachrichtensender CBS News im Dezember 2011 zugespielt wurden, geht hervor, dass Beamte der amerikanischen Bundespolizeibehörde AFT darüber diskutierten, wie sie Schusswaffen, die an Gewalttaten in Mexiko beteiligt waren, mit Waffenhändlern in den USA in Verbindung bringen könnten, um auf diese Weise auf eine Verschärfung der Waffengesetze hinzuwirken. Eine Quelle aus einer Strafverfolgungsbehörde erklärte gegenüber CBS News, die E-Mails deuteten darauf hin, dass die AFT als Teil einer politischen Kampagne das Problem selbst geschaffen habe. »Man hat den Eindruck, AFT habe das Problem geschaffen oder verstärkt, damit sie gleich auch die Lösung für das Problem präsentieren und dafür die Anerkennung einheimsen könne. Das ist eine Art Zirkelschluss«, meinte die Quelle.<br> <br>8. Die Massenüberwachung und -ausspähung durch die NSA<br> <br>Als in den 1990er-Jahren Aktivisten für den Schutz der Privatsphäre und Medienpersönlichkeiten vor den umfassenden Spionageoperationen der NSA im Inland warnten, wurden sie als paranoide Verschwörungstheoretiker abgetan. Bereits mehr als zehn Jahre vor den Enthüllungen Edward Snowdens war die NSA im Rahmen des Echelon-Projektes  eifrig dabei, sämtliche elektronische Kommunikationen weltweit abzufangen und aufzuzeichnen.<br> <br>1999 räumte die australische Regierung ein, das Land sei zusammen mit den USA und England an einem von der NSA geleiteten Abfang- und Überwachungsprogramm mit Namen Echelon beteiligt, das in der Lage sei, »jedes internationale Telefongespräch, jedes Fax, jede E-Mail oder Radioübertragung« weltweit abzufangen und mitzuverfolgen. In einem Bericht des europäischen Parlaments aus dem Jahr 2001 heißt es, die »NSA fängt routinemäßig innerhalb Europas alle E-Mails sowie Telefon- und Faxkommunikation ab«.<br><br>9. Drogenhandel der CIA<br> <br>Der amerikanische Geheimdienst Central Intelligence Agency (CIA) war sowohl im Ausland, als auch in den USA selbst am Drogenhandel beteiligt. Dies gilt insbesondere für die Zeit der Iran-Contra-Affäre, als Contra-Angehörige mit Wissen der CIA Kokain in die USA schmuggelten, das dann als Crack Kokain in Los Angeles auftauchte. Die Gewinne daraus kamen den Contras zugute. Der frühere Polizist aus Los Angeles, Michael Ruppert, sagte aus, er persönlich habe miterlebt, wie die CIA im Drogenhandel mitgemischt habe.<br> <br>Führende mexikanische Drogenbarone wie etwa Jesus Vincente Zambada Niebla haben öffentlich bestätigt, sie seien von der amerikanischen Regierung für Drogenhandel angeheuert worden. Zahlreiche Hinweise und Beweise bestätigen, dass die CIA und amerikanische Großbanken zu den führenden Akteuren im weltweiten Drogengeschäft gehören, das einen Jahresumsatz von hunderten Milliarden Dollar erzielt. Viele dieser Informationen verdanken wir etwa Gary Webb.<br><br>10. CIA-Giftpfeil löst Herzanfall aus<br> <br>»Das tödliche Gift gerät schnell in die Blutbahn und löst einen Herzanfall aus. Sobald das Gift seinen Zweck erfüllt hat, löst es sich rasch auf und lässt sich auch bei einer Obduktion nur schwer nachweisen, sodass der Eindruck entsteht, der Herzanfall habe natürliche Ursachen gehabt. Hört sich das nicht wie die perfekte Waffe eines James Bond an? Und dies alles findet man in den Protokollen von Aussagen vor dem Senat«, schrieb Fred Burks.<br> <br>»Der Pfeil dieser geheimen CIA-Waffe kann die Kleidung durchdringen und hinterlässt lediglich einen kleinen roten Punkt auf der Haut. Bei dem Einstich, den der tödliche Pfeil hervorruft, hat das ausersehene Opfer vielleicht nur den Eindruck, von einer Mücke gestochen worden zu sein oder bemerkt gar nichts. Der Giftpfeil löst sich vollständig auf, wenn er sein Ziel getroffen hat.«<br><br>Burk ist der Auffassung, der Journalist Mark Pittman, der die Finanzkrise vorhergesagt und auf Fehlverhalten der US-Zentralbank Federal Reserve hingewiesen hatte, was zu ei4nem Rechtsstreit von Bloomberg gegen das »Bankster-Kartell« führte, sei möglicherweise mit dieser Waffe ermordet worden.<br><br>Querverwerweise:<br><br>[1] CIA Confirms Role in 1953 Iran Coup<br>http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB435/<br><br>[2] Wikipedia: operation Ajax<br>http://de.wikipedia.org/wiki/Operation_Ajax<br><br>[3] The spectre of Operation Ajax<br>http://www.theguardian.com/politics/2003/aug/20/foreignpolicy.iranv<br><br>[4] Wikipedia: Gladio<br>http://de.wikipedia.org/wiki/Gladio<br><br>[5] Wikipedia: Anschlag von Bologna 1980<br>http://de.wikipedia.org/wiki/Anschlag_von_Bologna_1980<br><br>[6] Wikipedia: Propaganda Due <br>http://dde.wikipedia.org/wiki/Propaganda_Due<br><br>[7] Wikipedia: Operation Mongoose <br>http://de.wikipedia.org/wiki/Operation_Mongoose<br><br>[8] important articles on Operation Northwoods<br>http://www.attackonamerica.net/operationnorthwoods.htm<br><br>[9]  Der Überfall auf den Sender Gleiwitz<br>http://www.h-ref.de/krieg/polen/gleiwitz/ueberfall-sender-gleiwitz.php<br><br>[10] Cigarettes 'engineered' for addiction<br>http://www.theguardian.com/politics/2003/aug/20/foreignpolicy.iran<br><br>[11] US-Regierung gibt offen zu, mexikanische Drogenbanden mit 30.000 Waffen beliefert zu haben http://bit.ly/1tqEV2i<br><br>[12] Documents: ATF used \"Fast and Furious\" to make the case for gun regulations http://www.cbsnews.com/news/documents-atf-used-fast-and-furious-to-make-the-case-for-gun-regulations/<br><br>[13] Wikipedia: Bureau of Alcohol, Tobacco, Firearms and Explosives<br>http://de.wikipedia.org/wiki/Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives<br><br>[14] Wikipedia: Echelon<br>http://de.wikipedia.org/wiki/Echelon<br><br>[15] Echelon spy network revealed<br>http://news.bbc.co.uk/2/hi/503224.stm<br><br>[16] Bericht über die Existenz eines globalen Abhörsystems für private und wirtschaftliche Kommunikation http://bit.ly/1w2EKby<br><br>[17] Iran-Contra-Affäre<br>http://de.wikipedia.org/wiki/Iran-Contra-Aff%C3%A4re<br><br>[18] Top Mexican Drug Lord: I Trafficked Cocaine For The U.S. Government http://www.infowars.com/top-mexican-drug-lord-i-trafficked-cocaine-for-the-u-s-government/<br><br>[19] Evidence Begins To Indicate Gary Webb Was Murdered<br>http://www.examiner.com/article/cia-secret-weapon-of-assassination#ixzz1o9XXfvbG<br><br>[20] Mark Pittman, Reporter Who Challenged Fed Secrecy, Dies. http://exm.nr/1tqIuWc<br><br>[21] CIA Secret Weapon of Assassination <br>http://www.examiner.com/article/cia-secret-weapon-of-assassination#ixzz1o9XXfvbG",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "link": {
+                    "description": "Drei Tage lang treffen sich jedes Jahr die mächtigsten Politiker und Wirtschaftsbosse der Welt in luxuriösen Hotels, \"privat\" und hinter den Kulissen der Weltpolitik für ein rein informellen Meinungsaustausch? Ein Treffen, wo...",
+                    "image_src": "http://cs627624.vk.me/v627624393/437bc/GH1sDff_woQ.jpg",
+                    "title": "Verschwörung der Machtelite",
+                    "url": "http://equapio.com/de/politik/bilderberg-club/"
+                },
+                "type": "link"
+            },
+            "attachments": [{
+                "link": {
+                    "description": "Drei Tage lang treffen sich jedes Jahr die mächtigsten Politiker und Wirtschaftsbosse der Welt in luxuriösen Hotels, \"privat\" und hinter den Kulissen der Weltpolitik für ein rein informellen Meinungsaustausch? Ein Treffen, wo...",
+                    "image_src": "http://cs627624.vk.me/v627624393/437bc/GH1sDff_woQ.jpg",
+                    "title": "Verschwörung der Machtelite",
+                    "url": "http://equapio.com/de/politik/bilderberg-club/"
+                },
+                "type": "link"
+            }],
+            "comments": {"count": 0},
+            "date": 1458855430,
+            "from_id": 350683393,
+            "id": 24160,
+            "likes": {"count": 0},
+            "post_id": 24056,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1458386948,
+            "from_id": 283555586,
+            "id": 22665,
+            "likes": {"count": 2},
+            "post_id": 22622,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "[id330670661|Günter], es ist keine Verschwörungstheorie, es ist eine reale Verschwörung. Jeder in der Politik weiß davon, tut aber nichts, sind sie nicht alle verdummt in den transatlantischen Netzwerken, wo Viel Geld fließt. Bayerns Aigner schwenkt auch plötzlich um auf die Vorteile von TTIP",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "photo": {
+                    "access_key": "1a85f2883d680451f1",
+                    "aid": -7,
+                    "created": 1457850829,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 406957084,
+                    "post_id": 21274,
+                    "src": "http://cs629406.vk.me/v629406232/3d47b/f56o2N_ac_8.jpg",
+                    "src_big": "http://cs629406.vk.me/v629406232/3d47c/E79SGDSL8C0.jpg",
+                    "src_small": "http://cs629406.vk.me/v629406232/3d47a/qKJst7rJvG4.jpg",
+                    "src_xbig": "http://cs629406.vk.me/v629406232/3d47d/YlGEEIGIRlw.jpg",
+                    "src_xxbig": "http://cs629406.vk.me/v629406232/3d47e/m9grzdrMXYs.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            },
+            "attachments": [{
+                "photo": {
+                    "access_key": "1a85f2883d680451f1",
+                    "aid": -7,
+                    "created": 1457850829,
+                    "height": 628,
+                    "owner_id": -86775514,
+                    "pid": 406957084,
+                    "post_id": 21274,
+                    "src": "http://cs629406.vk.me/v629406232/3d47b/f56o2N_ac_8.jpg",
+                    "src_big": "http://cs629406.vk.me/v629406232/3d47c/E79SGDSL8C0.jpg",
+                    "src_small": "http://cs629406.vk.me/v629406232/3d47a/qKJst7rJvG4.jpg",
+                    "src_xbig": "http://cs629406.vk.me/v629406232/3d47d/YlGEEIGIRlw.jpg",
+                    "src_xxbig": "http://cs629406.vk.me/v629406232/3d47e/m9grzdrMXYs.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1200
+                },
+                "type": "photo"
+            }],
+            "comments": {"count": 70},
+            "date": 1457850829,
+            "from_id": -86775514,
+            "id": 21274,
+            "likes": {"count": 254},
+            "post_type": "post",
+            "reposts": {"count": 71},
+            "text": "Wahlfälschung in Freiburg! Wenn man sich auf der Internetseite der Stadt Freiburg über die heute anstehenden Landtagswahlen informieren möchte, wird man auf die Seite \u201eFritz-Online-Statistik\u201c verlinkt und dort fand man gestern, einen Tag vor den Wahlen, Interessantes. In Freiburg scheint man nämlich schon gewählt zu haben. Auf der offiziellen Seite der Stadt gab es gestern zumindest schon es Diagramme und konkrete Zahlen[1] [2] [3] zum heutigen Wahlergebnis. Das Wahlergebnis für Freiburg wird demnach also ein totaler Reinfall für die AfD und ein voller Erfolg für die amtierenden Blockparteien. Die Alternative für Deutschland hingegen scheitert, politisch korrekt und wie vom Merkel-Regime gewünscht, mal wieder knapp an der Fünfprozenthürde. Anbei die Screenshots und eine Kopie der originalen Internetseite der Stadt Freiburg: <br><br>Archivierte Original-Internetseite der Stadt Freiburg<br>https://archive.is/7jXvl<br><br>Stadt Freiburg - Landtagswahl 2016 - Wahlkreis 46<br>https://sciencefiles.files.wordpress.com/2016/03/freiburg-landtagswahl-2016-ii.jpg<br><br>Stadt Freiburg - Landtagswahl 2016 - Wahlkreis 47<br>https://sciencefiles.files.wordpress.com/2016/03/freiburg-landtagswahl-2016-i.jpg<br><br>Uns stellt sich nun die Frage, hat die Stadt Freiburg ein städtisches Medium mit Kristallkugel oder steht tatsächlich schon fest, wie morgen ausgezählt werden wird? Sollte es sich tatsächlich um einen Versuch handeln, eine Wahlfälschung durchzuführen, dürfte dies mittels eines einfachen Vergleichs des amtlichen Wahlergebnisses nach der Wahl mit diesen Daten möglich sein, zu beweisen.<br><br>Es stellt sich die Frage, wie so etwas denn überhaupt möglich ist. Immerhin kann niemand in die Zukunft sehen und schon im Vornhinein wissen, wie die Bürger der Stadt am Sonntag abstimmen werden. Es drängt sich der Verdacht auf, dass hier schon angesichts der zu erwartenden Stimmengewinne der Alternative für Deutschland (AfD) im von den Grünen und CDU dominierten Bundesland ein wenig \"nachgeholfen\" wird, die Landtagswahl entsprechend zu beeinflussen und die Zahl der Stimmen für die AfD niedrig zu halten.<br><br>Der Sprecher vom Oberbürgermeister Dieter Salomon (Grüne) versuchte[4] die Wahlfälschung gegenüber dem Springer-Blatt \"Welt\" klein zu reden und Zweifel zu zerstreuen. Man habe überprüfen wollen, ob die Namen der Kandidaten bei einer bestimmten Länge der Prozentstimmen-Balken noch gut sichtbar wären auf dem Smartphone. Mit Wahlbetrug habe das nichts zu tun. «Es gibt keine Verschwörung, es war ein technischer Fehler durch menschliches Versagen.»<br><br>Der Blog ScienceFiles, der das Ganze öffentlich machte, hält dagegen[5] und fragt: «Wieso man, wenn man die Balkenlänge prüfen will, für jeden Wahlkreis und jeden Wahlbezirk Ergebnisse simulieren muss, ist eine Frage, auf die wir zumindest keine Antwort wissen.» <br><br>Querverweise:<br><br>[1] Alarm aus Freiburg: Wahlfälschung schon losgegangen?<br>https://juergenelsaesser.wordpress.com/2016/03/12/alarm-aus-freiburg-wahlfaelschung-schon-losgegangen/<br><br>[2] Wahlfälschung in Freiburg?<br>http://www.pi-news.net/2016/03/wahlfaelschung-in-freiburg/<br><br>[3] Landtagswahl Baden-Württemberg: Vorab schon Wahlfälschung in Freiburg?<br>https://www.contra-magazin.com/2016/03/landtagswahl-baden-wuerttemberg-vorab-schon-wahlfaelschung-in-freiburg/<br><br>[4] Freiburg stellt Test-Wahlergebnisse online<br>http://www.welt.de/regionales/baden-wuerttemberg/article153228612/Freiburg-stellt-Test-Wahlergebnisse-online.html<br><br>[5] Wahlbetrug? In Freiburg ist die Landtagswahl schon heute ausgezählt<br>http://sciencefiles.org/2016/03/12/wahlbetrug-in-freiburg-ist-die-landtagswahl-schon-heute-ausgezaehlt/",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1457019707,
+            "from_id": 348979591,
+            "id": 19869,
+            "likes": {"count": 1},
+            "post_id": 19844,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Ausserdem ist das gar nicht die Asyl-Lobby. EXPERTEN die anonym bleiben wollen und anonyme Hinweise haben die Ermittler auf eine Spur geführt, dass dahinter eine Kreml-Verschwörung ist. Putin hat mit Assad geredet und die wollen die EU/Deuschen jetzt fertig machen. WAS? Glaubt ihr nicht?<br><br>http://www.t-online.de/nachrichten/deutschland/gesellschaft/id_76884774/so-laeuft-russlands-propaganda-maschine.html<br><br>http://www.t-online.de/nachrichten/ausland/internationale-politik/id_77151204/experte-ueber-putin-propaganda-ihr-deutschen-seid-so-naiv-.html<br><br>Ahja und das ist diesmal keine Verschwörungstheorie das is ne echte False-Flag!! Jeder der das nicht glaubt ist ein Nazi!! Putin ist Schuld!!",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1456952651,
+            "from_id": 323820030,
+            "id": 19580,
+            "likes": {"count": 0},
+            "post_id": 19042,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "klar sehen die das viel deutlicher aber eben ohne völlig abstruse theorien,übrigens ist die abtreibungsproblematik kein rein deutsches phänomen,gibt es in allen westlichen ländern also keine blöse verschwörung sondern nur der zeitgeist",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1456850650,
+            "from_id": 323820030,
+            "id": 19123,
+            "likes": {"count": 0},
+            "post_id": 19042,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "[id348262263|John], das ist aber eine US Zionischtische Waffe nicht das da wieder eine Verschwörung drinn steckt",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1455223800,
+            "from_id": 323521987,
+            "id": 10792,
+            "likes": {"count": 8},
+            "post_id": 10452,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Ich befürchte das der Russe und der Ami in Syrien ins geheimen eine gemeinsame Sache durchführen! Wie kann es denn sein das die A10 Thunderbolt Flieger der US Airforce über die Türkei in den Syrischen Luftraum eindringen ohne das die Russische Luftabwehr Typ S300 und 400 diese Feindlichen Flieger unter beschuß genommen hat. Es wurde doch vom Asad Regime und von Russischer Seite betont, das jedes Fremde Militär Flugzeug ohne Mandat abgeschossen ggf. Abgefangen wird! Das was in der Stadt Aleppo und allgemein in Syrien passiert stinkt stark nach einer Verschwörung von Amerikanischer sowie von Russischer Seite! Und wir sollen glauben das, das Russland nur auf Terroristen jagt geht aber lässt den Ami ohne Mandat in den Syrierischen Luftraum, schon klar, die Stecken alle unter einer decke!",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1453842414,
+            "from_id": 338265726,
+            "id": 6122,
+            "likes": {"count": 3},
+            "post_id": 6053,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Diese \"Invasoren\" sind mittel zum Zweck. Ihr peilt es nicht. DIe Elite will, dass sich rechte, linke und Muslime die köppe einschlagen. Sie wollen die Destabilisierung Europas und Anonymous bzw.ihr User merkt es nicht. Hier geht nicht um Deutscher, Türke, Schweizer, Syrer etc. Wir gehen langsam aber sicher zur neuen NWO zu. Es ein Teil des Plans.<br><br>\"Um eine Neue Ordnung zu erschaffen, muss man erst die alte zerstören.\"  Zitat eines ehemaligen Insiders namens Dr. Richard Day.<br><br>Die NWO ist das Endziel einer Verschwörung, die eine Ultradiktatur durch die Infiltrierung aller Systeme errichten will, auch bekannt unter dem harmlosen Begriff Globalisierung. Die Aufgabe der Medien ist dabei die entsprechende Überzeugungsarbeit zu leisten.<br><br>Wir stehen kurz vor dem Untergang aller Gesellschaftsformen - wie wir sie kennen - und vor dem Eintritt in ein dunkles und sadistisches Zeitalter, welches im Zuge der Entmachtung des Volkes nur noch Sklaven und Fürsten kennen wird (= mittelalterliches Feudalsystem). Der künftige Weltherrscher lebt bereits unter uns und wird von der Elite ausgebildet und auf den Tag seiner Machtergreifung sowohl vorbereitet als auch trainiert. Die Zeit seiner Herrschaft nähert sich mit großer Geschwindigkeit und wird Überraschungen mit sich bringen, die die Menschheit in großes Erstaunen versetzen wird. Der kommende Weltherrscher entstammt jener mächtigen Blutlinie, welche auf die Zeiten der Merowinger, Sigambrier, des Römischen Imperiums, der Griechen und des Stammes der Dan zurückgeht.<br><br>ES TRIFFT langsam alles ein! WACHT AUF. die wollen euch mit den flüchtlingen auf den falschen weg setzten!!!",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1453842231,
+            "from_id": 338265726,
+            "id": 6120,
+            "likes": {"count": 9},
+            "post_id": 6103,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Diese \"Invasoren\" sind mittel zum Zweck. Ihr peilt es nicht. DIe Elite will, dass sich rechte, linke und Muslime die köppe einschlagen. Sie wollen die Destabilisierung Europas und Anonymous bzw.ihr User merkt es nicht. Hier geht nicht um Deutscher, Türke, Schweizer, Syrer etc. Wir gehen langsam aber sicher zur neuen NWO zu. Es ein Teil des Plans.<br><br>\"Um eine Neue Ordnung zu erschaffen, muss man erst die alte zerstören.\" Zitat eines ehemaligen Insiders namens Dr. Richard Day.<br><br>Die NWO ist das Endziel einer Verschwörung, die eine Ultradiktatur durch die Infiltrierung aller Systeme errichten will, auch bekannt unter dem harmlosen Begriff Globalisierung. Die Aufgabe der Medien ist dabei die entsprechende Überzeugungsarbeit zu leisten.<br><br>Wir stehen kurz vor dem Untergang aller Gesellschaftsformen - wie wir sie kennen - und vor dem Eintritt in ein dunkles und sadistisches Zeitalter, welches im Zuge der Entmachtung des Volkes nur noch Sklaven und Fürsten kennen wird (= mittelalterliches Feudalsystem). Der künftige Weltherrscher lebt bereits unter uns und wird von der Elite ausgebildet und auf den Tag seiner Machtergreifung sowohl vorbereitet als auch trainiert. Die Zeit seiner Herrschaft nähert sich mit großer Geschwindigkeit und wird Überraschungen mit sich bringen, die die Menschheit in großes Erstaunen versetzen wird. Der kommende Weltherrscher entstammt jener mächtigen Blutlinie, welche auf die Zeiten der Merowinger, Sigambrier, des Römischen Imperiums, der Griechen und des Stammes der Dan zurückgeht.<br><br>ES TRIFFT langsam alles ein! WACHT AUF. die wollen euch mit den flüchtlingen auf den falschen weg setzten!!!",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1452343596,
+            "from_id": 342619883,
+            "id": 4784,
+            "likes": {"count": 0},
+            "post_id": 4765,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Mein Gott! <br>Nicht alles Lüge! <br>Es wurden nur noch Lügen hinzugefügt! Von wem? Warum? Keine Ahnung! <br>Fakz ist,  dass sich Schauspieler als Opfer und Zeugen hinstellen! <br>Und Anonymus das nicht aufklärt! <br>Sonst sind sie für jede Verschwörung zu haben,  wie der Kopp Verlag. Aber,  nun sind sie still?! Warum?",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1452343551,
+            "from_id": 342619883,
+            "id": 4783,
+            "likes": {"count": 0},
+            "post_id": 4765,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Mein Gott! <br>Nicht alles Lüge! <br>Es wurden nur noch Lügen hinzugefügt! Von wem? Warum? Keine Ahnung! <br>Fakz ist,  dass sich Schauspieler als Opfer und Zeugen hinstellen! <br>Und Anonymus das nicht aufklärt! <br>Sonst sind sie für jede Verschwörung zu haben,  wie der Kopp Verlag. Aber,  nun sind sie still?! Warum?",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "photo": {
+                    "access_key": "1751d0d514f4b9b39b",
+                    "aid": -7,
+                    "created": 1428262690,
+                    "height": 576,
+                    "owner_id": -86775514,
+                    "pid": 359957833,
+                    "post_id": 1101,
+                    "src": "http://cs622621.vk.me/v622621232/256ad/JYPB4jYtOFg.jpg",
+                    "src_big": "http://cs622621.vk.me/v622621232/256ae/vRLum1szDeU.jpg",
+                    "src_small": "http://cs622621.vk.me/v622621232/256ac/NuiZ5ZdDXVs.jpg",
+                    "src_xbig": "http://cs622621.vk.me/v622621232/256af/ehD9bWjWEQ8.jpg",
+                    "src_xxbig": "http://cs622621.vk.me/v622621232/256b0/vvN2Q_boUcY.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1024
+                },
+                "type": "photo"
+            },
+            "attachments": [{
+                "photo": {
+                    "access_key": "1751d0d514f4b9b39b",
+                    "aid": -7,
+                    "created": 1428262690,
+                    "height": 576,
+                    "owner_id": -86775514,
+                    "pid": 359957833,
+                    "post_id": 1101,
+                    "src": "http://cs622621.vk.me/v622621232/256ad/JYPB4jYtOFg.jpg",
+                    "src_big": "http://cs622621.vk.me/v622621232/256ae/vRLum1szDeU.jpg",
+                    "src_small": "http://cs622621.vk.me/v622621232/256ac/NuiZ5ZdDXVs.jpg",
+                    "src_xbig": "http://cs622621.vk.me/v622621232/256af/ehD9bWjWEQ8.jpg",
+                    "src_xxbig": "http://cs622621.vk.me/v622621232/256b0/vvN2Q_boUcY.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1024
+                },
+                "type": "photo"
+            }],
+            "comments": {"count": 1},
+            "date": 1428262688,
+            "from_id": -86775514,
+            "id": 1101,
+            "likes": {"count": 26},
+            "post_type": "post",
+            "reposts": {"count": 11},
+            "text": "Bildboykott: Der Protest muss auf die Straße! Die Anti-Springer-Proteste im Jahre 1968 und was #Bildboykott daraus lernen kann. Autorin Anabel Schunke über Wege des Widerstandes gegen Hetzpresse und Medienmanipulation. In einem Spiegel Artikel von 1968 ist folgenden zu lesen. Zitat: Der Verleger Axel Cäsar Springer beherrscht einen Großteil des deutschen Zeitungsmarktes. Diese Machtstellung wird bei der öffentlichen Meinungsbildung wie auch im wirtschaftlichen Leben rigoros ausgenutzt \u2026 Die Springer-Zeitungen sind außerdem Musterbeispiele publizistischer Verantwortungslosigkeit. Es wird nicht objektiv berichtet \u2014 viele Richter wissen das aufgrund der falschen Gerichtsberichte über eigene Verhandlungen (auch in Esslingen sind konkrete Fälle bekannt) -, sondern aus Stimmungsmache, oder um einen Knüller zu haben, die Wahrheit gebogen, ja, es wird effektiv gelogen. So wird im nicht politischen Sektor wahrheitswidriger, gefühlsbetonter Klatsch gemacht; im politischen Sektor, wo nicht so leicht zwischen Wahrheit und Unwahrheit unterschieden werden kann, wird zumindest die Kritik eliminiert und nur eine bestimmte Meinung gemacht. Was dies bei DER Verbreitung insbesondere der \u201cBILD-Zeitung\u201d bei der einfacheren Bevölkerung bedeutet, bedarf keiner Erörterung. Zitat Ende. [1] [2]<br><br>Weiter heißt es inb esagten Artikel: <br><br>[...] Daß hier nur die Studenten aktiv wurden, ist bezeichnend für unsere Gesellschaft. Bei der auch von den Parlamentariern beklagten Interessenlosigkeit und Staatsverdrossenheit zahlreicher Bürger ist es von großer Bedeutung, daß wenigstens die Studenten als zukünftige Elite des Volkes sich mit den politischen Problemen auseinandersetzen und ihre staatsbürgerlichen Pflichten ernst nehmen. Manches Problem (auch außerhalb der Hochschulreform) wäre in den letzten Jahren nicht erkannt und nicht angegangen worden, wenn die Studenten nicht protestiert oder gar auf die Straße gegangen wären \u2026[...] Diese Reaktionen eines Teiles der Studenten können deshalb auch nicht einfach als Ausdruck der Unreife und Unausgeglichenheit randalierender Jugendlicher abgetan werden. So erfolgte auch die Demonstration am 12.4.1968 bei einem großen Teil der beteiligten Studenten in echtem Bewußtsein staatsbürgerlicher Gesinnung. Dies mußte bei der Frage nach der Verwerflichkeit mit berücksichtigt werden. Ins Gewicht fiel auch die Tatsache. daß unsere Gesellschaft den Widerstand von insbesonders jungen Leuten und Studenten dort begrüßt, wo er in anderen Ländern gegen Unfreiheit und Unterdrückung geleistet wird (Bürgerrechtsbewegung in Amerika, Widerstand der Tschechen gegen die Besetzung ihres Landes, Protest gegen die Demonstrationsprozesse in Moskau&gt;. Unsere Gesellschaft muß es auch begrüßen und politisch auch verkraften können, wenn gegen ihre eigenen Mißstände angegangen wird.[...][2]<br><br>Von Anabel Schunke<br><br>Fast 50 Jahre ist es her, dass sich im Zuge der Ereignisse der Jahre 1967/68 ein Anti-Springer-Protest erhob, der bis heute einmalig ist. Der RAF-Experte Butz Peters schreibt in seinem Standardwerk zur Geschichte der RAF \u201eTödliche Falle\u201c hierzu: \u201eNeben all den theoretischen Diskussionen und endlosen Demonstrationen versuchen die Studenten, vor allem zwei ihrer Ziele auch praktisch anzugehen: Springer und die Justiz.\u201c Die Eskalation kommt mit dem Dutschke-Attentat am 11. April 1968. Als Josef Bachmann, ein 23jähriger Anstreicher aus München dem Studentenführer ganz in der Nähe seiner Berliner Wohnung mit den Worten \u201eDu dreckiges Kommunistenschwein\u201c in Wange, Kopf und Schulter schießt, ist dies für viele Studenten nur ein weiterer Gewaltausbruch des Systems. So erklärt der SDS nur wenige Stunden später auf einem Flugblatt:<br><br>\u201eUngeachtet der Frage, ob Rudi das Opfer einer politischen Verschwörung wurde: Man kann jetzt schon sagen, dass dieses Verbrechen nur die Konsequenz der systematischen Hetze ist, welche Springer-Konzern und Senat in zunehmendem Maße gegen die demokratischen Kräfte in dieser Stadt betrieben haben.\u201c<br><br>Die Zahl der Demonstranten, die daraufhin in den nächsten Tagen in Berlin gegen Verlag und Verleger demonstrieren, geht in die Zehntausende. Sie rufen \u201eSpringer \u2013 Mörder\u201c und \u201eEnteignet Springer\u201c. Barrikaden werden errichtet, Fahrzeuge des Springer-Verlages brennen. Der Protest breitet sich aus. In über 20 Städten wird damals gegen Springer demonstriert. Es wird versucht, die Auslieferung der BILD zu verhindern. Wieder brennen Zeitungstransporter, Scheiben von Verlagsniederlassungen werden zertrümmert. Es sind, wie Peters feststellt, \u201edie schlimmsten Straßenschlachten seit der Weimarer Republik\u201c. In München werden bei schweren Ausschreitungen sogar zwei Menschen getötet.<br><br>Es ist unschwer zu erkennen, dass der damalige Protest die heutigen zaghaften Boykott-Aufrufe mühelos verblassen lässt. Der zu Anfang dieses Textes abgedruckte Auszug aus einem Einstellungsbeschluss des Esslinger Amtsgerichts vom 22. Oktober 1968 belegt darüber hinaus, dass es keinesfalls nur die Studenten waren, die Kritik am Springer-Verlag übten. Die Begründung der Ablehnung der Eröffnung eines Hauptverfahrens wegen Nötigung gegen den Anti-Springer-Demonstranten Franz-Otto Müller (er hatte vor der Ausfahrt des Esslinger Bechtle-Verlages geparkt, um die Auslieferung der \u201eBILD-Zeitung\u201c zu verzögern), zeigt auf eindrucksvolle Weise wie kritisch selbst die Justiz (in Teilen) als staatliches Organ zum damaligen Zeitpunkt das Treiben des Verlages wahrnahm. So stellt die oben zu lesende Begründung nicht nur ein Lehrstück für die Demokratie dar, welches wir nicht vergessen sollten, sie zeigt auch auf, wie lange dieses Blatt schon weitestgehend unbehelligt mit den gleichen hetzerischen Methoden arbeitet, die uns auch heute noch begegnen. Nicht umsonst bekommt man beim Lesen dieses Auszuges den Eindruck, dass er genauso gut auch heute hätte verfasst werden können.<br><br>Warum Facebook-Veranstaltungen nicht ausreichen<br><br>Und ja, dieser Tage regt sich erneuter Protest gegenüber den hetzerischen und reißerischen Methoden, insbesondere des Springer-Hetzblattes Nr. 1, der BILD. Nachdem zuvorderst das linke Spektrum über die Jahre hinweg immer wieder Kritik und Empörung gegenüber der BILD-Hetze \u2013 vor allem in Bezug auf die Griechenland-Berichterstattung \u2013 äußerte, erzeugte die schamlose Berichterstattung der BILD in Bezug auf den Germanwings-Absturz vor mehr als einer Woche schließlich eine breitere, gesellschaftliche Empörung und zahlreiche Aufrufe zum Boykott des Schmierblattes. An dieser Stelle möchte ich konstatieren, dass ich diese Entwicklung gut und richtig finde, möchte aber auch deutlich machen, dass derlei Aufrufe im Internet auch in der heutigen digitalisierten Zeit für mich nicht als ausreichend angesehen werden können.<br><br>Wir alle konnten anhand der diesjährigen Blockupy-Demonstrationen in Frankfurt beobachten wie wichtig es ist, dass die Konflikte auf die Straße getragen werden. Es mag unterschiedliche Meinungen dazu geben, ob das Anzünden von Polizeiwagen etc. eine angemessene Form des Protestes darstellt, ob es sich überhaupt um eine Form des Protestes oder doch nur um das Werk einer gewaltbereiten Minderheit, die solche Veranstaltungen für sich nutzt, um mal \u201eordentlich die Sau herauszulassen\u201c, handelt. Was sich jedoch einheitlich feststellen lässt, ist eine nie zuvor dagewesene Aufmerksamkeit und \u2013 zur Verwunderung einiger \u2013 endlich auch eine von den Medien geführte inhaltliche Debatte über das, was Blockupy kritisiert und fordert, wo in den Jahren zuvor nur kalte Ignoranz der Mehrheit herrschte. Und nein, ich möchte damit nicht zur Gewalt aufrufen bzw. Gewalt auf allen Ebenen des Protestes legitimieren. Ich möchte lediglich aufzeigen, dass es in unseren modernen Zeiten des visuellen, medialen Überflusses aufmerksamkeitserregender Maßnahmen bedarf. Das muss und sollte nicht zuvorderst die Gewalt sein (vor allem nicht gegenüber Personen), sondern vielmehr eine Ansammlung im kreativen Sinne radikaler Aktionen gegen Konzerne wie den von Springer. Und die finden auf der Straße statt und nicht im Internet auf Facebook und Co.<br><br>Ich selbst nutze mein Facebook-Profil zuvorderst als Netzwerk, als Informationsteiler. In meinem Netzwerk befinden sich mehr als 1700 Menschen. Viele aus dem politischen Spektrum, viele aber auch aus ganz anderen Bereichen. Ich selbst bekomme täglich dutzende Veranstaltungseinladungen. Hier eine Einladung für irgendein Club-Event, da ein Aufruf zum Boykott von irgendetwas. Was ich hier so salopp ausdrücke, ist leider bittere Wahrheit. Aufrufe zu irgendwelchen Boykotten, Links zu irgendwelchen Petitionen, Einladungen zu irgendwelchen Mahnwachen, Demos etc. sind zwar eine gute Maßnahme, um auf einen Schlag viele Menschen ansprechen zu können, die man sonst nicht so leicht erreichen würde, aber leider werden diese Möglichkeiten der digitalen Vernetzung und Mobilmachung so inflationär genutzt, dass sie allein nicht ausreichen, um eine breite Aufmerksamkeit und vielleicht im Zuge dessen irgendwann ein Massenbewusstsein gegenüber bestimmten Themen zu schaffen. Sie bleiben in der Regel nichts weiter als Biotope für die ohnehin schon Interessierten.<br><br>Nein, wir müssen raus. Raus auf die Straße. Es reicht nicht nur, virtuelle Zusagen von Menschen für einen Boykott zu bekommen, die ohnehin nicht die BILD-Zeitung lesen. Die meisten von uns werden wenige BILD-Leser in ihrer Liste haben, die sie einladen können und wieso sollten diese eine solche Veranstaltung zusagen? Ohne Background-Wissen, ohne vorheriges Bewusstsein darüber, was eigentlich so falsch an der BILD und an Springer im Generellen ist. Wir zäumen das Pferd von hinten auf und das funktioniert nicht. So erreichen wir nicht den BILD-Leser, nicht den, der für die Auflage dieses Blattes eigentlich verantwortlich ist. Und ja, natürlich wird der BILD-Leser auch nicht gegen die BILD auf die Straße gehen. Aber er wird zusehen wie andere es tun, wenn sie nur genug Aufmerksamkeit damit erregen. Mit einer Facebook-Veranstaltung erreicht man diese breite Aufmerksamkeit nicht.<br><br>Erst wenn der Konflikt, die Kritik ihren Ausdruck auf der Straße findet, wenn das, was falsch läuft, reale Gesichter, reale Bilder bekommt, die im Bestfall von Fernsehen und etablierter Presse begleitet werden, bemerkt der normale Bürger, dass etwas nicht stimmt, dass seine heile Welt nicht wirklich heile ist. Die Proteste in Frankfurt haben es gezeigt. Ein digitales Lagerfeuer des vornehmlich linken Spektrums ist nichts gegen einen wirklichen Brand auf öffentlichen Straßen. Dieser Brand muss und soll keine Gewalt darstellen, dieser Brand kann auch das kreative Feuer des Protestes oder das große Feuer einer Menge von Demonstranten sein, die auf der Straße ihr Gesicht gegen die Hetze, die seit 50 Jahren ungebrochen ist, zeigen. Es ist an der Zeit, Zeichen zu setzen. Nicht in Form der Anzahl der Leute, die wir auf Facebook zum Boykott eingeladen haben, sondern in Form der Anzahl der Leute, die wir mobilisieren und auf die Straße bringen, wenn wir selbst als Beispiel voranschreiten.<br><br>Nun könnte man einwenden, dass die Reaktionen auch auf Blockupy in erster Linie negativ waren. Dass sich gerade der gemeine BILD- und WELT-Leser darüber empört haben wird, wie viel die \u201clinken Krawallmacher\u201d den Steuerzahler kosten würden und dass diese Wut jegliche Auseinandersetzungen mit dem Thema auf anderer Ebene unterdrückt haben werden, aber so einfach ist es meiner Meinung nach nicht. Denn am Ende des Tages wird auch der ein oder andere von ihnen darüber nachgedacht haben, was Bilder von brennenden Autos und wütenden Menschen auf der Straße bedeuten und dass diese sicherlich kein Zeichen dafür sind, dass alles in Ordnung ist. Denn Gewalt, Wut auf der Straße, das kennt man sonst nur von anderen Ländern, nicht aber aus dem Deutschland der Ära Merkel. Dem Wachkoma-Patienten Europas, der sich doch sonst kollektiv mit den Worten \u201cDeutschland geht es gut.\u201d hypnotisieren lässt.<br><br>Es sind die realen, die sichtbaren Aktionen von Menschen, die sich zusammenschließen, die auf der einen Seite Kräfte freisetzen und auf der anderen Seite Bewusstsein darüber schaffen, dass etwas nicht stimmt. Diese Wirkung ist über das Internet nicht zu erzielen. Das Internet kann nie die Radikalität der Wirklichkeit besitzen. Es kann die Wut, die Verzweiflung, die Kritik und den Protest nie so abbilden. Deshalb muss der Protest damals wie heute auf die Straße gebracht werden.<br><br>Lasst es uns angehen!<br><br>Liebe Blogger und Internetnutzer. Bitte teilt diesen Beitrag größtmöglich im Internet, in Foren und Blogs und natürlich auf VKontakte, Facebook und Twitter. Gerade jetzt ist es wichtig, dass wir uns von der deutschen Lügenpresse nicht beirren lassen und eine angemessene Gegenöffentlichkeit herstellen.<br><br>Weitere Informationen zum Thema:<br><br>Nach Germanwings-Berichterstattung: Boykottkampagne gegen die BILD-Zeitung weitet sich aus<br>http://www.rtdeutsch.com/15704/inland/nach-germanwings-berichterstattung-boykottkampagne-gegen-die-bild-zeitung-weitet-sich-aus<br><br>Anmerkungen:<br><br>Ein erste Demonstration ist bereits in Planung: https://www.facebook.com/events/460716550743331/<br><br>Übersichtskarte der Einzelhändler die Bild boykottieren: <br>http://bildfrei.sebastian-pertsch.de/<br><br>Querverweise:<br><br>[1] Bildboykott\u2013 Der Protest muss auf die Straße!<br>http://www.rtdeutsch.com/16070/meinung/bild_boykott-der-protest-muss-auf-die-strasse/<br><br>[2] Der Spiegel Heft 45/1968<br>http://www.spiegel.de/spiegel/print/d-45935115.html",
+            "to_id": -86775514
+        },
+        {
+            "attachment": {
+                "photo": {
+                    "access_key": "e53e7e581430c1c135",
+                    "aid": -7,
+                    "created": 1425591682,
+                    "height": 576,
+                    "owner_id": -86775514,
+                    "pid": 356519691,
+                    "post_id": 814,
+                    "src": "http://cs622020.vk.me/v622020232/1ff46/eM-JIXgD3TM.jpg",
+                    "src_big": "http://cs622020.vk.me/v622020232/1ff47/DS8tBhpl7gA.jpg",
+                    "src_small": "http://cs622020.vk.me/v622020232/1ff45/tB8od9UbfNo.jpg",
+                    "src_xbig": "http://cs622020.vk.me/v622020232/1ff48/P77T9cL4DF8.jpg",
+                    "src_xxbig": "http://cs622020.vk.me/v622020232/1ff49/uI-ED_2QWJA.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1024
+                },
+                "type": "photo"
+            },
+            "attachments": [{
+                "photo": {
+                    "access_key": "e53e7e581430c1c135",
+                    "aid": -7,
+                    "created": 1425591682,
+                    "height": 576,
+                    "owner_id": -86775514,
+                    "pid": 356519691,
+                    "post_id": 814,
+                    "src": "http://cs622020.vk.me/v622020232/1ff46/eM-JIXgD3TM.jpg",
+                    "src_big": "http://cs622020.vk.me/v622020232/1ff47/DS8tBhpl7gA.jpg",
+                    "src_small": "http://cs622020.vk.me/v622020232/1ff45/tB8od9UbfNo.jpg",
+                    "src_xbig": "http://cs622020.vk.me/v622020232/1ff48/P77T9cL4DF8.jpg",
+                    "src_xxbig": "http://cs622020.vk.me/v622020232/1ff49/uI-ED_2QWJA.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 1024
+                },
+                "type": "photo"
+            }],
+            "comments": {"count": 0},
+            "date": 1425591681,
+            "from_id": -86775514,
+            "id": 814,
+            "likes": {"count": 16},
+            "post_type": "post",
+            "reposts": {"count": 7},
+            "text": "NSU-Leaks: Die »Temme-Desinformation« BRD schützt Beamte des Verfassungsschutzes die möglicherweise direkt an den NSU-Morden beteiligt waren! Während Beate Zschäpe seit Jahren in U-Haft sitzt und der Staatsanwalt keinen einzigen Beweis für eine Tatbeteiligung vorweisen kann, befindet sich der Verfassungsschützer Andreas Temme auf freien Fuß. Im Gegenssatz zu Zschäpe war Temme nachweislich bei 6 von 10 Morden am Tatort oder in Tatortnähe. Die Rolle des Staatsbediensteten Temme, der nach kriminalistischen Standards als dringend tatverdächtig gelten und an Zschäpes Stelle schon lange in U-Haft sitzen müsste, spielt in den NSU-Ermittlungen keinerlei Rolle. Vielmehr werden die tatsächlichen Hintergründe vollumfänglich und systematisch vertuscht. <br><br>In diesen Tagen sorgt die NSU-Staatsaffäre erneut für Aufregung brodeln. Der Grund ist die längst bekannte Gegenwart des hessischen Verfassungsschutzbeamten Andreas Temme beim Mord an Halit Yozgat und seine auffälligen Telefongespräche mit dem rechtsradikalen V-Mann Benjamin Gärtner (Codename »Gemüse« \u2013 VP389), der angeblich Kontakt zum sogenannten NSU gehabt haben soll. Viel interessanter ist, was alles nicht berichtet und nicht gefragt wird \u2026<br><br>Telefonate und neue Erkenntnisse<br> <br>Yozgat war das neunte Mordopfer der sogenannten »Döner-Mord-Serie«. Er wurde am 6.4.2006 in einem Internetcafé in Kassel mit zwei Kopfschüssen regelrecht hingerichtet. Durch neue Beweise in Form abgehörter Telefonate von Andreas Temme ist in diese Geschichte nun frischer Wind gekommen. Diese Telefonate wurden z.B. am Wochenende sehr ausführlich bei der Welt[2] behandelt.<br><br>Sie legen den Verdacht nahe, dass Temme direkt oder indirekt in den Mord involviert gewesen sein könnte. Zudem gibt es hierdurch einen neuen dünnen »Missing Link« zum NSU-Fall, da der von Temme geführte V-Mann Benjamin Gärtner angeblich Kontakte zum sogenannten NSU hatte.<br> <br>Die Nebenklageanwälte haben mittlerweile neue Beweismittelanträge eingereicht. Sogar der hessische Ministerpräsident und ehemalige hessische Innenminister Volker Bouffier muss derzeit fürchten, in diese Angelegenheit hineingezogen zu werden. Er hat eine Informationssperre über eventuell involvierte V-Männer Temmes verhängt, um diese Quellen zu schützen. Der Presse-Mainstream hat sich mittlerweile auf den Verfassungsschutz eingeschossen und will offensichtlich eine Verschwörung zwischen Verfassungsschutz und Rechtsterrorismus herbeischreiben.<br> <br>Sind solche Spekulationen wirklich schlüssig? Wir denken: Nein. Wir werden beleuchten, wie plausibel die neuen Interpretationen für die Anwesenheit Temmes »zur falschen Zeit am falschen Ort« sind. Dazu greifen wir auf die Akten zurück, die Dank des Whistleblowers »fatalist«[3] im Internet verfügbar sind.<br> <br>»Unschuldslämmer« Yozgats?<br><br>Halit Yozgat, nach dem mittlerweile ein Platz in Kassel benannt und für den auch eine Gedenktafel aufgestellt wurde, war laut Akten aus dem fatalist-Leak[4] nach Auskunft von Zeugen nicht gerade fleißig, verkehrte[5] des Öfteren im Rotlichtmilieu und war in der Schule deutlich unterdurchschnittlich[6]. Halit Yozgat ging zum Zeitpunkt seiner Ermordung seit einigen Monaten zur Abendschule, um seine Mittlere Reife nachzuholen. Die Geschichte mit dem Abendgymnasium, wie das der Vater Ismail Yozgat in einem Interview mit der Zeit erzählte, ist also geschönt, so wie wahrscheinlich einiges an seinen Ein- bzw. Auslassungen. Wir erwähnen das nur wegen der Glaubwürdigkeit dieses Nebenklägers[7].<br> <br>Gegen den ermordeten Halit Yozgat lief außerdem ein Ermittlungsverfahren wegen Versicherungsbetruges im Zusammenhang mit fingierten Autounfällen.<br> <br>Hinweise auf Drogenhandel<br> <br>Das Internetcafé, in dem Halit Yozgat meistens nachmittags arbeitete, wurde knapp ein Jahr lang von Oktober 2004 bis September 2005 wegen Betäubungsmittelkriminalität[8] albanischer Dealer beobachtet. Es gab auch Vernehmungen von Zeugen, die auf Probleme Yozgats mit Türken[9] hindeuten, die offenbar über Gefängniserfahrung verfügten und auf das spätere Opfer anscheinend einschüchternde Wirkung hatten.<br> <br>Des Weiteren gab es nach dem Mord Probleme, die Herkunft großer Geldmengen[10] (130 000 DM) zu erklären, die ein Onkel des Ermordeten, Halim Yozgat, in Immobilien und einer Holding angelegt hatte. Vater Ismail Yozgat betrieb außerdem im Jahre 2001 schon ein Café namens »Anadolu Cay Evi«, in dem Heroingeschäfte[11] abgewickelt wurden und das zum Showdown für einen Erpressungs-, Bedrohungs- und Drogenfall wurde.<br><br>Peinliche Ermittlungspanne<br> <br>Halit Yozgat benutzte insgesamt vier Handys. Das ist ebenfalls auffällig, da es einen konspirativen Eindruck hinterlässt. Eines seiner Handys wurde nach seinem Tod von einem Autopsiehelfer des Klinikums Kassel entwendet, der es merkwürdigerweise in der Hosentasche (!) der Leiche entdeckte. Die Daten darauf konnten nicht wiederhergestellt[12] werden \u2013 ein sehr seltsamer Ermittlungsfehler, der nicht gerade sonderlich glaubwürdig ist \u2013 eigentlich gar nicht.<br> <br>Drogenmilieu-V-Mann »Mehmet«<br> <br>Ein weiterer Hinweis in Richtung Drogenhandel wurde am 22.8.2011, also nicht mal drei Monate vor dem unglaubwürdigen NSU-Start, vom Spiegel[13] berichtet. Demzufolge gab es kurz vor dem Mord einen Hinweis eines V-Manns namens »Mehmet« aus dem türkischen Drogenmilieu. Dieser behauptete, dass die deutschen Behörden kurz vor dem Mord darüber informiert wurden, dass in Yozgats Internetcafé in Kassel »wieder etwas geplant« sei. Dieser Informant wusste angeblich von der Serie und der verwendeten Tatwaffe Ceska 83, was das Wort »wieder« im letzten Satz erklärt. Der V-Mann stellte sogar seine Mithilfe beim Auffinden der Tatwaffe gegen ein Entgegenkommen in seinem eigenen Fall in Aussicht.<br> <br>Nach dieser Information sei das Lokal vom Geheimdienst beschattet worden. Der Name »Temme« ist beim Lesen dieses Satzes so ziemlich das Erste, was einem in den Sinn kommt.<br> <br>Alternative zum »Motiv-Vakuum«<br> <br>Anders gefragt: Könnte dieser Hinweis von »Mehmet« vielleicht die Anwesenheit von Andreas Temme erklären? Vermutlich besser als das Vakuum, das man neuerdings mit der Mutmaßung einer angeblichen Zusammenarbeit von Rechtsterrorismus und Verfassungsschutz zu füllen versucht.<br> <br><br>Realistisch betrachtet gibt es derzeit keine plausible Erklärung, weder für Temmes Anwesenheit während der Tat, noch für einen Mord durch die angeblichen Rechtsterroristen Uwe Mundlos und Uwe Böhnhardt. Überhaupt macht Rechtsterrorismus, der auf vollkommen unwichtige Personen wie Halit Yozgat abzielt, praktisch keinen Sinn, vor allem nicht mit Wissen und unter den Augen des Verfassungsschutzes.<br> <br>Selbst wenn es innerhalb des Verfassungsschutzes eine Verschwörung geben sollte, die das Ziel hat, Rechtsterrorismus zu ermöglichen, wie kommt man dann ausgerechnet auf ein Opfer wie den 21-jährigen Yozgat? Solch eine Tat wäre aus der Sicht von Terroristen kaum zielführend \u2013 besonders vor dem Hintergrund der hohen eingegangenen Risiken. Seltsamerweise gab es auch nie Bekennerschreiben, weshalb man hilfsweise das fünf Jahre später erschienene, äußerst suspekte Paulchen-Panther-Video[14] als solches akzeptierte.<br> <br>Vielmehr ist äußerst unglaubwürdig, was derzeit diskutiert wird: Temme soll ausgerechnet an diesem Tag in dem Internetcafé gesessen und angeblich sogar etwas über den bevorstehenden Mord gewusst haben.<br> <br>Hintergrund dieser Überlegungen ist ein Telefonat mit Temmes Kollegen Hess, in dem folgender Satz gefallen sein soll: »Ich sach ja jedem, äh, wenn er weiß, dass irgendwo so etwas passiert: Bitte nicht vorbeifahren!« Ahnte Temme aufgrund der »Mehmet«-Aussage lediglich, dass etwas derartiges irgendwann möglich sei, oder aber wusste er genau, dass es just an diesem Tag, dem 6.4.2006 um 17:01 Uhr tatsächlich stattfinden werde?<br> <br>Absichtliche Beweise in einem Mordfall?<br><br>Die eigentliche Frage lautet: Warum sollte ein Verfassungsschutzbeamter vor Ort sein, wenn er Hinweise auf einen bevorstehenden Mord gehabt hätte? Warum hinterlässt er unnötigerweise Fingerabdrücke und DNA? Warum surft er in dieser heiklen Situation auch noch auf für einen verheirateten Mann möglicherweise peinlichen Seiten wie iLove[15] mit einem dank angegebener Handynummer leicht zu identifizierendem Account namens »wildman70«?[15]<br> <br>Wie sich jetzt deutlich zeigt, kann ein solches Verhalten nur Probleme nach sich ziehen. Temmes gesamte Aussage zum Vorgang ist ja schon seit Jahren nicht glaubwürdig. Natürlich hätte er den toten Yozgat beim Verlassen des Internetcafés sehen müssen \u2013 die Räumlichkeiten[16] und die Lage der Leiche erzwingen dies praktisch! Selbst das »50-Cent«-Stück, das er auf dem Tresen platzierte, macht stutzig, weil der Tresen direkt neben seinem Geldstück blutbesudelt[17] ist.<br><br>Sündenbock Temme?<br> <br>Vor allem aber: Warum verhindert der Verfassungsschutz bzw. Temme die Tat nicht? Die Anwesenheit Temmes macht doch keinen Sinn, bzw. nur dann, wenn er eben nicht wusste, dass dort etwas Derartiges passieren wird. Tatsächlich ist gerade die Anwesenheit Temmes ein klares und starkes Indiz dafür, dass er eben kein Vorwissen der Tat hatte.<br> <br>Temme könnte auch einfach über seine Kontakte aus dem islamistischen V-Mann-Milieu dorthin bestellt worden sein, um später eine Spur in Richtung Verfassungsschutz zu legen. Temme wäre ja nicht der Erste, der an einen Tatort bestellt wird, um ihn hinterher damit zu belasten, oder zumindest um eine falsche Spur zu legen. Im Geheimdienstdunstkreis ist so ein Vorgehen ein wohlbekannter Schachzug. Dort nennt man Personen, die man an einen geplanten Tatort lockt, um sie zu kompromittieren, einen »Patsy«.[18]<br> <br>Stammkunde Temme<br><br>Derzeit wird viel über die Anwesenheit Temmes im Internetcafé berichtet. Die wichtigste Information fehlt allerdings, nämlich die Tatsache, dass Temme dort Stammkunde[19] war und der Vater des Mordopfers ihn angeblich wochenlang kannte und auch bei einer polizeilichen Befragung eindeutig identifiziert hat. Das »wochenlang« ist nur deshalb fraglich, weil Temme sogar eine viel weitergehende Aussage machte. Er sagte, dass er seit 2003, also seit drei Jahren, in diesem Internetcafé Kunde war.<br> <br>Das aber kann ebenfalls nicht ganz stimmen, da der Laden erst 2004 eröffnet wurde. Was stimmt also nun? Wie lange kannte Temme das Lokal bzw. wie lange kannten die Yozgats Temme? Waren die Beziehungen zu Temme auch noch anderer Art, z.B. beruflich motiviert? War ein Mitglied der Yozgat-Familie möglicherweise ein Informant, ein V-Mann? Ist diese Frage jemals gestellt worden und falls nein, warum nicht?<br> <br>Nach alldem erscheint ein Mord im Drogenmilieu nicht weniger wahrscheinlich als einer durch NSU-Terroristen. Es ist ja nach wie vor mysteriös, um nicht zu sagen unerklärlich, warum sich Uwe Böhnhardt und Uwe Mundlos ausgerechnet Halit Yozgat als Opfer auserkoren haben sollen?<br> <br>Tatsächlich erscheint das Motiv, das für den NSU-Mord kolportiert wurde, an den Haaren herbeigezogen, während ein Motiv im Drogenbereich durchaus möglich, wenn nicht wahrscheinlich ist. Bei einer kriminalistischen Analyse lautet die zentrale Frage »Warum?«. Und trivialerweise lautet die Antwort meistens: »Geld!«<br> <br>Fazit<br> <br>Durch die neuen Erkenntnisse gerät der Verfassungsschutz extrem unter Druck, wie man an den Problemen von Temme und Bouffier deutlich sehen kann. Es sieht aus, als würde gerade an der Theorie einer Verschwörung innerhalb des Verfassungsschutzes unter Mitarbeit rechtsradikaler V-Männer und der NSU-Terroristen Uwe Mundlos und Uwe Böhnhardt gestrickt, die in der Folge durch die Mainstream Medien verbreitet werden soll. Dies ist exakt die Richtung, die der NSU-Whistleblower »fatalist« bereits vor knapp drei Monaten (!) prognostizierte[20]. Fatalist damals:<br><br>»Diese gescheiterte Kleinst-Terrorzellen-Trio-These, das ist die Version NSU 1.0. Sie wird zurzeit aufgegeben. Ersetzt werden soll sie durch die Version NSU 2.0: Ganz viele Mörder in ganz vielen Städten, Helfer überall sowieso. Daran arbeitet auch die Nebenklage fleißig mit \u2026 . Der Ausweg ist die Variante NSU 2.0: andere Täter, ein größeres Netzwerk, und das mit Wissen des Verfassungsschutzes. Mord unter den Augen nicht der Behörden, sondern mit Wissen eines kleinen verschworenen Kreises von Personen innerhalb der Sicherheitsbehörden. Man darf die Installation eines Sündenbocks namens Verfassungsschutz vermuten, sie ist tatsächlich längst in vollem Gange.«<br>Das wichtige Wort, das man sich merken sollte, lautet »Sündenbock«. Wie schnell sich diese Prognose manifestiert, ist äußerst verblüffend. Kopp Online wird die Entwicklung weiter kritisch beäugen, denn die offensichtlich manipulierten Beweise sind damit nicht vom Tisch. Wir bleiben dran.<br><br>Liebe Blogger und Internetnutzer. Bitte teilt diesen Beitrag größtmöglich im Internet, in Foren und Blogs und natürlich auf VKontakte, Facebook und Twitter. Gerade jetzt ist es wichtig, dass wir uns von der deutschen Lügenpresse nicht beirren lassen und eine angemessene Gegenöffentlichkeit herstellen.<br><br>Querverweise:<br><br>[1] NSU-Affäre \u2013 Die »Temme-Desinformation«<br>http://info.kopp-verlag.de/hintergruende/deutschland/falk-schmidli/nsu-affaere-die-temme-desinformation-.html<br><br>[2] Wie nah war der Verfassungsschutz den NSU-Mördern?<br>http://www.welt.de/politik/deutschland/article137918258/Wie-nah-war-der-Verfassungsschutz-den-NSU-Moerdern.html<br><br>[3] Fatalist NSU Leaks<br>https://sicherungsblog.wordpress.com/<br><br>[4] NSU Leaks: Der letzte Dönermord in Kassel Teil 1 https://sicherungsblog.wordpress.com/2014/07/02/der-letzte-donermord-in-kassel-an-yozgat-und-andreas-temme-teil-1/<br><br>[5] Zeugenaussage<br>https://sicherungsblog.files.wordpress.com/2014/07/f4ddc-knastkumpel.jpg<br><br>[6] Abgangszeugnis<br>https://sicherungsblog.files.wordpress.com/2014/07/d4843-zeugnis.jpg<br><br>[7] »Er starb in meinen Armen«<br>http://www.zeit.de/2012/42/Interview-Yozgat-Opfer-NSU/seite-2<br><br>[8] Aktenvermerk<br>https://sicherungsblog.files.wordpress.com/2014/07/ed0c6-albanerdealer.jpg<br><br>[9] Aktenvermerk<br>https://sicherungsblog.files.wordpress.com/2014/07/4e9d2-3bc3b6setypen.jpg<br><br>[10] Zeugenaussage<br>https://sicherungsblog.files.wordpress.com/2014/07/ab40c-111win2.jpg<br><br>[11] Zeugenaussage<br>https://sicherungsblog.files.wordpress.com/2014/07/99c71-111-ein3.jpg<br><br>[12] Aktenvermerk<br>https://sicherungsblog.files.wordpress.com/2014/07/8e282-handydatenweg.jpg<br><br>[13] Versteck in der Schweiz<br>http://www.spiegel.de/spiegel/print/d-80075315.html<br><br>[14] Paulchen Panther Video<br>http://info.kopp-verlag.de/hintergruende/deutschland/falk-schmidli/nsu-staatsaffaere-das-paulchen-panther-video-stammt-von-einem-trittbrettfahrer.html<br><br>[15] Bericht<br>https://sicherungsblog.files.wordpress.com/2014/07/90269-wildman70.jpg<br><br>[16] Aktenvermerk<br>https://sicherungsblog.files.wordpress.com/2014/07/01927-wildman-3.jpg<br><br>[17] Definition: Patsy<br>http://de.urbandictionary.com/define.php?term=patsy<br><br>[18] Tatortfoto<br>https://sicherungsblog.files.wordpress.com/2014/07/8832a-6.jpg<br><br>[19] NSU Leaks: Der letzte Dönermord in Kassel Teil 2<br>https://sicherungsblog.wordpress.com/2014/07/02/der-letzte-donermord-in-kassel-an-yozgat-und-andreas-temme-teil-2/<br><br>[20] Aktenvermerk<br>https://sicherungsblog.files.wordpress.com/2014/07/c473e-111ein4.jpg<br><br>[20] Neuigkeiten vom NSU-Phantom und Interview mit »Fatalist«<br>http://info.kopp-verlag.de/hintergruende/enthuellungen/falk-schmidli/neuigkeiten-vom-nsu-phantom-und-interview-mit-fatalist-.html",
+            "to_id": -86775514
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1424851883,
+            "from_id": 263520953,
+            "id": 668,
+            "likes": {"count": 3},
+            "post_id": 654,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Yannik, dein Wort in Gottes Ohr. (obhin ich Atheist bin) Aber zurück blickend auf die cuba Krise und andere Sachen wo der Knopfdruck zum Show down Sekunden vor Beginn überdacht wurde. Ich glaube schon das amerikanische Interessen gern sehen würden wie Europa sich im Krieg mit Russland verzehrt. Immerhin bekommt man damit recht schnell die Weltbevölkerung auf weniger als die Hälfte dezimiert. Und es bleiben stellen dieser Welt unberührt wohin diese geldsäcke sich zurück ziehen und ihre Fäden neu zu spinnen beginnen. Das kollektive Bewusstsein solche Sachen zu verhindern ist nicht gegeben. Schon auf den Hinweis dieser chemtrails Geschichte lachen dich die Leute aus und verweisen darauf das Wiki ja sagt... Alles nur Verschwörung. Das die Leute darauf hin an Krebs sterben und dieser Prozess schon über 10 Jahre im Gange ist....  Wenn man es nicht schafft Putin aus dem Amt zu putschen kommt es dicke. Die Zeit ist im Gegensatz zum Hollywood Film aber immer auf der Seite der reaktionäre weil wir Schafe uns gegenseitig fressen, siehe Ukraine. Menschen die heute Wodka trinken gehen erschießen sich 2 Tage später für den großen endsieg. Welcher Endsieg?",
+            "to_id": -86775514
+        }
+    ]
+}}
+{"response": {
+    "groups": [{
+        "gid": 103792634,
+        "is_closed": 0,
+        "name": "Nationale Front [Systemwiderstand]",
+        "photo": "http://cs625131.vk.me/v625131651/4b0a0/ydi9NUi9vyE.jpg",
+        "photo_big": "http://cs625131.vk.me/v625131651/4b09e/362yrQArdjU.jpg",
+        "photo_medium": "http://cs625131.vk.me/v625131651/4b09f/uPL_w_16rik.jpg",
+        "screen_name": "parasitenfrei",
+        "type": "page"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 3484659,
+        "is_closed": 0,
+        "name": "Deutsch, und nur Deutsch",
+        "photo": "http://cs170.vk.me/g3484659/c_da657e79.jpg",
+        "photo_big": "http://cs170.vk.me/g3484659/b_fe593140.jpg",
+        "photo_medium": "http://cs170.vk.me/g3484659/b_fe593140.jpg",
+        "screen_name": "club3484659",
+        "type": "group"
+    }],
+    "profiles": [
+        {
+            "first_name": "Sid",
+            "hidden": 1,
+            "last_name": "Vicious",
+            "online": 1,
+            "online_mobile": 1,
+            "photo": "http://cs620416.vk.me/v620416123/7625/e_37yS79Nm8.jpg",
+            "photo_medium_rec": "http://cs620416.vk.me/v620416123/7624/CrpmQJt54JI.jpg",
+            "screen_name": "id37130123",
+            "sex": 2,
+            "uid": 37130123
+        },
+        {
+            "first_name": "Günter",
+            "last_name": "Niggenaber",
+            "online": 0,
+            "photo": "http://cs627516.vk.me/v627516197/4551a/AN90uUxdHWU.jpg",
+            "photo_medium_rec": "http://cs627516.vk.me/v627516197/45519/4bOJeBIhP7o.jpg",
+            "screen_name": "id347709197",
+            "sex": 2,
+            "uid": 347709197
+        }
+    ],
+    "wall": [
+        2,
+        {
+            "attachment": {
+                "link": {
+                    "description": "Zippyshare.com - Free File Hosting",
+                    "title": "Polizeiliches-Lagebild-in-Fluechtlingsangelegenheiten.PDF ",
+                    "url": "http://bit.ly/1nKF8xe"
+                },
+                "type": "link"
+            },
+            "attachments": [{
+                "link": {
+                    "description": "Zippyshare.com - Free File Hosting",
+                    "title": "Polizeiliches-Lagebild-in-Fluechtlingsangelegenheiten.PDF ",
+                    "url": "http://bit.ly/1nKF8xe"
+                },
+                "type": "link"
+            }],
+            "comments": {"count": 0},
+            "date": 1455630008,
+            "from_id": 347709197,
+            "id": 3452,
+            "likes": {"count": 6},
+            "post_id": 3446,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Peinlich sind die, die der Realität nicht folgen können bzw. sich dem Mainstream untergeordnet haben und weiter einer Spaß - und Spielgesellschaft frönen, während um sie herum eine noch nie dagewesen Selbstzerstörung der Wirtschaft, Finanzen und Kultur geschieht! Bis auf Nero ist es wohl einmalig in der Geschichte, dass eine Regierung sich so wie die der BRD Wirtschafts GmbH gegen das eigenen Volk mit seiner desaströsen Politik wendet! Es gibt zwar Theorien, aber eine Verschwörung betreibt offensichtlich die BRD Regierung und zwar gegen das eigene Volk! Fakten und Tatsachen sind nun mal keine Hetze sondern dringend erforderlich den Schlafmichel kurz vor seiner Selbstzerstörung aufzuwecken! Theorien sind im Übrigen keine Straftaten und das was da am Bahnhof in Köln und etlichen weiteren Städten passiert ist, ist nur ein Vorbote von dem, was uns in den nächsten Monaten von den Invasoren erwartet! Ein 20-seitiger, als Verschlusssache eingestufter Bericht der Polizei, der uns über das COMPACT-Magazin aus dem Innenministerium NRW zugespielt wurde belegt, dass Politik, Medien und Polizeiführung das deutsche Volk systematisch belügen. So offenbart der Bericht einen kontinuierlichen Zustrom von Migranten. Der Bericht verzeichnet für illegal eingereiste Asylforderer im Dezember 2015 beispielsweise, eine unglaubliche Steigerung von 346% im Vergleich zum Vorjahreszeitraum - allein in Nordrhein-Westfalen wohlgemerkt! Download der Dokumente als PDF-Datei: http://bit.ly/1nKF8xe",
+            "to_id": -3484659
+        },
+        {
+            "comments": {"count": 0},
+            "date": 1455629856,
+            "from_id": 37130123,
+            "id": 3451,
+            "likes": {"count": 0},
+            "post_id": 3448,
+            "post_type": "reply",
+            "reposts": {"count": 0},
+            "text": "Verehrter Graf Zahl,<br><br>grundsätzlich kann man die jeweiligen Postings einfach kommentieren, hierzu kann man auf \"Kommentieren\" klicken. Dann wird die Antwort unter dem Posting angezeigt, das erhöht die Lesbarkeit ungemein. Schließlich folgen hier auch Menschen, für die Deutsch eine Fremdsprache ist.<br><br>Oh, ja! Man kann über all diese Dinge vortrefflich diskutieren. Allerdings verlegen sich die Herren Verschwörungstheoretiker lediglich auf den Ausstoß von Hetze, reiner Rhetorik oder purer Propaganda.<br><br>Der verehrte Herr Niggenaber zum Beispiel hat ja gestern diesen Beitrag bezüglich des Hooton-Plans gepostet. Hooton, das weiß der gute Deutsche ja, hatte seinerzeit (1943) vorgeschlagen durch Ansiedlung von Fremden den Deutschen sozusagen das Kriegsgen auszuzüchten. Der Herr Niggenaber, über den mir darüber hinaus in persönlicher Hinsicht nichts negatives bekannt ist, stellt es jetzt so dar als handelte es sich bei unserer Kanzlerin um diejenige die dieses historische Vermächtnis von 1943 nun auf Wunsch der Invasoren (...da meint er wohl die USA) endlich zur Ausführung gelangen lässt. <br><br>Hier gibt es einfach viel zu viele Ansatzpunkte für eine Diskussion.... Waren die USA Invasoren oder Befreier? Die USA war ja nicht allein, sie brachten noch andere Siegermächte mit... Kann man einen solchen propagandistischen Beitrag (immerhin von 1943) überhaupt im Kontext der aktuellen Flüchtlingskrise diskutieren? Ich will es Ihnen sagen, verehrter Graf Zahl. Schon im ersten Satz bekennt er dass er glaubt dies sei eine Verschwörung. Eine Verschwörung der Eliten, der Invasoren und deren folgsamer Vasallin Merkel den aufrechten, allerdings noch etwas verschlafenen Michel zu opfern. <br><br>Diesbezüglich brauche ich wahrscheinlich keine Nachhilfe... Dennoch erkenne ich in diesem dreschen von hohlen Phrasen nur leere Rhetorik... im besten Fall einen zynisch-sarkastischen Bilderwitz. - allerdings ist die Gesamtaussage für fein ziselierte Ironie zu geschlossen.<br><br>So, wer hat mir nun das Recht gegeben diese Sorte von neuen Mitgliedern derart zu ermahnen? Ich sage es Ihnen: Niemand, das Recht nehme ich mir einfach.<br><br>Herzlichst<br><br>Ihr Sid Vicious",
+            "to_id": -3484659
+        }
+    ]
+}}
+{"response": {
+    "groups": [{
+        "gid": 123093744,
+        "is_closed": 0,
+        "name": "COMPACT-Magazin",
+        "photo": "http://cs636816.vk.me/v636816679/12959/Ga1SfAWfkRo.jpg",
+        "photo_big": "http://cs636816.vk.me/v636816679/12956/XLTplosTWC0.jpg",
+        "photo_medium": "http://cs636816.vk.me/v636816679/12958/uK4hK8q-3Ws.jpg",
+        "screen_name": "compact_magazin",
+        "type": "page"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 102277414,
+        "is_closed": 0,
+        "name": "PEGIDA",
+        "photo": "http://cs624322.vk.me/v624322309/50cde/sXiwaYjALGo.jpg",
+        "photo_big": "http://cs624322.vk.me/v624322309/50cdc/FK4fFK5TSdo.jpg",
+        "photo_medium": "http://cs624322.vk.me/v624322309/50cdd/sCAF5TWzh2s.jpg",
+        "screen_name": "club102277414",
+        "type": "page"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 111873813,
+        "is_closed": 0,
+        "name": "KLUB DER PATRIOTEN",
+        "photo": "http://cs628122.vk.me/v628122024/3cb68/40D2Xbac39c.jpg",
+        "photo_big": "http://cs628122.vk.me/v628122024/3cb66/hRwRkcEJkcI.jpg",
+        "photo_medium": "http://cs628122.vk.me/v628122024/3cb67/kGDr0Y1D1W0.jpg",
+        "screen_name": "klubderpatrioten",
+        "type": "page"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}
+{"response": {
+    "groups": [{
+        "gid": 102793936,
+        "is_closed": 0,
+        "name": "Alternative für Deutschland AfD",
+        "photo": "http://cs629509.vk.me/v629509366/162e5/mOJMTp2VXE0.jpg",
+        "photo_big": "http://cs629509.vk.me/v629509366/162df/6H9PkJYqbk4.jpg",
+        "photo_medium": "http://cs629509.vk.me/v629509366/162e4/b8VKr_hd0LE.jpg",
+        "screen_name": "club102793936",
+        "type": "group"
+    }],
+    "profiles": [],
+    "wall": [0]
+}}

@@ -1,0 +1,3098 @@
+{"postList": [
+    {
+        "attachment": {
+            "photo": {
+                "aid": -6,
+                "created": 1452797751,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149622,
+                "post_id": 1,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "aid": -6,
+                "created": 1452797751,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149622,
+                "post_id": 1,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1452797749,
+        "from_id": -111873813,
+        "id": 1,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "aid": -6,
+                "created": 1452797766,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149674,
+                "post_id": 2,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "aid": -6,
+                "created": 1452797766,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149674,
+                "post_id": 2,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1452797766,
+        "from_id": -111873813,
+        "id": 2,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "aid": -6,
+                "created": 1452797775,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149694,
+                "post_id": 3,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "aid": -6,
+                "created": 1452797775,
+                "height": 600,
+                "owner_id": -111873813,
+                "pid": 397149694,
+                "post_id": 3,
+                "src": "http://cs627520.vk.me/v627520024/2c1d4/uxuxtUsnDk4.jpg",
+                "src_big": "http://cs627520.vk.me/v627520024/2c1d5/lTY-6P9bsUY.jpg",
+                "src_small": "http://cs627520.vk.me/v627520024/2c1d3/o_YH7ClAcsY.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 546
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1452797774,
+        "from_id": -111873813,
+        "id": 3,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "79059079edfaf41ccf",
+                "aid": -7,
+                "created": 1452790548,
+                "height": 294,
+                "owner_id": -109123209,
+                "pid": 394934679,
+                "post_id": 981,
+                "src": "http://cs631616.vk.me/v631616467/3feed/uqwRGNtUENE.jpg",
+                "src_big": "http://cs631616.vk.me/v631616467/3feee/6z3wJ456qlI.jpg",
+                "src_small": "http://cs631616.vk.me/v631616467/3feec/QEwZBjRV4d8.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 600
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "79059079edfaf41ccf",
+                "aid": -7,
+                "created": 1452790548,
+                "height": 294,
+                "owner_id": -109123209,
+                "pid": 394934679,
+                "post_id": 981,
+                "src": "http://cs631616.vk.me/v631616467/3feed/uqwRGNtUENE.jpg",
+                "src_big": "http://cs631616.vk.me/v631616467/3feee/6z3wJ456qlI.jpg",
+                "src_small": "http://cs631616.vk.me/v631616467/3feec/QEwZBjRV4d8.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 600
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": -109123209,
+        "copy_post_date": 1452790548,
+        "copy_post_id": 981,
+        "copy_post_type": "post",
+        "date": 1452798503,
+        "from_id": -111873813,
+        "id": 4,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "signer_id": 269823467,
+        "text": "WELCOME TO THE NEW EUROPE: A native European is just walking down the street, until a muslim \u2018refugee\u2019 does this ...",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Vigilante gangs have been roving the streets of Cologne on a \u201cmanhunt\u201d for asylum seekers as the backlash to the New Year\u2019s Eve attacks continues. Among the 11 victims were Pakistani men beaten by a 20-strong mob and Syrian refugee targeted minutes later by a smaller group nearby. Police said they had reinforced officer numbers in the city centre earlier on Sunday after receiving warnings about a group searching for \u201cprovocation\u201d.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c222/b5pgCEqG7ss.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c220/4uJtTwhkmdo.jpg",
+                "title": "Cologne sexual assaults: Vigilante gangs attack asylum seekers after vowing to 'clean up' German city",
+                "url": "http://www.independent.co.uk/news/world/europe/cologne-sexual-assaults-vigilante-gangs-attack-asylum-seekers-after-vowing-to-clean-up-german-city-a6807021.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Vigilante gangs have been roving the streets of Cologne on a \u201cmanhunt\u201d for asylum seekers as the backlash to the New Year\u2019s Eve attacks continues. Among the 11 victims were Pakistani men beaten by a 20-strong mob and Syrian refugee targeted minutes later by a smaller group nearby. Police said they had reinforced officer numbers in the city centre earlier on Sunday after receiving warnings about a group searching for \u201cprovocation\u201d.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c222/b5pgCEqG7ss.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c220/4uJtTwhkmdo.jpg",
+                "title": "Cologne sexual assaults: Vigilante gangs attack asylum seekers after vowing to 'clean up' German city",
+                "url": "http://www.independent.co.uk/news/world/europe/cologne-sexual-assaults-vigilante-gangs-attack-asylum-seekers-after-vowing-to-clean-up-german-city-a6807021.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452799981,
+        "from_id": -111873813,
+        "id": 5,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Europeans are organising into self-defence groups in reaction to the failure of their own governments to protect them from migrant invaders, with one group boasting 13,000 supporters alone.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c242/amLinhqH4BE.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c240/zWZSbN8iduk.jpg",
+                "title": "Police Crack Down Hard As Anti-Migrant Rape Vigilante Groups Emerge Accross Europe",
+                "url": "http://www.breitbart.com/london/2016/01/14/police-crack-down-hard-as-anti-migrant-rape-vigilante-groups-emerge-accross-europe/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Europeans are organising into self-defence groups in reaction to the failure of their own governments to protect them from migrant invaders, with one group boasting 13,000 supporters alone.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c242/amLinhqH4BE.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c240/zWZSbN8iduk.jpg",
+                "title": "Police Crack Down Hard As Anti-Migrant Rape Vigilante Groups Emerge Accross Europe",
+                "url": "http://www.breitbart.com/london/2016/01/14/police-crack-down-hard-as-anti-migrant-rape-vigilante-groups-emerge-accross-europe/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452800247,
+        "from_id": -111873813,
+        "id": 6,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "Crack down hard on the muslim rapists instead.",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "VIGILANTE mobs torched buildings, broke windows and thew fireworks in reaction to the surge of sex crimes in Germany on New Year's Eve, feared to have been committed by asylum seekers.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c247/FHH0lid39ik.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c245/5gW3OM4sI34.jpg",
+                "title": "GERMANY ON THE BRINK: Masked raiders run riot as migrants attacked over sex assaults",
+                "url": "http://www.express.co.uk/news/world/633894/Germany-Sex-assaults-Vigilante-Leipzig-Cologne-Angela-Merkel"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "VIGILANTE mobs torched buildings, broke windows and thew fireworks in reaction to the surge of sex crimes in Germany on New Year's Eve, feared to have been committed by asylum seekers.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c247/FHH0lid39ik.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c245/5gW3OM4sI34.jpg",
+                "title": "GERMANY ON THE BRINK: Masked raiders run riot as migrants attacked over sex assaults",
+                "url": "http://www.express.co.uk/news/world/633894/Germany-Sex-assaults-Vigilante-Leipzig-Cologne-Angela-Merkel"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452800297,
+        "from_id": -111873813,
+        "id": 7,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "The dolls were designed by a man who admitted he is sexually attracted to children - and wanted to help others control their urges",
+                "image_big": "http://cs627520.vk.me/v627520024/2c24c/nRTUDF6YRmA.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c24a/Zkl30xxEyZE.jpg",
+                "title": "Lifelike child sex dolls created to 'stop paedophiles committing crimes'",
+                "url": "http://www.mirror.co.uk/news/world-news/lifelike-child-sex-dolls-created-7177869"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "The dolls were designed by a man who admitted he is sexually attracted to children - and wanted to help others control their urges",
+                "image_big": "http://cs627520.vk.me/v627520024/2c24c/nRTUDF6YRmA.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c24a/Zkl30xxEyZE.jpg",
+                "title": "Lifelike child sex dolls created to 'stop paedophiles committing crimes'",
+                "url": "http://www.mirror.co.uk/news/world-news/lifelike-child-sex-dolls-created-7177869"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452800377,
+        "from_id": -111873813,
+        "id": 8,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "They think this will stop them ? its all about power control and fear these dolls will not satisfy the sick scum.",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Marching with banners and masks, and claiming to be protecting native Finns from immigrants, fears are now growing about the Soldiers of Odin's expanding presence and motivations.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c252/8XhXu9gzGeg.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c250/SFDTm34Pvvw.jpg",
+                "title": "Fears grow over Finland's far-right vigilante group 'Soldiers of Odin'",
+                "url": "http://www.dailymail.co.uk/news/article-3397860/Anti-immigrant-Soldiers-Odin-raise-concern-Finland.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Marching with banners and masks, and claiming to be protecting native Finns from immigrants, fears are now growing about the Soldiers of Odin's expanding presence and motivations.",
+                "image_big": "http://cs627520.vk.me/v627520024/2c252/8XhXu9gzGeg.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c250/SFDTm34Pvvw.jpg",
+                "title": "Fears grow over Finland's far-right vigilante group 'Soldiers of Odin'",
+                "url": "http://www.dailymail.co.uk/news/article-3397860/Anti-immigrant-Soldiers-Odin-raise-concern-Finland.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452800445,
+        "from_id": -111873813,
+        "id": 9,
+        "likes": {"count": 3},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "(Yahoo News Graphic/AP/You Tube)",
+                "image_big": "http://cs627520.vk.me/v627520024/2c260/my6_CTbKxfg.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c25e/nf4_4HMAPk4.jpg",
+                "title": "San Bernardino attacks latest example of Anwar al-Awlaki\u2019s deadly legacy",
+                "url": "https://www.yahoo.com/politics/san-bernardino-attacks-latest-example-1327003987255350.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "(Yahoo News Graphic/AP/You Tube)",
+                "image_big": "http://cs627520.vk.me/v627520024/2c260/my6_CTbKxfg.jpg",
+                "image_src": "http://cs627520.vk.me/v627520024/2c25e/nf4_4HMAPk4.jpg",
+                "title": "San Bernardino attacks latest example of Anwar al-Awlaki\u2019s deadly legacy",
+                "url": "https://www.yahoo.com/politics/san-bernardino-attacks-latest-example-1327003987255350.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452800820,
+        "from_id": -111873813,
+        "id": 10,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Der in Landshut gestartete Bus mit 31 Flüchtlingen hat das Kanzleramt erreicht. Anders als geplant, kommt aber nicht die Bundesregierung oder die Stadt für die Unterbringung der Syrer auf.",
+                "image_big": "http://cs628331.vk.me/v628331928/2bdb1/WyTH6e_f6Gc.jpg",
+                "image_src": "http://cs628331.vk.me/v628331928/2bdaf/R5bxu7JxJns.jpg",
+                "title": "Landrat bezahlt Übernachtung für Syrer aus Flüchtlingsbus",
+                "url": "http://m.welt.de/politik/deutschland/article151034149/Fluechtlingsbus-ist-vor-dem-Kanzleramt-angekommen.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Der in Landshut gestartete Bus mit 31 Flüchtlingen hat das Kanzleramt erreicht. Anders als geplant, kommt aber nicht die Bundesregierung oder die Stadt für die Unterbringung der Syrer auf.",
+                "image_big": "http://cs628331.vk.me/v628331928/2bdb1/WyTH6e_f6Gc.jpg",
+                "image_src": "http://cs628331.vk.me/v628331928/2bdaf/R5bxu7JxJns.jpg",
+                "title": "Landrat bezahlt Übernachtung für Syrer aus Flüchtlingsbus",
+                "url": "http://m.welt.de/politik/deutschland/article151034149/Fluechtlingsbus-ist-vor-dem-Kanzleramt-angekommen.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": -109123209,
+        "copy_post_date": 1452805772,
+        "copy_post_id": 1007,
+        "copy_post_type": "post",
+        "date": 1452805804,
+        "from_id": -111873813,
+        "id": 11,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "WARUM NUR EINER ODER MUSS DAS VOLK ERST ALLE ZUSAMMEN TREIBEN UND SIE WIE VIEH DORTHIN TREIBEN???????",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "1a6770bb7ae1c04a45",
+                "date": 1452856377,
+                "description": "Rhea Page 22 was kicked and punched to the ground in an unprovoked Racist attack on the 19th of June 2010 by 4 Somalian Muslim women who were shouting \"kill the white slag\". on the 6th of December 2011 they all walked free from Leicester Crown Court with a poxy 6 month suspended sentence.  <br> <br>yes they are all on facebook!",
+                "duration": 300,
+                "image": "http://cs627521.vk.me/u337881024/video/l_5f7eb1d7.jpg",
+                "image_big": "http://cs627521.vk.me/u337881024/video/l_5f7eb1d7.jpg",
+                "image_small": "http://cs627521.vk.me/u337881024/video/s_f9673abb.jpg",
+                "image_xbig": "http://cs627521.vk.me/u337881024/video/y_9bc91d5f.jpg",
+                "owner_id": -111873813,
+                "platform": "YouTube",
+                "title": "Racist Attack by 4 Somalian Muslim Girls In Leicester City Centre all walk free from court",
+                "vid": 171320562,
+                "views": 130
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "1a6770bb7ae1c04a45",
+                "date": 1452856377,
+                "description": "Rhea Page 22 was kicked and punched to the ground in an unprovoked Racist attack on the 19th of June 2010 by 4 Somalian Muslim women who were shouting \"kill the white slag\". on the 6th of December 2011 they all walked free from Leicester Crown Court with a poxy 6 month suspended sentence.  <br> <br>yes they are all on facebook!",
+                "duration": 300,
+                "image": "http://cs627521.vk.me/u337881024/video/l_5f7eb1d7.jpg",
+                "image_big": "http://cs627521.vk.me/u337881024/video/l_5f7eb1d7.jpg",
+                "image_small": "http://cs627521.vk.me/u337881024/video/s_f9673abb.jpg",
+                "image_xbig": "http://cs627521.vk.me/u337881024/video/y_9bc91d5f.jpg",
+                "owner_id": -111873813,
+                "platform": "YouTube",
+                "title": "Racist Attack by 4 Somalian Muslim Girls In Leicester City Centre all walk free from court",
+                "vid": 171320562,
+                "views": 130
+            }
+        }],
+        "comments": {"count": 0},
+        "date": 1452856376,
+        "from_id": -111873813,
+        "id": 12,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "IN my home town and the couple are friends of mine.. the police at the end handcuff Lewis...For protecting his girlfriend ....",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Bavarian governor packs 31 migrants onto a coach and sends them to Angela Merkel's office in Berlin",
+                "image_big": "http://cs627521.vk.me/v627521024/2ef13/nq375YriX58.jpg",
+                "image_src": "http://cs627521.vk.me/v627521024/2ef11/XPAvHfoSXxU.jpg",
+                "title": "NFSE",
+                "url": "http://nfse.co.uk/?r=10814&amp;n=6220#6220"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Bavarian governor packs 31 migrants onto a coach and sends them to Angela Merkel's office in Berlin",
+                "image_big": "http://cs627521.vk.me/v627521024/2ef13/nq375YriX58.jpg",
+                "image_src": "http://cs627521.vk.me/v627521024/2ef11/XPAvHfoSXxU.jpg",
+                "title": "NFSE",
+                "url": "http://nfse.co.uk/?r=10814&amp;n=6220#6220"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452856413,
+        "from_id": -111873813,
+        "id": 13,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "\"We are racist, we are racist and we love it.\" <br> <br>That's the chanting Hira had to listen to a she travelled alone on a train. <br> <br>The group of men had already asked if she had a \"bomb un",
+                "image_big": "http://cs627521.vk.me/v627521024/2ef18/a_2-rZXlcZY.jpg",
+                "image_src": "http://cs627521.vk.me/v627521024/2ef16/ObFPXnmCsX4.jpg",
+                "title": "Muslims Are Getting Attacked On UK Streets And No-One's Helping Them",
+                "url": "http://www.huffingtonpost.co.uk/2015/10/17/islamophobic-muslims-islamophobia-abuse-tell-mama_n_8293904.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "\"We are racist, we are racist and we love it.\" <br> <br>That's the chanting Hira had to listen to a she travelled alone on a train. <br> <br>The group of men had already asked if she had a \"bomb un",
+                "image_big": "http://cs627521.vk.me/v627521024/2ef18/a_2-rZXlcZY.jpg",
+                "image_src": "http://cs627521.vk.me/v627521024/2ef16/ObFPXnmCsX4.jpg",
+                "title": "Muslims Are Getting Attacked On UK Streets And No-One's Helping Them",
+                "url": "http://www.huffingtonpost.co.uk/2015/10/17/islamophobic-muslims-islamophobia-abuse-tell-mama_n_8293904.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1452856445,
+        "from_id": -111873813,
+        "id": 14,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "A group of angry migrants have been stopped at a European border holding home-made signs saying \u201cOPEN OR DIE\u201d. As hordes of migrants continue to pour into Europe, an increasing number of European nations have erected fences to attempt to stem the flow.",
+                "image_big": "http://cs629403.vk.me/v629403104/2ba58/NSKzqzgcu50.jpg",
+                "image_src": "http://cs629403.vk.me/v629403104/2ba56/8moQZhNyBoU.jpg",
+                "title": "Muslim \u2018refugees\u2019 have a dark message to Europeans, \u201copen your borders or DIE\u201d",
+                "url": "http://www.jewsnews.co.il/2015/12/08/muslim-refugees-have-a-dark-message-to-europeans-open-your-borders-or-die/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "A group of angry migrants have been stopped at a European border holding home-made signs saying \u201cOPEN OR DIE\u201d. As hordes of migrants continue to pour into Europe, an increasing number of European nations have erected fences to attempt to stem the flow.",
+                "image_big": "http://cs629403.vk.me/v629403104/2ba58/NSKzqzgcu50.jpg",
+                "image_src": "http://cs629403.vk.me/v629403104/2ba56/8moQZhNyBoU.jpg",
+                "title": "Muslim \u2018refugees\u2019 have a dark message to Europeans, \u201copen your borders or DIE\u201d",
+                "url": "http://www.jewsnews.co.il/2015/12/08/muslim-refugees-have-a-dark-message-to-europeans-open-your-borders-or-die/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 2},
+        "copy_owner_id": -99015448,
+        "copy_post_date": 1449717996,
+        "copy_post_id": 17,
+        "copy_post_type": "post",
+        "date": 1452964114,
+        "from_id": -111873813,
+        "id": 15,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Diese Banditen haben doch Recht! Aber genausogut hätten sie schreiben können \"Öffnet die Grenzen und sterbt!\"<br>Eine Meldung aus eigenem Erleben: Der Übungsbetrieb auf dem Truppenübungsplatz unmittelbar neben meinem Wohnort ist seit einigen Tagen wieder in Betrieb, das Übungsschießen geschieht fast pausenlos, und zwar mit Handfeuerwaffen. Ebenfalls seit einigen Tagen wurde die \"Fläming-Kaserne\", mitten in diesem Truppenübungsplatz gelegen, mit ein paar hundert \"Flüchtlingen\" belegt...<br>Ein Schelm, wer Böses dabei denkt...<br><br>http://www.jewsnews.co.il/2015/12/08/muslim-refugees-have-a-dark-message-to-europeans-open-your-borders-or-die/",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "The Swedish state is funding a \u201csniper\u201d training course for recently-arrived Third World \u201crefugees\u201d as part of their \u201cintegration program\u201d\u2014despite the ever-growing refugee-terrorist attacks across Europe. The almost unbelievable plunge\u2026",
+                "image_big": "http://cs631227.vk.me/v631227508/eb99/-gMxinf4Zno.jpg",
+                "image_src": "http://cs631227.vk.me/v631227508/eb97/esKRexrMgRs.jpg",
+                "title": "Sweden: State-funded Muslim \"Sniper\" Training - The New Observer",
+                "url": "http://newobserveronline.com/sweden-state-funded-muslim-sniper-training/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "The Swedish state is funding a \u201csniper\u201d training course for recently-arrived Third World \u201crefugees\u201d as part of their \u201cintegration program\u201d\u2014despite the ever-growing refugee-terrorist attacks across Europe. The almost unbelievable plunge\u2026",
+                "image_big": "http://cs631227.vk.me/v631227508/eb99/-gMxinf4Zno.jpg",
+                "image_src": "http://cs631227.vk.me/v631227508/eb97/esKRexrMgRs.jpg",
+                "title": "Sweden: State-funded Muslim \"Sniper\" Training - The New Observer",
+                "url": "http://newobserveronline.com/sweden-state-funded-muslim-sniper-training/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 4},
+        "copy_owner_id": -109123209,
+        "copy_post_date": 1453115251,
+        "copy_post_id": 1287,
+        "copy_post_type": "post",
+        "date": 1453115270,
+        "from_id": -111873813,
+        "id": 17,
+        "likes": {"count": 4},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "Asylbewerber in Schweden erhalten - wortwörtlich - als \"Teil des Integrationsprogramms\" eine Scharfschützenausbildung! Sind die völlig irre?! \"The Swedish state is funding a \u201csniper\u201d training course for recently-arrived Third World \u201crefugees\u201d as part of their \u201cintegration program\u201d\u2014despite the ever-growing refugee-terrorist attacks across Europe.\"<br>Asylbewerber in Schweden erhalten bleiben - wortwörtlich - als \" Teil des Integrationsprogramms Wadenfitcherei Scharfschützenausbildung! Sind die völlig irre?! \" der schwedische Staat ist die Finanzierung eines \" Scharfschütze \" Ausbildung für vor kurzem angekommen dritte Welt \" Flüchtlinge \" als Teil ihres \" Integrations-Programm \"- Trotz der stetig wachsenden Flüchtlings-Terroranschläge in ganz Europa.\"",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "4d67b24f5ce6407f39",
+                "aid": -7,
+                "created": 1453471169,
+                "height": 330,
+                "owner_id": -111873813,
+                "pid": 398263553,
+                "post_id": 21,
+                "src": "http://cs629101.vk.me/v629101361/32a1f/IfUsh76prNc.jpg",
+                "src_big": "http://cs629101.vk.me/v629101361/32a20/TiDCpUSXXDs.jpg",
+                "src_small": "http://cs629101.vk.me/v629101361/32a1e/P6-JudvvA90.jpg",
+                "src_xbig": "http://cs629101.vk.me/v629101361/32a21/_Vqfo0FI6tE.jpg",
+                "text": "Original: https://scontent-vie1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12510415_1660285834259292_2615649115471775057_n.jpg?oh=07c1111ce4cf9942f586b60e4cc79d34&amp;oe=572D42B7",
+                "user_id": 100,
+                "width": 620
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "4d67b24f5ce6407f39",
+                "aid": -7,
+                "created": 1453471169,
+                "height": 330,
+                "owner_id": -111873813,
+                "pid": 398263553,
+                "post_id": 21,
+                "src": "http://cs629101.vk.me/v629101361/32a1f/IfUsh76prNc.jpg",
+                "src_big": "http://cs629101.vk.me/v629101361/32a20/TiDCpUSXXDs.jpg",
+                "src_small": "http://cs629101.vk.me/v629101361/32a1e/P6-JudvvA90.jpg",
+                "src_xbig": "http://cs629101.vk.me/v629101361/32a21/_Vqfo0FI6tE.jpg",
+                "text": "Original: https://scontent-vie1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12510415_1660285834259292_2615649115471775057_n.jpg?oh=07c1111ce4cf9942f586b60e4cc79d34&amp;oe=572D42B7",
+                "user_id": 100,
+                "width": 620
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1453471167,
+        "from_id": -111873813,
+        "id": 21,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "They cause more trouble than they are worth.",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Share it ... MUST WATCH: 2 naked activists with messages written on their bodies jumped on the stage and disrupted a speech of two imams during the Muslim Salon in France. Many Twitter posts called for the protesters to be stoned or collectively raped. Follow us on Facebook and Twitter Photo: Screenshot In the news: MUST WATCH: [\u2026]",
+                "image_src": "http://cs629101.vk.me/v629101024/30ebd/ms_T6JHdC30.jpg",
+                "title": "18+ WARNING: Must Watch- Topless Women Disrupt Muslim Conference, get Attacked - TLVFaces",
+                "url": "http://www.tlvfaces.com/18-warning-must-watch-topless-women-disrupt-muslim-conference-get-attacked/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Share it ... MUST WATCH: 2 naked activists with messages written on their bodies jumped on the stage and disrupted a speech of two imams during the Muslim Salon in France. Many Twitter posts called for the protesters to be stoned or collectively raped. Follow us on Facebook and Twitter Photo: Screenshot In the news: MUST WATCH: [\u2026]",
+                "image_src": "http://cs629101.vk.me/v629101024/30ebd/ms_T6JHdC30.jpg",
+                "title": "18+ WARNING: Must Watch- Topless Women Disrupt Muslim Conference, get Attacked - TLVFaces",
+                "url": "http://www.tlvfaces.com/18-warning-must-watch-topless-women-disrupt-muslim-conference-get-attacked/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1453669052,
+        "from_id": -111873813,
+        "id": 22,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "0ec8dc938e445ac1e9",
+                "date": 1453738264,
+                "description": "Die Krabbelgruppe POGIDA wollte am 11.01.2016 in der beschaulichen Potsdamer Innenstadt einen kleinen Abendspaziergang machen. Leider waren die POGIDA-Kleinkinder in letzter Zeit etwas unartig. Deshalb mussten sie von ihren Erziehern (der Bundespolizei) beaufsichtigt werden. Das fanden sie total blöd. Sie wurden schließlich die ganze Zeit von Erwachsenen gemobbt und wussten gar nicht wieso. Sie wollten sich einfach nur wehren. Da die Erzieher dazwischen gehen mussten, blieb ihnen nichts anderes übrig als si",
+                "duration": 1316,
+                "image": "http://cs627121.vk.me/u215658720/video/l_14657b94.jpg",
+                "image_big": "http://cs627121.vk.me/u215658720/video/l_14657b94.jpg",
+                "image_small": "http://cs627121.vk.me/u215658720/video/s_e0c3eb3d.jpg",
+                "image_xbig": "http://cs627121.vk.me/u215658720/video/y_b55a8015.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Verwirrte Rechtspopulisten haben sich in Potsdam verfahren | 11.01.2016 | POGIDA/PEGIDA",
+                "vid": 171578106,
+                "views": 10
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "0ec8dc938e445ac1e9",
+                "date": 1453738264,
+                "description": "Die Krabbelgruppe POGIDA wollte am 11.01.2016 in der beschaulichen Potsdamer Innenstadt einen kleinen Abendspaziergang machen. Leider waren die POGIDA-Kleinkinder in letzter Zeit etwas unartig. Deshalb mussten sie von ihren Erziehern (der Bundespolizei) beaufsichtigt werden. Das fanden sie total blöd. Sie wurden schließlich die ganze Zeit von Erwachsenen gemobbt und wussten gar nicht wieso. Sie wollten sich einfach nur wehren. Da die Erzieher dazwischen gehen mussten, blieb ihnen nichts anderes übrig als si",
+                "duration": 1316,
+                "image": "http://cs627121.vk.me/u215658720/video/l_14657b94.jpg",
+                "image_big": "http://cs627121.vk.me/u215658720/video/l_14657b94.jpg",
+                "image_small": "http://cs627121.vk.me/u215658720/video/s_e0c3eb3d.jpg",
+                "image_xbig": "http://cs627121.vk.me/u215658720/video/y_b55a8015.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Verwirrte Rechtspopulisten haben sich in Potsdam verfahren | 11.01.2016 | POGIDA/PEGIDA",
+                "vid": 171578106,
+                "views": 10
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1453738264,
+        "copy_post_id": 9859,
+        "copy_post_type": "post",
+        "date": 1453738919,
+        "from_id": -111873813,
+        "id": 23,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Verwirrte Rechtspopulisten haben sich in Potsdam verfahren | 11.01.2016 | POGIDA/PEGIDA",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "This is the first time that ISIS executes one of its own female jihadis on charges of adultery.",
+                "image_big": "http://cs627624.vk.me/v627624024/3c9aa/aQVfXqOt9v4.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3c9a8/y98KMWF-siA.jpg",
+                "title": "ISIS stones its own western female jihadis to death on charges of committing adultery",
+                "url": "http://en.abna24.com/service/middle-east-west-asia/archive/2016/01/20/731240/story.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "This is the first time that ISIS executes one of its own female jihadis on charges of adultery.",
+                "image_big": "http://cs627624.vk.me/v627624024/3c9aa/aQVfXqOt9v4.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3c9a8/y98KMWF-siA.jpg",
+                "title": "ISIS stones its own western female jihadis to death on charges of committing adultery",
+                "url": "http://en.abna24.com/service/middle-east-west-asia/archive/2016/01/20/731240/story.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 1},
+        "date": 1453799426,
+        "from_id": -111873813,
+        "id": 24,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Please share this video!...",
+                "image_big": "http://cs627624.vk.me/v627624024/3cb6e/PkjXcHJcWK8.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cb6c/NveAbOousX8.jpg",
+                "title": "Muslim Immigrants Make It Clear Why They've Come To Europe - This will make your blood boil",
+                "url": "http://i-supportisrael.blogspot.nl/2016/01/muslim-immigrants-make-it-clear-why.html?m=1"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Please share this video!...",
+                "image_big": "http://cs627624.vk.me/v627624024/3cb6e/PkjXcHJcWK8.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cb6c/NveAbOousX8.jpg",
+                "title": "Muslim Immigrants Make It Clear Why They've Come To Europe - This will make your blood boil",
+                "url": "http://i-supportisrael.blogspot.nl/2016/01/muslim-immigrants-make-it-clear-why.html?m=1"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1453819847,
+        "from_id": -111873813,
+        "id": 26,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "What Iranians Did to Our Female Sailor they Captured Will",
+                "image_big": "http://cs627624.vk.me/v627624024/3cb73/khtZysWn85s.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cb71/Pq5hVG-Gzcg.jpg",
+                "title": "What Iranians Did to Our Female Sailor they Captured Will Make Your BLOOD BOIL",
+                "url": "http://funnypictureholiday.net/06504e1ced?utm_campaign=ml&amp;utm_medium=ml&amp;utm_source=ml271&amp;utm_term=4655954QPVTUQQR"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "What Iranians Did to Our Female Sailor they Captured Will",
+                "image_big": "http://cs627624.vk.me/v627624024/3cb73/khtZysWn85s.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cb71/Pq5hVG-Gzcg.jpg",
+                "title": "What Iranians Did to Our Female Sailor they Captured Will Make Your BLOOD BOIL",
+                "url": "http://funnypictureholiday.net/06504e1ced?utm_campaign=ml&amp;utm_medium=ml&amp;utm_source=ml271&amp;utm_term=4655954QPVTUQQR"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1453819893,
+        "from_id": -111873813,
+        "id": 27,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Muslims of the Islamic Emirates Project names the cities of Birmingham, Bradford, Derby, Leeds, and others as territories for blanket Sharia law.",
+                "image_big": "http://cs627624.vk.me/v627624024/3ceaf/lT1csd1O-mk.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cead/liVCenp_5xA.jpg",
+                "title": "Muslims Plan to Control England City by City",
+                "url": "http://godfatherpolitics.com/19752/muslims-plan-control-england-city-city/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Muslims of the Islamic Emirates Project names the cities of Birmingham, Bradford, Derby, Leeds, and others as territories for blanket Sharia law.",
+                "image_big": "http://cs627624.vk.me/v627624024/3ceaf/lT1csd1O-mk.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3cead/liVCenp_5xA.jpg",
+                "title": "Muslims Plan to Control England City by City",
+                "url": "http://godfatherpolitics.com/19752/muslims-plan-control-england-city-city/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1453902664,
+        "from_id": -111873813,
+        "id": 28,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "",
+                "image_src": "http://cs627624.vk.me/v627624024/3d080/df7Aj-8vDJ8.jpg",
+                "title": "Muslim migrants in Germany rape Russian child for 30 hours, then get \u201cmassacred\u201d by angry Russians in reprisal \u2013 Darkmoon",
+                "url": "https://www.darkmoon.me/2016/muslim-migrants-in-germany-rape-russian-child-for-30-hours-then-get-massacred-by-angry-russians-in-reprisal/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "",
+                "image_src": "http://cs627624.vk.me/v627624024/3d080/df7Aj-8vDJ8.jpg",
+                "title": "Muslim migrants in Germany rape Russian child for 30 hours, then get \u201cmassacred\u201d by angry Russians in reprisal \u2013 Darkmoon",
+                "url": "https://www.darkmoon.me/2016/muslim-migrants-in-germany-rape-russian-child-for-30-hours-then-get-massacred-by-angry-russians-in-reprisal/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1453970460,
+        "from_id": -111873813,
+        "id": 29,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "The footage, filmed by local civilians and uploaded to YouTube, shows cattle tied to poles, trees and vehicles before being stabbed in the neck and eyes",
+                "image_big": "http://cs627624.vk.me/v627624024/3d13e/_uLIMSu1i2M.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3d13c/0DQ8Ob_OMDE.jpg",
+                "title": "Abuse of Australian cattle exported to Gaza \u2013 video",
+                "url": "https://t.co/xDItO7WpcY"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "The footage, filmed by local civilians and uploaded to YouTube, shows cattle tied to poles, trees and vehicles before being stabbed in the neck and eyes",
+                "image_big": "http://cs627624.vk.me/v627624024/3d13e/_uLIMSu1i2M.jpg",
+                "image_src": "http://cs627624.vk.me/v627624024/3d13c/0DQ8Ob_OMDE.jpg",
+                "title": "Abuse of Australian cattle exported to Gaza \u2013 video",
+                "url": "https://t.co/xDItO7WpcY"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 4},
+        "date": 1453974398,
+        "from_id": -111873813,
+        "id": 30,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "524dfea387866c486a",
+                "date": 1454342820,
+                "description": "Mehr auf unserer Webseite: https://deutsch.rt.com/<br><br>Rund 150 rechtsextreme Demonstranten haben am Samstag an einer Kundgebung auf den Straßen von Büdingen unter dem Motto \u201eBüdingen wehrt sich \u2013 Stoppt die Asylflut\u201c teilgenommen, die am Jahrestag von Hitlers Machtergreifung im Jahre 1933 stattfand. Die Demonstranten trugen Plakate gegen Flüchtlinge, die offen als \u201ePrimaten\u201c bezeichnet worden, mit sich, während die Sprecherin sich und die Unterstützung der Bewegung als \"das Licht der Zeit\" bezeichnete.<br><br>Fol",
+                "duration": 88,
+                "image": "http://cs630817.vk.me/u215658720/video/l_3839cbb5.jpg",
+                "image_big": "http://cs630817.vk.me/u215658720/video/l_3839cbb5.jpg",
+                "image_small": "http://cs630817.vk.me/u215658720/video/s_145a46fb.jpg",
+                "image_xbig": "http://cs630817.vk.me/u215658720/video/y_d6fe6c6b.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Deutschland: Rechte Kundgebung gegen Flüchtlinge am Jahrestag von Hitlers Machtergreifung",
+                "vid": 171593020,
+                "views": 7
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "524dfea387866c486a",
+                "date": 1454342820,
+                "description": "Mehr auf unserer Webseite: https://deutsch.rt.com/<br><br>Rund 150 rechtsextreme Demonstranten haben am Samstag an einer Kundgebung auf den Straßen von Büdingen unter dem Motto \u201eBüdingen wehrt sich \u2013 Stoppt die Asylflut\u201c teilgenommen, die am Jahrestag von Hitlers Machtergreifung im Jahre 1933 stattfand. Die Demonstranten trugen Plakate gegen Flüchtlinge, die offen als \u201ePrimaten\u201c bezeichnet worden, mit sich, während die Sprecherin sich und die Unterstützung der Bewegung als \"das Licht der Zeit\" bezeichnete.<br><br>Fol",
+                "duration": 88,
+                "image": "http://cs630817.vk.me/u215658720/video/l_3839cbb5.jpg",
+                "image_big": "http://cs630817.vk.me/u215658720/video/l_3839cbb5.jpg",
+                "image_small": "http://cs630817.vk.me/u215658720/video/s_145a46fb.jpg",
+                "image_xbig": "http://cs630817.vk.me/u215658720/video/y_d6fe6c6b.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Deutschland: Rechte Kundgebung gegen Flüchtlinge am Jahrestag von Hitlers Machtergreifung",
+                "vid": 171593020,
+                "views": 7
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1454342821,
+        "copy_post_id": 10906,
+        "copy_post_type": "post",
+        "date": 1454346556,
+        "from_id": -111873813,
+        "id": 35,
+        "likes": {"count": 2},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "d6b60678b6f371208e",
+                "date": 1454342545,
+                "description": "",
+                "duration": 193,
+                "image": "http://cs630817.vk.me/u215658720/video/l_e3a88366.jpg",
+                "image_big": "http://cs630817.vk.me/u215658720/video/l_e3a88366.jpg",
+                "image_small": "http://cs630817.vk.me/u215658720/video/s_d1cfa9c7.jpg",
+                "image_xbig": "http://cs630817.vk.me/u215658720/video/y_62ecd3d7.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Sweden Refugee",
+                "vid": 171593012,
+                "views": 20
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "d6b60678b6f371208e",
+                "date": 1454342545,
+                "description": "",
+                "duration": 193,
+                "image": "http://cs630817.vk.me/u215658720/video/l_e3a88366.jpg",
+                "image_big": "http://cs630817.vk.me/u215658720/video/l_e3a88366.jpg",
+                "image_small": "http://cs630817.vk.me/u215658720/video/s_d1cfa9c7.jpg",
+                "image_xbig": "http://cs630817.vk.me/u215658720/video/y_62ecd3d7.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Sweden Refugee",
+                "vid": 171593012,
+                "views": 20
+            }
+        }],
+        "comments": {"count": 3},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1454342543,
+        "copy_post_id": 10903,
+        "copy_post_type": "post",
+        "date": 1454346589,
+        "from_id": -111873813,
+        "id": 36,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Former Governor of Kogi state and an APC chieftain, Alhaji Abubakar Audu, has married a new wife.",
+                "image_big": "http://cs627130.vk.me/v627130024/38b6d/XSEz0k9jl1s.jpg",
+                "image_src": "http://cs627130.vk.me/v627130024/38b6b/mmB-MfHtN34.jpg",
+                "title": "68 year old politician marries a 14 year old girl",
+                "url": "http://speisa.com/modules/articles/index.php/item.753/68-year-old-politician-marries-a-14-year-old-girl.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Former Governor of Kogi state and an APC chieftain, Alhaji Abubakar Audu, has married a new wife.",
+                "image_big": "http://cs627130.vk.me/v627130024/38b6d/XSEz0k9jl1s.jpg",
+                "image_src": "http://cs627130.vk.me/v627130024/38b6b/mmB-MfHtN34.jpg",
+                "title": "68 year old politician marries a 14 year old girl",
+                "url": "http://speisa.com/modules/articles/index.php/item.753/68-year-old-politician-marries-a-14-year-old-girl.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1454431317,
+        "from_id": -111873813,
+        "id": 37,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "These people have no shame!<br> somali family in Sweden who was evicted since they cant show any income mobilized other somalis in the small town of Katrineholm and marched to the welfare office. There they demand free housing, more money, free immigration for all somalis, etc etc.<br> The Islamization of Europe must be stopped! Europe must stop accepting more migrants from Muslim countries!<br> Share this video if you agree!...",
+                "image_big": "http://cs627631.vk.me/v627631024/3ab6c/JeHEN7Zvqi0.jpg",
+                "image_src": "http://cs627631.vk.me/v627631024/3ab6a/ydEHVcW_HGI.jpg",
+                "title": "Watch: Somali Muslims protest demanding free housing and free immigration to Sweden",
+                "url": "http://i-supportisrael.blogspot.co.il/2015/10/watch-somali-muslims-protest-demanding.html"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "These people have no shame!<br> somali family in Sweden who was evicted since they cant show any income mobilized other somalis in the small town of Katrineholm and marched to the welfare office. There they demand free housing, more money, free immigration for all somalis, etc etc.<br> The Islamization of Europe must be stopped! Europe must stop accepting more migrants from Muslim countries!<br> Share this video if you agree!...",
+                "image_big": "http://cs627631.vk.me/v627631024/3ab6c/JeHEN7Zvqi0.jpg",
+                "image_src": "http://cs627631.vk.me/v627631024/3ab6a/ydEHVcW_HGI.jpg",
+                "title": "Watch: Somali Muslims protest demanding free housing and free immigration to Sweden",
+                "url": "http://i-supportisrael.blogspot.co.il/2015/10/watch-somali-muslims-protest-demanding.html"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1454680343,
+        "from_id": -111873813,
+        "id": 38,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "a18a97715949ac3ead",
+                "date": 1454669322,
+                "description": "Papst Benedikt XVI behauptet, das kein einziger Jude in den Gaskammern der Nazis starb, da die historischen Beweise massiv dagegen sprechen. Er ist der Meinung, das kein einziger Jude vergast worden ist, da er glaubt, das es keine Gaskammern gegeben hat, soweit er die Beweise studiert hat.",
+                "duration": 223,
+                "image": "http://cs623224.vk.me/u288609632/video/l_a4018667.jpg",
+                "image_big": "http://cs623224.vk.me/u288609632/video/l_a4018667.jpg",
+                "image_small": "http://cs623224.vk.me/u288609632/video/s_ea19fcc6.jpg",
+                "owner_id": 337881024,
+                "platform": "YouTube",
+                "title": "Papst Benedikt XVI leugnet den Holocaust",
+                "vid": 171735452,
+                "views": 167
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "a18a97715949ac3ead",
+                "date": 1454669322,
+                "description": "Papst Benedikt XVI behauptet, das kein einziger Jude in den Gaskammern der Nazis starb, da die historischen Beweise massiv dagegen sprechen. Er ist der Meinung, das kein einziger Jude vergast worden ist, da er glaubt, das es keine Gaskammern gegeben hat, soweit er die Beweise studiert hat.",
+                "duration": 223,
+                "image": "http://cs623224.vk.me/u288609632/video/l_a4018667.jpg",
+                "image_big": "http://cs623224.vk.me/u288609632/video/l_a4018667.jpg",
+                "image_small": "http://cs623224.vk.me/u288609632/video/s_ea19fcc6.jpg",
+                "owner_id": 337881024,
+                "platform": "YouTube",
+                "title": "Papst Benedikt XVI leugnet den Holocaust",
+                "vid": 171735452,
+                "views": 167
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_comment_id": 3304,
+        "copy_commenter_id": 337881024,
+        "copy_owner_id": -109123209,
+        "copy_post_date": 1454669319,
+        "copy_post_id": 3303,
+        "copy_post_type": "post",
+        "date": 1454707684,
+        "from_id": -111873813,
+        "id": 39,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "767652cefedee4b540",
+                "date": 1454979208,
+                "description": "Mehr auf unserer Webseite: https://deutsch.rt.com/<br><br>Polizei und Demonstranten sind in Rennes zusammen gestoßen, als Hunderte auf die Straßen zogen, um gegen den Bau des Notre-Dame-des-Landes Flughafen zu protestieren. Ursprünglich war ein friedlicher Karnevalsmarsch gegen den Flughafen geplant, weshalb viele der Protestler bei den Zusammenstößen Kostüme trugen. Die Stimmung kippte jedoch, als einige der Demonstranten Gegenstände und Fackeln auf die Polizei warfen, welche mit Tränengasgeschossen in die Menge",
+                "duration": 134,
+                "image": "http://cs633125.vk.me/u278097974/video/l_537a09a4.jpg",
+                "image_big": "http://cs633125.vk.me/u278097974/video/l_537a09a4.jpg",
+                "image_small": "http://cs633125.vk.me/u278097974/video/s_3d755367.jpg",
+                "image_xbig": "http://cs633125.vk.me/u278097974/video/y_e4d8b2da.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Heftige Zusammenstöße bei Karnevalsmarsch gegen neuen Flughafen in Frankreich",
+                "vid": 171609177,
+                "views": 53
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "767652cefedee4b540",
+                "date": 1454979208,
+                "description": "Mehr auf unserer Webseite: https://deutsch.rt.com/<br><br>Polizei und Demonstranten sind in Rennes zusammen gestoßen, als Hunderte auf die Straßen zogen, um gegen den Bau des Notre-Dame-des-Landes Flughafen zu protestieren. Ursprünglich war ein friedlicher Karnevalsmarsch gegen den Flughafen geplant, weshalb viele der Protestler bei den Zusammenstößen Kostüme trugen. Die Stimmung kippte jedoch, als einige der Demonstranten Gegenstände und Fackeln auf die Polizei warfen, welche mit Tränengasgeschossen in die Menge",
+                "duration": 134,
+                "image": "http://cs633125.vk.me/u278097974/video/l_537a09a4.jpg",
+                "image_big": "http://cs633125.vk.me/u278097974/video/l_537a09a4.jpg",
+                "image_small": "http://cs633125.vk.me/u278097974/video/s_3d755367.jpg",
+                "image_xbig": "http://cs633125.vk.me/u278097974/video/y_e4d8b2da.jpg",
+                "owner_id": 215658720,
+                "platform": "YouTube",
+                "title": "Heftige Zusammenstöße bei Karnevalsmarsch gegen neuen Flughafen in Frankreich",
+                "vid": 171609177,
+                "views": 53
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1454979207,
+        "copy_post_id": 11942,
+        "copy_post_type": "post",
+        "date": 1454979224,
+        "from_id": -111873813,
+        "id": 40,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "The leader of the German state of Bavaria, Horst Seehofer, is set to travel to Moscow to visit Russian President Vladimir Putin. Seehofer, who is critical of German sanctions imposed on Russia, says he wants \u201cgood relations\u201d with Moscow. <br>        <br>",
+                "image_big": "http://cs627819.vk.me/v627819720/3d869/RSvJ6jGhw5c.jpg",
+                "image_src": "http://cs627819.vk.me/v627819720/3d867/i2eCwgUed5g.jpg",
+                "title": "RT International",
+                "url": "http://on.rt.com/739x"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "The leader of the German state of Bavaria, Horst Seehofer, is set to travel to Moscow to visit Russian President Vladimir Putin. Seehofer, who is critical of German sanctions imposed on Russia, says he wants \u201cgood relations\u201d with Moscow. <br>        <br>",
+                "image_big": "http://cs627819.vk.me/v627819720/3d869/RSvJ6jGhw5c.jpg",
+                "image_src": "http://cs627819.vk.me/v627819720/3d867/i2eCwgUed5g.jpg",
+                "title": "RT International",
+                "url": "http://on.rt.com/739x"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 8},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1454980359,
+        "copy_post_id": 11946,
+        "copy_post_type": "post",
+        "date": 1454981003,
+        "from_id": -111873813,
+        "id": 41,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Anti-sanction, Merkel-critic Bavarian leader to meet Putin in Moscow<br>Published time: 1 Feb, 2016 09:16<br>Edited time: 1 Feb, 2016 11:38<br>http://on.rt.com/739x<br>Bavarian state premier and leader of the Christian Social Union (CSU) Horst Seehofer. © Michaela Rehle<br>Bavarian state premier and leader of the Christian Social Union (CSU) Horst Seehofer. © Michaela Rehle / Reuters<br>3.5K2<br>The leader of the German state of Bavaria, Horst Seehofer, is set to travel to Moscow to visit Russian President Vladimir Putin. Seehofer, who is critical of German sanctions imposed on Russia, says he wants \u201cgood relations\u201d with Moscow.<br>Seehofer defended his visit to the Russian capital scheduled for early February, saying it was not politically-motivated. He added that he would look to discuss economic proposals between Bavaria and Russia.<br><br>\"We have prepared this trip very carefully ... and we are not pursuing any parallel foreign policy,\" Seehofer told ZDF television, as cited by Reuters.<br><br>Read more<br>Bavarian Prime Minister and head of the Christian Social Union (CSU) Horst Seehofer © Michaela Rehle\u2018Without Russia we can\u2019t solve conflicts of our time\u2019 \u2013 Bavarian leader<br>Seehofer, the leader of the Christian Social Union (CSU), the Bavarian sister party to Chancellor Angela Merkel's Christian Democrats (CDU) has been critical of German imposed sanctions against Russia for Moscow\u2019s perceived role in the Ukrainian conflict.<br><br>\u201cPolitically we have to face the fact that without Russia we cannot solve many things. We won't be able to solve them,\u201d he said at the CSU\u2019s party congress in Munich on November 21, after being re-elected as leader.<br><br>\"Sanctions are doing enormous damage to the Bavarian economy and the national economy,\" he mentioned in January, speaking to the Bild am Sonntag.<br><br>However, not everyone is impressed with Seehofer\u2019s decision to meet with Putin, a trip which he announced he would be undertaking months ago. Roderich Kiesewetter, a foreign policy spokesman for Merkel's conservatives in parliament said the CSU leader\u2019s move could be interpreted as a direct challenge towards the German Chancellor.<br><br>\"Seehofer has clearly positioned himself against the chancellor in the debate on refugees - I really hope he doesn't go on this trip,\" he told the Welt am Sonntag newspaper.<br><br>Meanwhile, Deputy Niels Annen from the Social Democrats, Merkel's junior coalition partner, told the same newspaper, as cited by Reuters that: \"Foreign policy is made in Berlin, not in Munich,\" referring to the state capital of Bavaria.<br><br>Seehofer has been one of Chancellor Merkel\u2019s staunchest critics regarding her open-door refugee and migrant policy, which saw an estimated 1.1 million asylum seekers travel to Germany in 2015. In January, the CSU sent Merkel a letter threatening to take the chancellor to the Constitutional Court if the federal government fails to secure the country\u2019s borders and reduce the influx of asylum seekers.<br><br>The CSU proposed an action plan to deal with the refugee and migrant crisis in a press release. Its measures include establishing effective control over the EU\u2019s external borders and border controls within the EU, ensuring a \u201cfair distribution of migrants and refugees among the EU states,\u201d introducing an annual limit of 200,000 asylum seekers that can be accepted by Germany, and deporting migrants back to the borders of neighboring states, primarily Austria.<br><br>\u201cBavaria needs effective measures immediately,\u201d Bavarian Interior Minister Joachim Herrmann and Justice Minister Winfried Bausback said in a joint statement.<br><br>Read more<br>© Fabrizio Bensch\u2018We can't do it!\u2019 Bavaria sends busload of refugees to Merkel<br>\u201cIf we fail to decrease the number of refugees coming to Germany every day, we must expect another million asylum seekers or more to come next year,\u201d Herrmann added.<br><br>Bavaria has taken the brunt of the refugee influx, as the majority of new arrivals make their way into Germany through the southern border with Austria, and therefore arrive directly in the state.<br><br>In January, Peter Dreier, head of the Landshut district in Bavaria sent a bus with 30 refugees aboard on a 550km trip to Chancellor Merkel\u2019s Berlin office \u2013 fulfilling a threat made in October, when he said he would act if the number of refugees exceeded housing capacity in his area.<br><br>Dreier had a heated conversation with the German Chancellor in October regarding the issue of asylum seekers, according to Die Welt.<br><br>\u201cWe can\u2019t do it [taking in all the refugees]!\u201d he said, deliberately inverting Merkel\u2019s famous \u2018We can do it\u2019 slogan, which the chancellor used in the summer 2015 in reference to the high number of refugees Germany was taking.<br><br>\u201cIf Germany takes in a million refugees, that means my district will take in a share of 1,800. I will take them. But any more [refugees] I\u2019ll send by bus to your office in Berlin,\u201d Dreier warned.<br><br>Share on FacebookShare on Twitter<br>Posting rulesFAQ<br>Comments (81)<br><br>Enter text...<br>Ev Innra<br>Ev Innra&gt; Champ Moritz7 days ago 11:01<br>Ev Innra<br>Champ Moritz<br>Russia remains the key to permanent growth and peace of Europe thus time for yanks to go home.<br>Yes indeed, the U.S. has enough problems of its own that needs fixing, they better spend their energy fixing their own country first. Charity begins at home, as they say.<br>ReplyContext<br>+1<br>+1-0<br>Ev Innra<br>Ev Innra&gt; Tako Hornstra7 days ago 10:56<br>Ev Innra<br>Tako Hornstra<br>You must be informed by fairytales from Putinstan's Paradise...........................<br>Europeans have always known that there is no peace in Europe without peace with Russia.<br>ReplyContext<br>+0-0<br>Ev Innra<br>Ev Innra&gt; Thomas Loukota7 days ago 10:38<br>Ev Innra<br>Thomas Loukota<br>Seehofer for chancellor,lock Merkel up,shut borders tight,shoot invaders on sight,kick out yank warmongers,disband NATO,close US embassies and kick the spindoctors more...<br>Getting tired of 'pips', so without 'pips' ;<br>Seehofer for chancellor (well, why not)<br>lock Merkel up (that is going too far)<br>shut borders (if by shutting you mean identify who comes in)<br>shoot invaders on sight (only with rubber bullets and as a last resort)<br>kick out yank warmongers (but only the warmongers)<br>disband NATO (and simultaneously create an E.U. defence force)<br>close U.S. embassies (now what purpose would that serve?!)<br>and kick the spindoctors out for good (why kick them out, just stop listening to bad advice)<br>nuke Turkey( you got to be kidding, what problem would it solve?! you'd like to see more innocent people dead?!)<br>Happy Europe for happy Europeans, and happy Russia for happy Russians I'd say.<br>ReplyContext<br>+0-0<br>Ev Innra<br>Ev Innra&gt; Thrilla InManilla7 days ago 10:19<br>Ev Innra<br>Thrilla InManilla<br>Bavaria the next Crimea?<br>Don't be silly, Chancellor Merkel will forge closer ties with the CSU instead of dividing the electorate, she is a seasoned politician and knows how to negotiate.<br>ReplyContext<br>+0-0<br>Rachid Debbah<br>Rachid Debbah&gt; Bobby Habib7 days ago 06:46<br>Rachid Debbah<br>Bobby Habib<br>Europe got to understand by confining themselves into NATO and living alone under NATO won't prove economical growth unless more...<br>Unfortunatly, the europeens state governements have always been americans ass lickers,and by definition an ass licker Stay always an ass licker<br>ReplyContext<br>+0-0<br>william SMITH<br>william SMITH7 days ago 05:05<br>Interesting how the CDU seems to think government only takes place in one part of Germany. Kind of odd given Bavaria has government too. Maybe too much time spent with the Washington crowd.<br>Reply<br>+0-0<br>Ian Andres<br>Ian Andres&gt; ales wittek02.02 01:18<br>Ian Andres<br>ales wittek<br>Russian?<br>In 7th century there was no Russia. Russia as a Tsardom was established just in 16th century. Earlier (before Mongols invasion) it was Rus'. Both Russia and Ukraine derive from Rus'.<br>ReplyContext<br>+0-0<br>Ian Andres<br>Ian Andres02.02 01:04<br>There would be no sanctions if Russia didn't steal Crimea...<br>Reply<br>-3<br>+0-3<br>Berke Beenhouwer<br>Berke Beenhouwer01.02 23:40<br>Maybe about time people NOT agreeing with Merkel get some media attention.<br>Reply<br>+2<br>+2-0<br>Cynical175<br>Cynical17501.02 23:11<br>Maybe it is time that Berlin does not set and make Germany's policies. Munich sounds a good place to be.<br>Reply<br>+4<br>+4-0<br>Tako Hornstra<br>Tako Hornstra&gt; Minh Ng01.02 22:59<br>Tako Hornstra<br>Minh Ng<br>putin molested boys<br>Putin is also molesting his country.......<br>ReplyContext<br>-5<br>+0-5<br>EndUSWars<br>EndUSWars&gt; Dmitry Tashy01.02 22:44<br>EndUSWars<br>Dmitry Tashy<br>we live in Ukraine since 7-th century, why we have to leave ??? ))<br>Hey Genius - Ukraine became a State in legal terms in December 1993 for the very first time !<br>ReplyContext<br>-1<br>+0-1<br>Trey Styles<br>Trey Styles01.02 22:20<br>Any one will do huh Russia? Anyone will do. Next Dennis Rodman representing the US<br>Reply<br>-1<br>+0-1<br>kecrogi<br>kecrogi01.02 20:39<br>good thing when you're under sanctions is that you learn to be self-sustaining.<br>Everything you've imported - you learn to create all by yourself<br>Believe me I was under sanctions for 10 years in Serbia and believe it or not, those were the best years of my youth<br>Reply<br>+1-1<br>John Tosh<br>John Tosh&gt; Juan Truth01.02 20:19<br>John Tosh<br>Juan Truth<br>The U.S wants to destroy all nations that could challenge their complete Hegemony. This includes Russia,China and EU. The current more...<br>No need to worry, the West is slowly dissolving itself. Soon nature will help the demise of the West to speed up.<br>ReplyContext<br>+1<br>+2-1<br>John Tosh<br>John Tosh01.02 20:17<br>This man is a spy for the West?<br>Reply<br>+0-0<br>Minh Ng<br>Minh Ng01.02 19:43<br>putin molested boys<br>Reply<br>-2<br>+1-3<br>veragottlieb<br>veragottlieb01.02 19:41<br>Not really a fan of Seehofer, but I think he is doing the right thing - someone capable of thinking for himself.<br>Reply<br>+1-1<br>ales wittek<br>ales wittek01.02 19:37<br>Yes Russia is saving world once again<br>Reply<br>+2<br>+3-1<br>ales wittek<br>ales wittek&gt; Dmitry Tashy01.02 19:33<br>ales wittek<br>Dmitry Tashy<br>we live in Ukraine since 7-th century, why we have to leave ??? ))<br>Russian?<br>ReplyContext<br>-1<br>+0-1<br>ales wittek<br>ales wittek&gt; Dmitry Tashy01.02 19:33<br>ales wittek<br>Dmitry Tashy<br>we live in Ukraine since 7-th century, why we have to leave ??? ))<br>Who is we?<br>ReplyContext<br>-1<br>+0-1<br>Dmitry Tashy<br>Dmitry Tashy&gt; NoName01.02 19:31<br>Dmitry Tashy<br>NoName<br>😃 You may take her home, we Germans are generous and magnanimously .. She's so tender and so sweet!<br>Let's find some turk to do this dirty job )) i won't handle old german ladie )<br>ReplyContext<br>+0-0<br>Dmitry Tashy<br>Dmitry Tashy&gt; foreignagent0003101.02 19:29<br>Dmitry Tashy<br>foreignagent00031<br>leave Ukraine and sanctions end, not any other way<br>we live in Ukraine since 7-th century, why we have to leave ??? ))<br>ReplyContext<br>+1-1<br>Juan Truth<br>Juan Truth&gt; jose ribeiro ferreira01.02 18:52<br>Juan Truth<br>jose ribeiro ferreira<br>I sense the sarcasm but maybe we need to fight the US infiltration, refuges are being used to destroy democracy more...<br>The wars in MIddle East are what is being used to destroy Democracy, that and western created ISIS. Refugees are the victims as well. Until the source of all the problems is stopped, you will be focused on fighting the symptoms.<br>ReplyContext<br>+0-0<br>Vittorio Secreto<br>Vittorio Secreto&gt; foreignagent0003101.02 18:51<br>Vittorio Secreto<br>foreignagent00031<br>leave Ukraine and sanctions end, not any other way<br>US to leave ukraine????<br>too early, need to save face.<br>ReplyContext<br>+1<br>+1-0<br>Klaas Klaassen<br>Klaas Klaassen01.02 18:47<br>Did HE Staatsminister Seehofer read = die Rechtsgrundlagen der Souveränität der Krim, Donetzk und Luhansk = in 3w P GoldMorgs P com / koL ??? HE Seehofer should and has the correct view with his opposition to the sanctions etc. In fact all those german people should who can really read. The autor pleads for (sufficient money for) very solid protection by the Bavarian Bundesland Bayern. The dutch politicians serve the talmudic banking masters GoldMorgs in New York and persistantly refuse to protect the autor, while his life is in extremely grave danger.<br>Reply<br>+0-0<br>Juan Truth<br>Juan Truth&gt; Celestial Time01.02 18:46<br>Juan Truth<br>Celestial Time<br>Putin and Russia were deemed evil when Crimea was annexed, even when citizens voted in favor of doing just that. more...<br>The U.S wants to destroy all nations that could challenge their complete Hegemony. This includes Russia,China and EU. The current wars in the MIddle East are based on A Clean Break strategy or Yinon plan. This to give full hegemony over the M.E to Israel. The U,S is a colony of Israel. This based on Evangelical religion and Jewish money. Look up Neocons, look up Wolf ow tiz Doctrine, A Clean Break and Kalergi plan and you will see things clearly. It will also terrify you for the future.<br>ReplyContext<br>+4<br>+6-2<br>Flin Faraday<br>Flin Faraday01.02 18:41<br>Aaah, a thinking person. Good, good.<br>Reply<br>+1-1<br>Celestial Time<br>Celestial Time&gt; Alex K01.02 18:31<br>Celestial Time<br>Alex K<br>When will Merkel fall?<br>Estimates are no more than 3-4 months at the current rate. It could be 3-4 weeks if there is an outbreak of Muslim buffoonery.<br>ReplyContext<br>+0-0<br>Celestial Time<br>Celestial Time01.02 18:18<br>Putin and Russia were deemed evil when Crimea was annexed, even when citizens voted in favor of doing just that. There was an undeniable BOND of culture and blood between the two annexing parties. The US/EU declared this an invasion and a direct assault on the sovereignty of another nation. Sanctions and constant threats soon followed. In this case, voting and a democratic process are BAD. Two people with similar interests and cultures willingly coming together is EVIL.<br><br>Merkel &amp; Cohorts are deemed righteous and compassionate for allowing an army of rapists and un-assimilating Muslims to walk right across the border of sovereign nations, even when most citizens never voted for this and were against this kind of social engineering. There is an undeniable DISCONNECT and GAP of culture and blood between the two merging parties. Much of the US/EU leadership doesn't see this as an invasion, but rather a natural process that must be undertaken for the benefit of those wishing to be \"annexed\" and merged with their new host country. In this case, forced integration against the will of citizens is GOOD. Two cultures/people coming together by force, even when it is harmful and destructive to the host population, is VERY GOOD.<br><br>Do you understand the rationale the US/EU uses to differentiate between good vs evil? No, neither do I.<br>Reply<br>+2<br>+3-1<br>Alexander Dahmen2<br>Alexander Dahmen201.02 18:09<br>sehr gut horst .. sehr sehr gut !<br>Reply<br>+1<br>+2-1<br>Anemos<br>Anemos01.02 17:58<br>German mainstream media already intensifies its campaign against him. He crossed their red line in speaking with Mother Russia<br>Reply<br>+7<br>+8-1<br>Thrilla InManilla<br>Thrilla InManilla01.02 17:54<br>Bavaria the next Crimea?<br>Reply<br>+2<br>+2-0<br>Alex K<br>Alex K01.02 17:27<br>When will Merkel fall?<br>Reply<br>+2<br>+4-2<br>jose ribeiro ferreira<br>jose ribeiro ferreira&gt; Thomas Loukota01.02 17:26<br>jose ribeiro ferreira<br>Thomas Loukota<br>Seehofer for chancellor,lock Merkel up,shut borders tight,shoot invaders on sight,kick out yank warmongers,disband NATO,close US embassies and kick the spindoctors more...<br>I sense the sarcasm but maybe we need to fight the US infiltration, refuges are being used to destroy democracy so stop them until we clean up the house<br>ReplyContext<br>+3<br>+3-0<br>Kaptain Amerika<br>Kaptain Amerika01.02 17:18<br>@ noname<br>Intimidation works only if people cower to intimidation.<br>If you know something, speak up and make it public. <br>Name and shame the perpetrators.<br>Reply<br>+2<br>+2-0<br>Thomas Loukota<br>Thomas Loukota01.02 17:11<br>Seehofer for chancellor,lock Merkel up,shut borders tight,shoot invaders on sight,kick out yank warmongers,disband NATO,close US embassies and kick the spindoctors out for good.nuke Turkey. Happy Europe for happy europeans ,that includes Russia.<br>Reply<br>+15<br>+15-0<br>AvToma<br>AvToma&gt; Raffaello Sacchetti01.02 17:02<br>AvToma<br>Raffaello Sacchetti<br>Merkel is distroying not only her country but also Europe. A fals person.<br>Moscow left the GDR, as an independent state, but the west germans with the help of NATO had occupied East Germany, too. Now they regret.<br>If Merkel will not carry out the orders of the USA, she will be removed.<br>ReplyContext<br>+1<br>+1-0<br>foreignagent00031<br>foreignagent0003101.02 17:02<br>Russians say sanctions don't hurt do it does not matter<br>Reply<br>-2<br>+0-2<br>foreignagent00031<br>foreignagent0003101.02 16:56<br>leave Ukraine and sanctions end, not any other way",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 11},
+        "copy_owner_id": 215658720,
+        "copy_post_date": 1455232701,
+        "copy_post_id": 12639,
+        "copy_post_type": "post",
+        "date": 1455232867,
+        "from_id": -111873813,
+        "id": 42,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Erdogan hat die EU-Grenzen offen für Flüchtlinge bedroht<br><br>Der türkische Präsident Tayyip Erdogan versprochen zu beginnen Flüchtlingen in der Europäischen Union zu übersehen. So kommentierte er die Gespräche mit dem Leiter des Europäischen Rates Donald Tusk und Präsident der Europäischen Kommission, Jean-Claude Juncker, der am 14. November übergeben im vergangenen Jahr und an die Öffentlichkeit.<br><br>Source: http://vk.com/wall-40316705_10635258",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "aid": -6,
+                "created": 1457712311,
+                "height": 890,
+                "owner_id": -111873813,
+                "pid": 405614193,
+                "post_id": 67,
+                "src": "http://cs628122.vk.me/v628122024/3cb5b/1bOp1d55gVM.jpg",
+                "src_big": "http://cs628122.vk.me/v628122024/3cb5c/TFjyigifpX4.jpg",
+                "src_small": "http://cs628122.vk.me/v628122024/3cb5a/CD8wZJXJLkc.jpg",
+                "src_xbig": "http://cs628122.vk.me/v628122024/3cb5d/FLIT2ws5Mqs.jpg",
+                "src_xxbig": "http://cs628122.vk.me/v628122024/3cb5e/z_9w3uPb-lQ.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 890
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "aid": -6,
+                "created": 1457712311,
+                "height": 890,
+                "owner_id": -111873813,
+                "pid": 405614193,
+                "post_id": 67,
+                "src": "http://cs628122.vk.me/v628122024/3cb5b/1bOp1d55gVM.jpg",
+                "src_big": "http://cs628122.vk.me/v628122024/3cb5c/TFjyigifpX4.jpg",
+                "src_small": "http://cs628122.vk.me/v628122024/3cb5a/CD8wZJXJLkc.jpg",
+                "src_xbig": "http://cs628122.vk.me/v628122024/3cb5d/FLIT2ws5Mqs.jpg",
+                "src_xxbig": "http://cs628122.vk.me/v628122024/3cb5e/z_9w3uPb-lQ.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 890
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1457712312,
+        "from_id": -111873813,
+        "id": 67,
+        "likes": {"count": 19},
+        "post_type": "post",
+        "reposts": {"count": 3},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "date": 1458160650,
+        "from_id": -111873813,
+        "id": 70,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "EUROPA ERWACHE!!",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 9},
+        "date": 1458161296,
+        "from_id": -111873813,
+        "id": 71,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "text": "Wie kann ich jemand vertraun in Zeiten wie heute ?",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "date": 1458161348,
+        "from_id": -111873813,
+        "id": 72,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "WER KANN MIR HELFEN UND WER IST BEREIT ZU HELFEN???",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 3},
+        "date": 1458161409,
+        "from_id": -111873813,
+        "id": 73,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "WOHIN KANN ICH GEHN WENN ES LOS GEHT???",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 5},
+        "date": 1458161513,
+        "from_id": -111873813,
+        "id": 74,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "WELCHE FRAGEN SOLLTE DAS FORUM STELLEN?",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 2},
+        "date": 1458161859,
+        "from_id": -111873813,
+        "id": 77,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 292847386,
+        "text": "Woran erkenne ich dann die guten und die bösen?",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "date": 1458161870,
+        "from_id": -111873813,
+        "id": 78,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 292847386,
+        "text": "Wird es losgehen? Weiss man schon wann?",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 5},
+        "date": 1458162493,
+        "from_id": -111873813,
+        "id": 81,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "WIE KÖNNEN UNS WIR DER ÜBERWACHUNG ENTZIEHN ?WELCHE PROGRAMME KÖNNEN UNS HELFEN ?",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 3},
+        "date": 1458162679,
+        "from_id": -111873813,
+        "id": 82,
+        "likes": {"count": 4},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "SOLLTEN WIR EIN SYTEM SCHAFFEN, WO WIR UNS TÄGLICH MELDEN SO DAS NICHT EINSELNE VESCHWINDEN KÖNNEN OHNE DAS ES JEMAND WEISS??",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 2},
+        "copy_owner_id": 337881024,
+        "copy_post_date": 1458165730,
+        "copy_post_id": 1811,
+        "copy_post_type": "post",
+        "date": 1458165745,
+        "from_id": -111873813,
+        "id": 90,
+        "likes": {"count": 9},
+        "post_type": "copy",
+        "reposts": {"count": 2},
+        "text": "ALLGEMEINER HINWEIS AN ALL MEINE FREUNDE BITTE SICHERT EURE PROFLE !! VIELE SIND OHNE DAS ICH BEI VK ANGEMELDT BIN EINZUSEHEN :WER ES NICHT GLAUBT GEHT ZU GOOGLE GIBT EINE SEITE EIN WO ER ABONNENT IST UND ER SIEHT OB SEIN PROFIL OFFEN IST",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "e44edd43af20fc6c37",
+                "aid": -7,
+                "created": 1458224644,
+                "height": 640,
+                "owner_id": -111873813,
+                "pid": 406471766,
+                "src": "http://cs630426.vk.me/v630426795/1c824/pazuYRfwbm0.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c825/jGqstv00m-Q.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c823/6Q5EsiE0fHY.jpg",
+                "src_xbig": "http://cs630426.vk.me/v630426795/1c826/zI4MrD88whs.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 640
+            },
+            "type": "photo"
+        },
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "e44edd43af20fc6c37",
+                    "aid": -7,
+                    "created": 1458224644,
+                    "height": 640,
+                    "owner_id": -111873813,
+                    "pid": 406471766,
+                    "src": "http://cs630426.vk.me/v630426795/1c824/pazuYRfwbm0.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c825/jGqstv00m-Q.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c823/6Q5EsiE0fHY.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c826/zI4MrD88whs.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 640
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "c9ad7c62ca3743c95f",
+                    "aid": -7,
+                    "created": 1458224644,
+                    "height": 531,
+                    "owner_id": -111873813,
+                    "pid": 406471767,
+                    "src": "http://cs630426.vk.me/v630426795/1c81b/AdKo32cmBsw.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c81c/8iYmeGpvO5U.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c81a/1gFoYK2wB2w.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c81d/BHtonneXw94.jpg",
+                    "src_xxbig": "http://cs630426.vk.me/v630426795/1c81e/uuJJjuDLYTw.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 960
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "c61b5efe0cf2eef62a",
+                    "aid": -7,
+                    "created": 1458224644,
+                    "height": 360,
+                    "owner_id": -111873813,
+                    "pid": 406471768,
+                    "src": "http://cs630426.vk.me/v630426795/1c82c/obokS0GVIxw.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c82d/BGiXG2ntdk0.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c82b/P0_waLoc58I.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c82e/nhUfbPhbTd0.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 640
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {"count": 0},
+        "date": 1458237914,
+        "from_id": -111873813,
+        "id": 116,
+        "likes": {"count": 23},
+        "post_type": "post",
+        "reposts": {"count": 4},
+        "signer_id": 346384795,
+        "text": "Es ist die Zeit gekommen vom Sofa runter zu gehen und das Bier mal im Kühlschrank liegen zu lassen.<br><br>Es ist nie zu spät anzufangen!<br>Beginnt heute noch! So unwichtig es sich anhört, doch wenn ihr gesund seit macht ihr schon damit etwas gutes für DEUTSCHLAND!<br><br>Nur ein gesunder Mensch kann auf alles gefasst sein!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "2efe94772b35a8662f",
+                "aid": -7,
+                "created": 1458224834,
+                "height": 184,
+                "owner_id": -111873813,
+                "pid": 406472207,
+                "post_id": 111,
+                "src": "http://cs630426.vk.me/v630426795/1c834/NP0H6HfFzxQ.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c835/pETKunW0TTU.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c833/iTbFz6kkcBg.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 236
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "2efe94772b35a8662f",
+                "aid": -7,
+                "created": 1458224834,
+                "height": 184,
+                "owner_id": -111873813,
+                "pid": 406472207,
+                "post_id": 111,
+                "src": "http://cs630426.vk.me/v630426795/1c834/NP0H6HfFzxQ.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c835/pETKunW0TTU.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c833/iTbFz6kkcBg.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 236
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 3},
+        "date": 1458237927,
+        "from_id": -111873813,
+        "id": 117,
+        "likes": {"count": 30},
+        "post_type": "post",
+        "reposts": {"count": 8},
+        "signer_id": 346384795,
+        "text": "DURCH DEN VERFALL DER SPRACHE GEHT KULTUR VERLOREN!<br><br>Schützt eure Sprache und lernt sie!<br>Holt euch Bücher, lest Gedichte und übt eure Schönschrift!<br><br>Auch Fremdworte sollten nur selten genutzt werden, denn die Englische Sprache betreibt im Moment Sprachgenozid auf der Welt!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "bfbb7da24bc3051937",
+                "aid": -7,
+                "created": 1458241086,
+                "height": 650,
+                "owner_id": -111873813,
+                "pid": 406516321,
+                "post_id": 123,
+                "src": "http://cs630426.vk.me/v630426795/1c966/6tOTh_qCJbg.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c967/GLjT7o1UUhg.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c965/18ejNv4PARw.jpg",
+                "src_xbig": "http://cs630426.vk.me/v630426795/1c968/ledeUQ1Ve2Q.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 465
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "bfbb7da24bc3051937",
+                "aid": -7,
+                "created": 1458241086,
+                "height": 650,
+                "owner_id": -111873813,
+                "pid": 406516321,
+                "post_id": 123,
+                "src": "http://cs630426.vk.me/v630426795/1c966/6tOTh_qCJbg.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c967/GLjT7o1UUhg.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c965/18ejNv4PARw.jpg",
+                "src_xbig": "http://cs630426.vk.me/v630426795/1c968/ledeUQ1Ve2Q.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 465
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 2},
+        "date": 1458241085,
+        "from_id": -111873813,
+        "id": 123,
+        "likes": {"count": 8},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 346384795,
+        "text": "https://vk.com/kommunistenpatriotendeutschlands",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "400a099eb8baf55369",
+                "aid": -7,
+                "created": 1458240405,
+                "height": 604,
+                "owner_id": -111873813,
+                "pid": 406513915,
+                "src": "http://cs630426.vk.me/v630426795/1c93b/jiLAgLhqhrk.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c93c/eOPuLq_8PP0.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c93a/FHXfjQSRxqM.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 604
+            },
+            "type": "photo"
+        },
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "400a099eb8baf55369",
+                    "aid": -7,
+                    "created": 1458240405,
+                    "height": 604,
+                    "owner_id": -111873813,
+                    "pid": 406513915,
+                    "src": "http://cs630426.vk.me/v630426795/1c93b/jiLAgLhqhrk.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c93c/eOPuLq_8PP0.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c93a/FHXfjQSRxqM.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 604
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "b85cd599639a48bb63",
+                    "aid": -7,
+                    "created": 1458240405,
+                    "height": 376,
+                    "owner_id": -111873813,
+                    "pid": 406513916,
+                    "src": "http://cs630426.vk.me/v630426795/1c942/0IH_tvDzGSM.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c943/tId49UNtFgU.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c941/BMi9Uqi5AjQ.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 478
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "7b80c2323802a3269f",
+                    "aid": -7,
+                    "created": 1458240405,
+                    "height": 604,
+                    "owner_id": -111873813,
+                    "pid": 406513917,
+                    "src": "http://cs630426.vk.me/v630426795/1c949/CGK-Epe-Cr8.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c94a/y0RnbVfCMio.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c948/W_k-spRPtwI.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c94b/nTabHUXISB0.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 640
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "5a51da93b82e1a268e",
+                    "aid": -7,
+                    "created": 1458240405,
+                    "height": 509,
+                    "owner_id": -111873813,
+                    "pid": 406513918,
+                    "src": "http://cs630426.vk.me/v630426795/1c951/MhK1lRuq5uk.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c952/17QJqFjwfyE.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c950/cV_8pKdP2W4.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 604
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {"count": 2},
+        "date": 1458241157,
+        "from_id": -111873813,
+        "id": 125,
+        "likes": {"count": 31},
+        "post_type": "post",
+        "reposts": {"count": 6},
+        "signer_id": 346384795,
+        "text": "Kameraden und Genossen, achtet auf eure Gesundheit!<br><br>Macht Sport, geht laufen, kämpfen, bildet euch und achtet auf eure Ernährung! Meldet euch mit Freunden beim Schützen-, oder Jagdverein an und geht schießen, angeln, oder an die frische Luft!<br><br>Könnt Ihr schießen und mehrere Kilometer am Stück durchmarschieren?<br><br>DER FEIND KANN ES!<br>Das haltet euch vor Augen..<br><br>NUR EIN SPORTLICHES, GESUNDES UND GEBILDETES VOLK IST STARK!!!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "cbac79d7252c500597",
+                "aid": -7,
+                "created": 1458241201,
+                "height": 556,
+                "owner_id": -111873813,
+                "pid": 406516678,
+                "post_id": 126,
+                "src": "http://cs630426.vk.me/v630426795/1c95f/lNufgzi4lXg.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c960/e-yNTK-UQAU.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c95e/1-zE0kSk_KM.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 604
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "cbac79d7252c500597",
+                "aid": -7,
+                "created": 1458241201,
+                "height": 556,
+                "owner_id": -111873813,
+                "pid": 406516678,
+                "post_id": 126,
+                "src": "http://cs630426.vk.me/v630426795/1c95f/lNufgzi4lXg.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c960/e-yNTK-UQAU.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c95e/1-zE0kSk_KM.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 604
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1458241201,
+        "from_id": -111873813,
+        "id": 126,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "signer_id": 346384795,
+        "text": "https://vk.com/kommunistenpatriotendeutschlands",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 5},
+        "date": 1458245350,
+        "from_id": -111873813,
+        "id": 129,
+        "likes": {"count": 9},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "BAUEN WIR EIN CHAT AUF  VORERST ÖSTERREICH ERWACHE !!!UND DEUTSCHLAND ERWACHE!!!  UND IN DENNÄCHSTEN TAGEN WERDN WIR REGIONAL IN DEN BUNDESLÄDERN SEIT IHR DABEI???",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "85e980ca42a434ed13",
+                "aid": -7,
+                "created": 1458245319,
+                "height": 400,
+                "owner_id": 349462215,
+                "pid": 405530863,
+                "post_id": 4909,
+                "src": "http://cs630323.vk.me/v630323215/2006c/5FEF0Yy6W0k.jpg",
+                "src_big": "http://cs630323.vk.me/v630323215/2006d/pi-WSOEX6hg.jpg",
+                "src_small": "http://cs630323.vk.me/v630323215/2006b/QBFB1gpkk2s.jpg",
+                "src_xbig": "http://cs630323.vk.me/v630323215/2006e/CJ8eVo5PGqw.jpg",
+                "text": "",
+                "width": 717
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "85e980ca42a434ed13",
+                "aid": -7,
+                "created": 1458245319,
+                "height": 400,
+                "owner_id": 349462215,
+                "pid": 405530863,
+                "post_id": 4909,
+                "src": "http://cs630323.vk.me/v630323215/2006c/5FEF0Yy6W0k.jpg",
+                "src_big": "http://cs630323.vk.me/v630323215/2006d/pi-WSOEX6hg.jpg",
+                "src_small": "http://cs630323.vk.me/v630323215/2006b/QBFB1gpkk2s.jpg",
+                "src_xbig": "http://cs630323.vk.me/v630323215/2006e/CJ8eVo5PGqw.jpg",
+                "text": "",
+                "width": 717
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 2},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 0,
+        "copy_post_id": 0,
+        "copy_post_type": "photo",
+        "date": 1458280212,
+        "from_id": -111873813,
+        "id": 140,
+        "likes": {"count": 8},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "8ea1093cb306a2216b",
+                "aid": -7,
+                "created": 1458241697,
+                "height": 539,
+                "owner_id": -111873813,
+                "pid": 406518318,
+                "src": "http://cs630426.vk.me/v630426795/1ca05/UMjz_YVqohA.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1ca06/T3Nb_Y8q4QI.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1ca04/LAyTV4S0nlc.jpg",
+                "src_xbig": "http://cs630426.vk.me/v630426795/1ca07/UrucVvEApzk.jpg",
+                "src_xxbig": "http://cs630426.vk.me/v630426795/1ca08/OIDlMFy7nEo.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 960
+            },
+            "type": "photo"
+        },
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "8ea1093cb306a2216b",
+                    "aid": -7,
+                    "created": 1458241697,
+                    "height": 539,
+                    "owner_id": -111873813,
+                    "pid": 406518318,
+                    "src": "http://cs630426.vk.me/v630426795/1ca05/UMjz_YVqohA.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1ca06/T3Nb_Y8q4QI.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1ca04/LAyTV4S0nlc.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1ca07/UrucVvEApzk.jpg",
+                    "src_xxbig": "http://cs630426.vk.me/v630426795/1ca08/OIDlMFy7nEo.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 960
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "86568cdff7d9e1c037",
+                    "aid": -7,
+                    "created": 1458241697,
+                    "height": 677,
+                    "owner_id": -111873813,
+                    "pid": 406518320,
+                    "src": "http://cs630426.vk.me/v630426795/1c9fc/HWr-FTbelv4.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9fd/2Yn0HFS4NCY.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c9fb/RkKRIdvHgbY.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c9fe/eKnS574BNL4.jpg",
+                    "src_xxbig": "http://cs630426.vk.me/v630426795/1c9ff/Dg4_L_jp39c.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 960
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {"count": 0},
+        "date": 1458298194,
+        "from_id": -111873813,
+        "id": 143,
+        "likes": {"count": 15},
+        "post_type": "post",
+        "reposts": {"count": 5},
+        "signer_id": 346384795,
+        "text": "Diese \"demokratische\" Ideologie beschützen die Linken und Grünen mit ihrem Gutmenschentum.<br>Sie stürzen Europa in Krieg und Terror!<br><br>Ich glaube da müssen ein paar Parteien mal lernen was \"Faschismus\" ist und dass er nicht von Kultur, Nationalität oder Rasse abhängig ist.",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "d646d41573ea7044fc",
+                "aid": -7,
+                "created": 1458241142,
+                "height": 491,
+                "owner_id": -111873813,
+                "pid": 406516486,
+                "src": "http://cs630426.vk.me/v630426795/1c99f/LN4E7vlUm0Q.jpg",
+                "src_big": "http://cs630426.vk.me/v630426795/1c9a0/7I75LKKqbXQ.jpg",
+                "src_small": "http://cs630426.vk.me/v630426795/1c99e/WgaPh4kVJQc.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 604
+            },
+            "type": "photo"
+        },
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "d646d41573ea7044fc",
+                    "aid": -7,
+                    "created": 1458241142,
+                    "height": 491,
+                    "owner_id": -111873813,
+                    "pid": 406516486,
+                    "src": "http://cs630426.vk.me/v630426795/1c99f/LN4E7vlUm0Q.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9a0/7I75LKKqbXQ.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c99e/WgaPh4kVJQc.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 604
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "f5daf7caf26b051c2c",
+                    "aid": -7,
+                    "created": 1458241142,
+                    "height": 591,
+                    "owner_id": -111873813,
+                    "pid": 406516487,
+                    "src": "http://cs630426.vk.me/v630426795/1c9a6/a9N7DegRtQo.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9a7/INsJX4Y1yYQ.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c9a5/Lf0Q4CNtFAI.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 604
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "8f2cbc4a51e4d73d91",
+                    "aid": -7,
+                    "created": 1458241142,
+                    "height": 628,
+                    "owner_id": -111873813,
+                    "pid": 406516488,
+                    "src": "http://cs630426.vk.me/v630426795/1c9ad/BLorkbXCDWA.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9ae/BwwzjmR1fME.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c9ac/UMdt8bmzggI.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c9af/LMfkYMExzNw.jpg",
+                    "src_xxbig": "http://cs630426.vk.me/v630426795/1c9b0/sutWrLW0acw.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 960
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "c382e1ba861eb04d10",
+                    "aid": -7,
+                    "created": 1458241142,
+                    "height": 500,
+                    "owner_id": -111873813,
+                    "pid": 406516489,
+                    "src": "http://cs630426.vk.me/v630426795/1c9bd/dPSEgdaHcEI.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9be/IifNaAtpeCA.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c9bc/zwqOAXWri4Q.jpg",
+                    "src_xbig": "http://cs630426.vk.me/v630426795/1c9bf/s7uFvQnZVUY.jpg",
+                    "src_xxbig": "http://cs630426.vk.me/v630426795/1c9c0/k20EsyesYdk.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 852
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "138d7e1b996c28fa74",
+                    "aid": -7,
+                    "created": 1458241142,
+                    "height": 300,
+                    "owner_id": -111873813,
+                    "pid": 406516491,
+                    "src": "http://cs630426.vk.me/v630426795/1c9b6/_IpKXu-u4bw.jpg",
+                    "src_big": "http://cs630426.vk.me/v630426795/1c9b7/ZKXglTM2EAo.jpg",
+                    "src_small": "http://cs630426.vk.me/v630426795/1c9b5/e6L2wNdkHzg.jpg",
+                    "text": "",
+                    "user_id": 100,
+                    "width": 400
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {"count": 0},
+        "date": 1458298212,
+        "from_id": -111873813,
+        "id": 144,
+        "likes": {"count": 17},
+        "post_type": "post",
+        "reposts": {"count": 3},
+        "signer_id": 346384795,
+        "text": "EUROPA BRAUCHT EINE KONSERVATIVE REVOLUTION!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "888f8ddef473568785",
+                "aid": -7,
+                "created": 1458320797,
+                "height": 768,
+                "owner_id": 337881024,
+                "pid": 405413451,
+                "post_id": 1917,
+                "src": "http://cs630429.vk.me/v630429535/21721/AauanLV4Y84.jpg",
+                "src_big": "http://cs630429.vk.me/v630429535/21722/A5LSpDcDDDg.jpg",
+                "src_small": "http://cs630429.vk.me/v630429535/21720/DdbelItJkJA.jpg",
+                "src_xbig": "http://cs630429.vk.me/v630429535/21723/MIkG9-HVo3M.jpg",
+                "src_xxbig": "http://cs630429.vk.me/v630429535/21724/FXcwvM82-6Y.jpg",
+                "text": "Original: http://i80.servimg.com/u/f80/14/50/10/03/thor11.jpg",
+                "width": 1024
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "888f8ddef473568785",
+                "aid": -7,
+                "created": 1458320797,
+                "height": 768,
+                "owner_id": 337881024,
+                "pid": 405413451,
+                "post_id": 1917,
+                "src": "http://cs630429.vk.me/v630429535/21721/AauanLV4Y84.jpg",
+                "src_big": "http://cs630429.vk.me/v630429535/21722/A5LSpDcDDDg.jpg",
+                "src_small": "http://cs630429.vk.me/v630429535/21720/DdbelItJkJA.jpg",
+                "src_xbig": "http://cs630429.vk.me/v630429535/21723/MIkG9-HVo3M.jpg",
+                "src_xxbig": "http://cs630429.vk.me/v630429535/21724/FXcwvM82-6Y.jpg",
+                "text": "Original: http://i80.servimg.com/u/f80/14/50/10/03/thor11.jpg",
+                "width": 1024
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 337881024,
+        "copy_post_date": 1458320795,
+        "copy_post_id": 1917,
+        "copy_post_type": "post",
+        "date": 1458320842,
+        "from_id": -111873813,
+        "id": 148,
+        "likes": {"count": 3},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 0},
+        "date": 1458338941,
+        "from_id": -111873813,
+        "id": 150,
+        "likes": {"count": 1},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "text": "WER SICH IM CHAT ANSCHLIESEN MÖCHTE BITTE MELDEN!!!!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "c6ae1003501d7428d9",
+                "aid": -7,
+                "created": 1457288076,
+                "height": 678,
+                "owner_id": 349462215,
+                "pid": 403802528,
+                "post_id": 3889,
+                "src": "http://cs633730.vk.me/v633730065/15905/t26PjF8CK7c.jpg",
+                "src_big": "http://cs633730.vk.me/v633730065/15906/MD-VizgUcxA.jpg",
+                "src_small": "http://cs633730.vk.me/v633730065/15904/PY3E6A_giWU.jpg",
+                "src_xbig": "http://cs633730.vk.me/v633730065/15907/cHi7hqgeWnw.jpg",
+                "text": "",
+                "width": 480
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "c6ae1003501d7428d9",
+                "aid": -7,
+                "created": 1457288076,
+                "height": 678,
+                "owner_id": 349462215,
+                "pid": 403802528,
+                "post_id": 3889,
+                "src": "http://cs633730.vk.me/v633730065/15905/t26PjF8CK7c.jpg",
+                "src_big": "http://cs633730.vk.me/v633730065/15906/MD-VizgUcxA.jpg",
+                "src_small": "http://cs633730.vk.me/v633730065/15904/PY3E6A_giWU.jpg",
+                "src_xbig": "http://cs633730.vk.me/v633730065/15907/cHi7hqgeWnw.jpg",
+                "text": "",
+                "width": 480
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1458481994,
+        "copy_post_id": 5168,
+        "copy_post_type": "post",
+        "copy_text": "Du hast recht lieberNicolas, rufen wir all die zusammen die es ernst meinen und zu der Sache wirklich stehen ! Es muß der nächste Schritt getan werden denn nun ist es genug der Worte, der nächste Schritt muß getan werden !<br><br>http://vk.com/photo349462215_403802528",
+        "date": 1458482149,
+        "from_id": -111873813,
+        "id": 152,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Du hast recht lieberNicolas, rufen wir all die zusammen die es ernst meinen und zu der Sache wirklich stehen ! Es muß der nächste Schritt getan werden denn nun ist es genug der Worte, der nächste Schritt muß getan werden !<br><br>Source: http://vk.com/wall325703098_1044",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "5b0b21c98abb1ed862",
+                "date": 1458483051,
+                "description": "\"ehrliche Worte;vor allem irreversibel(dann nicht mehr umkehrbar)!babylonisch.<br><br>Louis Farrakhan wendet sich in diesem Video eindringlich an die gesamte Weisse Rasse, um ihr die Augen dafür zu öffnen, wohin deren gegenwärtiges, selbstzerstörerisches Tun in allernächster Zukunft unweigerlich führen wird,<br>nämlich zur vollständigen Ausrottung der Weissen Rasse.<br>Es ist über die Maßen bezeichnend, daß erst ein schwarzer Prediger, ein bekennender<br>Rassen-Separatist und Pro-Schwarzen-Aktivist diese Botschaft an uns",
+                "duration": 136,
+                "image": "http://cs629130.vk.me/u224330212/video/l_e5cad8b9.jpg",
+                "image_big": "http://cs629130.vk.me/u224330212/video/l_e5cad8b9.jpg",
+                "image_small": "http://cs629130.vk.me/u224330212/video/s_d4a5a61f.jpg",
+                "image_xbig": "http://cs629130.vk.me/u224330212/video/y_f0451fb4.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "Louis Farrakhan über das Aussterben der Weißen bis 2050!",
+                "vid": 456239688,
+                "views": 15
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "5b0b21c98abb1ed862",
+                "date": 1458483051,
+                "description": "\"ehrliche Worte;vor allem irreversibel(dann nicht mehr umkehrbar)!babylonisch.<br><br>Louis Farrakhan wendet sich in diesem Video eindringlich an die gesamte Weisse Rasse, um ihr die Augen dafür zu öffnen, wohin deren gegenwärtiges, selbstzerstörerisches Tun in allernächster Zukunft unweigerlich führen wird,<br>nämlich zur vollständigen Ausrottung der Weissen Rasse.<br>Es ist über die Maßen bezeichnend, daß erst ein schwarzer Prediger, ein bekennender<br>Rassen-Separatist und Pro-Schwarzen-Aktivist diese Botschaft an uns",
+                "duration": 136,
+                "image": "http://cs629130.vk.me/u224330212/video/l_e5cad8b9.jpg",
+                "image_big": "http://cs629130.vk.me/u224330212/video/l_e5cad8b9.jpg",
+                "image_small": "http://cs629130.vk.me/u224330212/video/s_d4a5a61f.jpg",
+                "image_xbig": "http://cs629130.vk.me/u224330212/video/y_f0451fb4.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "Louis Farrakhan über das Aussterben der Weißen bis 2050!",
+                "vid": 456239688,
+                "views": 15
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1458483051,
+        "copy_post_id": 5179,
+        "copy_post_type": "post",
+        "copy_text": "http://vk.com/photo349462215_405904674",
+        "date": 1458483139,
+        "from_id": -111873813,
+        "id": 153,
+        "likes": {"count": 14},
+        "post_type": "copy",
+        "reposts": {"count": 4},
+        "text": "Louis Farrakhan über das Aussterben der Weißen bis 2050!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "cd9e6c1b8b64ad945b",
+                "aid": -7,
+                "created": 1458489224,
+                "height": 499,
+                "owner_id": 349462215,
+                "pid": 405921550,
+                "post_id": 5207,
+                "src": "http://cs628318.vk.me/v628318215/3d4d5/DZ1vrA7it7A.jpg",
+                "src_big": "http://cs628318.vk.me/v628318215/3d4d6/yYX-OfcPzLA.jpg",
+                "src_small": "http://cs628318.vk.me/v628318215/3d4d4/OrOayNGNvV0.jpg",
+                "src_xbig": "http://cs628318.vk.me/v628318215/3d4d7/EGyZgukSFxk.jpg",
+                "text": "",
+                "width": 678
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "cd9e6c1b8b64ad945b",
+                "aid": -7,
+                "created": 1458489224,
+                "height": 499,
+                "owner_id": 349462215,
+                "pid": 405921550,
+                "post_id": 5207,
+                "src": "http://cs628318.vk.me/v628318215/3d4d5/DZ1vrA7it7A.jpg",
+                "src_big": "http://cs628318.vk.me/v628318215/3d4d6/yYX-OfcPzLA.jpg",
+                "src_small": "http://cs628318.vk.me/v628318215/3d4d4/OrOayNGNvV0.jpg",
+                "src_xbig": "http://cs628318.vk.me/v628318215/3d4d7/EGyZgukSFxk.jpg",
+                "text": "",
+                "width": 678
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1458489455,
+        "copy_post_id": 5207,
+        "copy_post_type": "post",
+        "date": 1458489480,
+        "from_id": -111873813,
+        "id": 154,
+        "likes": {"count": 5},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "NIE WAREN DIE DEUTSCHEN GLÜCKLICHER ALS DIE JAHRE MIT HITLER; BEVOR DIE JUDEN UND MOSLEMS; DIE ENGLÄNDER; FRANZOSEN; AMIS und und und ALL DIESE NEIDER UND UNFÄHIGEN DIE IHR LAND NICHT FÜHREN KONNTEN UNS DEM DEUTSCHEN VOLKE DEN KRIEG ERKLÄRTEN !! ALL UNSERE BRÜDER UND VÄTER DIE FÜR UNS GESTORBEN SIND; ALL DIE DIE DEUTSCHLAND BESCHÜTZEN WOLLTEN !! IN GEDENKEN AN ALL DIE HELDEN DIE IHR BLUT FÜR UNS GEGEBEN HABEN !!! ICH BIN DEUTSCHER; ICH BIN NAZI UND ICH BIN STOLZ DARAUF !!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "b8be5657d0e436ec38",
+                "aid": -7,
+                "created": 1458562833,
+                "height": 1585,
+                "owner_id": -111873813,
+                "pid": 407029410,
+                "post_id": 155,
+                "src": "http://cs629112.vk.me/v629112573/91cd/0pPnFjXM5Vw.jpg",
+                "src_big": "http://cs629112.vk.me/v629112573/91ce/zjDd30QCb3o.jpg",
+                "src_small": "http://cs629112.vk.me/v629112573/91cc/81hnKhRF-mg.jpg",
+                "src_xbig": "http://cs629112.vk.me/v629112573/91cf/3HXCjf_Eudo.jpg",
+                "src_xxbig": "http://cs629112.vk.me/v629112573/91d0/U84CPGVoE24.jpg",
+                "src_xxxbig": "http://cs629112.vk.me/v629112573/91d1/LK9RaSHu9UA.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 960
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "b8be5657d0e436ec38",
+                "aid": -7,
+                "created": 1458562833,
+                "height": 1585,
+                "owner_id": -111873813,
+                "pid": 407029410,
+                "post_id": 155,
+                "src": "http://cs629112.vk.me/v629112573/91cd/0pPnFjXM5Vw.jpg",
+                "src_big": "http://cs629112.vk.me/v629112573/91ce/zjDd30QCb3o.jpg",
+                "src_small": "http://cs629112.vk.me/v629112573/91cc/81hnKhRF-mg.jpg",
+                "src_xbig": "http://cs629112.vk.me/v629112573/91cf/3HXCjf_Eudo.jpg",
+                "src_xxbig": "http://cs629112.vk.me/v629112573/91d0/U84CPGVoE24.jpg",
+                "src_xxxbig": "http://cs629112.vk.me/v629112573/91d1/LK9RaSHu9UA.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 960
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 1},
+        "date": 1458566005,
+        "from_id": -111873813,
+        "id": 156,
+        "likes": {"count": 12},
+        "post_type": "post",
+        "reposts": {"count": 5},
+        "signer_id": 307023573,
+        "text": "Teilen, teilen, teilen...<br>09.04.2016 alle nach Magdeburg !<br>Patriotische Demonstration von \"Gemeinsam-Stark\" alle Infos auf der Homepage www.gemeinsamstark-ev.net",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "6d3787ce981839b1bb",
+                "aid": -7,
+                "created": 1458730662,
+                "height": 356,
+                "owner_id": -111873813,
+                "pid": 407313836,
+                "post_id": 159,
+                "src": "http://cs627621.vk.me/v627621024/45e90/6j9lCwkUw9Y.jpg",
+                "src_big": "http://cs627621.vk.me/v627621024/45e91/RwfkG2YY_z8.jpg",
+                "src_small": "http://cs627621.vk.me/v627621024/45e8f/VT2--reEkpI.jpg",
+                "src_xbig": "http://cs627621.vk.me/v627621024/45e92/lr2Gsa95UVo.jpg",
+                "src_xxbig": "http://cs627621.vk.me/v627621024/45e93/k9ZLRMo8CkA.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 1024
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "6d3787ce981839b1bb",
+                "aid": -7,
+                "created": 1458730662,
+                "height": 356,
+                "owner_id": -111873813,
+                "pid": 407313836,
+                "post_id": 159,
+                "src": "http://cs627621.vk.me/v627621024/45e90/6j9lCwkUw9Y.jpg",
+                "src_big": "http://cs627621.vk.me/v627621024/45e91/RwfkG2YY_z8.jpg",
+                "src_small": "http://cs627621.vk.me/v627621024/45e8f/VT2--reEkpI.jpg",
+                "src_xbig": "http://cs627621.vk.me/v627621024/45e92/lr2Gsa95UVo.jpg",
+                "src_xxbig": "http://cs627621.vk.me/v627621024/45e93/k9ZLRMo8CkA.jpg",
+                "text": "",
+                "user_id": 100,
+                "width": 1024
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "date": 1458730660,
+        "from_id": -111873813,
+        "id": 159,
+        "likes": {"count": 32},
+        "post_type": "post",
+        "reposts": {"count": 5},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "047abc7c68d5e5f969",
+                "date": 1458736258,
+                "description": "",
+                "duration": 322,
+                "image": "http://cs627328.vk.me/v627328505/3e09f/5JhSQUniRyg.jpg",
+                "image_big": "http://cs627328.vk.me/v627328505/3e09f/5JhSQUniRyg.jpg",
+                "image_small": "http://cs627328.vk.me/v627328505/3e0a1/X5rmWLcfzgA.jpg",
+                "owner_id": 345966505,
+                "title": "Terror in Brüssel! Meine Reaktion  Die Schuldigen",
+                "vid": 456239045,
+                "views": 33
+            }
+        },
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "047abc7c68d5e5f969",
+                    "date": 1458736258,
+                    "description": "",
+                    "duration": 322,
+                    "image": "http://cs627328.vk.me/v627328505/3e09f/5JhSQUniRyg.jpg",
+                    "image_big": "http://cs627328.vk.me/v627328505/3e09f/5JhSQUniRyg.jpg",
+                    "image_small": "http://cs627328.vk.me/v627328505/3e0a1/X5rmWLcfzgA.jpg",
+                    "owner_id": 345966505,
+                    "title": "Terror in Brüssel! Meine Reaktion  Die Schuldigen",
+                    "vid": 456239045,
+                    "views": 33
+                }
+            },
+            {
+                "photo": {
+                    "access_key": "1f4b4d26572c4a62ba",
+                    "aid": -7,
+                    "created": 1458736442,
+                    "height": 100,
+                    "owner_id": 345966505,
+                    "pid": 408918896,
+                    "post_id": 1287,
+                    "src": "http://cs621831.vk.me/v621831505/3e579/Mf2ritcBv_4.jpg",
+                    "src_big": "http://cs621831.vk.me/v621831505/3e57a/6Vd_WxDKWhU.jpg",
+                    "src_small": "http://cs621831.vk.me/v621831505/3e578/oZ6qeZoQbKo.jpg",
+                    "text": "",
+                    "width": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {"count": 1},
+        "copy_owner_id": 345966505,
+        "copy_post_date": 1458736418,
+        "copy_post_id": 1239,
+        "copy_post_type": "post",
+        "copy_text": "Leute, mal anschauen!",
+        "date": 1458764931,
+        "from_id": -111873813,
+        "id": 160,
+        "likes": {"count": 7},
+        "post_type": "copy",
+        "reposts": {"count": 3},
+        "text": "Terror in Brüssel! Meine Reaktion &amp; Die Schuldigen<br><br>Danke Martin<br>👏👍💪",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "57b13b7b56632b5916",
+                "date": 1458734857,
+                "description": "",
+                "duration": 105,
+                "image": "http://cs629317.vk.me/v629317505/4c267/2LuUaU5TKNk.jpg",
+                "image_big": "http://cs629317.vk.me/v629317505/4c267/2LuUaU5TKNk.jpg",
+                "image_small": "http://cs629317.vk.me/v629317505/4c269/9SJD8mSUVPk.jpg",
+                "owner_id": 345966505,
+                "title": "tagesschau",
+                "vid": 456239044,
+                "views": 23
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "57b13b7b56632b5916",
+                "date": 1458734857,
+                "description": "",
+                "duration": 105,
+                "image": "http://cs629317.vk.me/v629317505/4c267/2LuUaU5TKNk.jpg",
+                "image_big": "http://cs629317.vk.me/v629317505/4c267/2LuUaU5TKNk.jpg",
+                "image_small": "http://cs629317.vk.me/v629317505/4c269/9SJD8mSUVPk.jpg",
+                "owner_id": 345966505,
+                "title": "tagesschau",
+                "vid": 456239044,
+                "views": 23
+            }
+        }],
+        "comments": {"count": 3},
+        "copy_owner_id": 345966505,
+        "copy_post_date": 1458735092,
+        "copy_post_id": 1237,
+        "copy_post_type": "post",
+        "date": 1458764944,
+        "from_id": -111873813,
+        "id": 161,
+        "likes": {"count": 3},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Bei diesem Gesülze bluten die Ohren...<br><br>Hier mal paar Fragen:<br><br>- Waren die Attentäter der zwei Pariser Anschläge Moslems? <br>- Waren die Sex-Attentäter von Köln... Moslems? <br>- Waren die Attentäter von Brüssel Moslems? <br>- Waren die Attentäter vom 9/11 Moslems? <br>- Waren die Attentäter von London und Madrid Moslems? <br>Okay .. Haben Moslems etwas mit dem Islam und den Koran zu tun?",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "7f9e3f13e75e586f4b",
+                "date": 1458927064,
+                "description": "",
+                "duration": 185,
+                "image": "http://cs627719.vk.me/v627719505/42c29/OFt_CZ86eIc.jpg",
+                "image_big": "http://cs627719.vk.me/v627719505/42c29/OFt_CZ86eIc.jpg",
+                "image_small": "http://cs627719.vk.me/v627719505/42c2b/0cFwr1ZjJT4.jpg",
+                "owner_id": 345966505,
+                "title": "Identitäre spielen Terror-Anschlag mitten in Wien nach",
+                "vid": 456239047,
+                "views": 6
+            }
+        },
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "7f9e3f13e75e586f4b",
+                    "date": 1458927064,
+                    "description": "",
+                    "duration": 185,
+                    "image": "http://cs627719.vk.me/v627719505/42c29/OFt_CZ86eIc.jpg",
+                    "image_big": "http://cs627719.vk.me/v627719505/42c29/OFt_CZ86eIc.jpg",
+                    "image_small": "http://cs627719.vk.me/v627719505/42c2b/0cFwr1ZjJT4.jpg",
+                    "owner_id": 345966505,
+                    "title": "Identitäre spielen Terror-Anschlag mitten in Wien nach",
+                    "vid": 456239047,
+                    "views": 6
+                }
+            },
+            {
+                "photo": {
+                    "access_key": "1f4b4d26572c4a62ba",
+                    "aid": -7,
+                    "created": 1458736442,
+                    "height": 100,
+                    "owner_id": 345966505,
+                    "pid": 408918896,
+                    "post_id": 1287,
+                    "src": "http://cs621831.vk.me/v621831505/3e579/Mf2ritcBv_4.jpg",
+                    "src_big": "http://cs621831.vk.me/v621831505/3e57a/6Vd_WxDKWhU.jpg",
+                    "src_small": "http://cs621831.vk.me/v621831505/3e578/oZ6qeZoQbKo.jpg",
+                    "text": "",
+                    "width": 100
+                },
+                "type": "photo"
+            },
+            {
+                "link": {
+                    "description": "",
+                    "title": "Identitäre spielen Terror-Anschlag mitten in Wien nach",
+                    "url": "http://m.oe24.at/oesterreich/politik/Identitaere-spielen-Terror-Anschlag-mitten-in-Wien-nach/229228252"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {"count": 0},
+        "copy_owner_id": 345966505,
+        "copy_post_date": 1458927351,
+        "copy_post_id": 1274,
+        "copy_post_type": "post",
+        "date": 1458928076,
+        "from_id": -111873813,
+        "id": 165,
+        "likes": {"count": 7},
+        "post_type": "copy",
+        "reposts": {"count": 3},
+        "text": "💪<br>Zum wiederholten Mal sorgt die Identitäre Bewegung für Aufregung. Die umstrittene Gruppierung hatte bereits mitten Wien eine IS-Enthauptung nachgespielt und mit der einen oder anderen extremen Forderung für Aufsehen gesorgt.<br><br>Bereits am Tag des Anschlags hatten die Identitäre auf Facebook Stellung bezogen: \u201eDer heutige Anschlag in Brüssel ist das unmittelbare Ergebnis der fehlgeleiteten Politik von Multikulti in Europa! Es ist eine Schande, was aus unserem Kontinent und unseren Ländern gemacht wurde! Wir nehmen dies nicht hin! Wir sagen: Wehrt euch - es ist euer Land!\u201c",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "5d1f0124f44fa2031e",
+                "date": 1459093290,
+                "description": "Veröffentlicht am 18.02.2016<br><br>Matthias Klama von der Gemeinde Neuhaus spricht mit Jo Conrad über den Verlust der Staatlichkeit in der BRD, die Reaktivierung der Gemeinden, Staatsangehörigkeit und den Weg zu einem Friedensvertrag.<br><br>Quelle: Bewusst.TV: http://bewusst.tv/reaktivierung-der-gemeinden/<br>YouTube Jo Conrad: http://www.joconrad.de/<br>Stammtische Bewusst-Treffs: http://bewusst.tv/bewusst-treffs/",
+                "duration": 3447,
+                "image": "http://cs629500.vk.me/u349416619/video/l_5bb3bd21.jpg",
+                "image_big": "http://cs629500.vk.me/u349416619/video/l_5bb3bd21.jpg",
+                "image_small": "http://cs629500.vk.me/u349416619/video/s_e34d42da.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "Reaktivierung der Gemeinden und Städte",
+                "vid": 456239863,
+                "views": 58
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "5d1f0124f44fa2031e",
+                "date": 1459093290,
+                "description": "Veröffentlicht am 18.02.2016<br><br>Matthias Klama von der Gemeinde Neuhaus spricht mit Jo Conrad über den Verlust der Staatlichkeit in der BRD, die Reaktivierung der Gemeinden, Staatsangehörigkeit und den Weg zu einem Friedensvertrag.<br><br>Quelle: Bewusst.TV: http://bewusst.tv/reaktivierung-der-gemeinden/<br>YouTube Jo Conrad: http://www.joconrad.de/<br>Stammtische Bewusst-Treffs: http://bewusst.tv/bewusst-treffs/",
+                "duration": 3447,
+                "image": "http://cs629500.vk.me/u349416619/video/l_5bb3bd21.jpg",
+                "image_big": "http://cs629500.vk.me/u349416619/video/l_5bb3bd21.jpg",
+                "image_small": "http://cs629500.vk.me/u349416619/video/s_e34d42da.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "Reaktivierung der Gemeinden und Städte",
+                "vid": 456239863,
+                "views": 58
+            }
+        }],
+        "comments": {"count": 1},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1459093732,
+        "copy_post_id": 6221,
+        "copy_post_type": "post",
+        "copy_text": "WICHTIG WICHTIG WICHTI; BITTE SCHAUT EUCH DIESES VIDEO AN; WIR HABEN KEINE DEUTSCHE NATIONALITÄT !! WIR HABEN KEIN STIMMRECHT DA WIR STAATENLOS SIND !! WIR HABEN KEINE RECHTE DESHALB PASSIERT ALLES !! BITTE ANSCHAUEN !!!",
+        "date": 1459095813,
+        "from_id": -111873813,
+        "id": 166,
+        "likes": {"count": 23},
+        "post_type": "copy",
+        "reposts": {"count": 8},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1461260604,
+        "copy_post_id": 8150,
+        "copy_post_type": "post",
+        "date": 1461260701,
+        "from_id": -111873813,
+        "id": 172,
+        "likes": {"count": 4},
+        "post_type": "copy",
+        "reposts": {"count": 4},
+        "text": "Die USA haben begonnen schweres Kriegsgerät im Hafen von Riga zu entladen. Neben 750 Kampfpanzern die vorerst in Lettland verbleiben sollen, entsendet Washington außerdem 3.000 Infanteristen ins Baltikum. Die US-Regierung zieht damit eine immer bedrohlicher wirkende Streitmacht direkt vor Russlands Grenze zusammen und provoziert damit weiterhin einen neuen Weltkrieg auf europäischenBoden. Die Waffenlieferung, zu der unter anderem huderte Kampfpanzer vom Typ \"Abrams\", Kampffahrzeuge vom Typ \"Bradley\" und auch Kampfhubschrauber gehören, solle Russlands Präsident Wladimir Putin \"unsere Entschlossenheit zeigen\". Sie würden dem Baltikum überlassen, \"so lange dies zur Abschreckung der russischen Aggression erforderlich ist\", sagte US-Generalmajor John R. O'Connor der Nachrichtenagentur AFP bei der Übergabe der Rüstungsgüter im Hafen von Lettlands Hauptstadt Riga.  Liebe Blogger und Internetnutzer. Bitte teilt diesen Beitrag größtmöglich im Internet, in Foren und Blogs und natürlich auf VKontakte, Facebook und Twi<br><br>Source: http://vk.com/video-86775514_171084429",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1461938803,
+        "copy_post_id": 9321,
+        "copy_post_type": "post",
+        "copy_text": "NUR WIR ALLE DAS DEUTSCHE VOLK ODER WAS DAVON ÜBRIG GEBLIEBEN IST ; KANN DEM GANZEN EIN ENDE SETZEN ; VERSTEHT IHR DAS NICHT !! NUR WIR DEUTSCHEN KÖNNEN DAS BEENDEN WENN WIR MERKEL UND CO AUGE IM AUGE GEGENÜBERSTEHEN UND SIE ZUM SOFORTIGEN RÜCKTRITT ZWINGEN !! DAS IST UNSER RECHT UND UNSERE PFLICHT UND WENN IHR DAS NICHT TUT HABT IHR KEINE AUSREDE SONDERN MITSCHULD AN DEM WAS JETZT KOMMT !!<br><br>http://vk.com/photo349462215_406875709",
+        "date": 1461938975,
+        "from_id": -111873813,
+        "id": 174,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "NUR WIR ALLE DAS DEUTSCHE VOLK ODER WAS DAVON ÜBRIG GEBLIEBEN IST ; KANN DEM GANZEN EIN ENDE SETZEN ; VERSTEHT IHR DAS NICHT !! NUR WIR DEUTSCHEN KÖNNEN DAS BEENDEN WENN WIR MERKEL UND CO AUGE IM AUGE GEGENÜBERSTEHEN UND SIE ZUM SOFORTIGEN RÜCKTRITT ZWINGEN !! DAS IST UNSER RECHT UND UNSERE PFLICHT UND WENN IHR DAS NICHT TUT HABT IHR KEINE AUSREDE SONDERN MITSCHULD AN DEM WAS JETZT KOMMT !!       TEILT DIESEN AUFRUF GANZ DEUTSCHLAND MUß DIESEM AUFRUF FOLGEN !!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Jetzt ist die Wahrheit endlich raus, Brüssel will über tun oder nicht tun der Nationalstaaten bestimmen.",
+                "image_big": "http://cs636227.vk.me/v636227826/4672/0DgZ0N4MPG8.jpg",
+                "image_src": "http://cs636227.vk.me/v636227826/4670/ErehUJ5viXE.jpg",
+                "title": "Brüssel verlangt die Abschaffung der Nationalstaaten!",
+                "url": "http://austria-netz.de/bruessel-verlangt-die-abschaffung/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Jetzt ist die Wahrheit endlich raus, Brüssel will über tun oder nicht tun der Nationalstaaten bestimmen.",
+                "image_big": "http://cs636227.vk.me/v636227826/4672/0DgZ0N4MPG8.jpg",
+                "image_src": "http://cs636227.vk.me/v636227826/4670/ErehUJ5viXE.jpg",
+                "title": "Brüssel verlangt die Abschaffung der Nationalstaaten!",
+                "url": "http://austria-netz.de/bruessel-verlangt-die-abschaffung/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 1},
+        "date": 1462043109,
+        "from_id": -111873813,
+        "id": 175,
+        "likes": {"count": 3},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "signer_id": 337881024,
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Ist der Österreicher, Mensch 2 - Klasse,afghanische Großfamilie in Österreich 5682 Euro Sozialhilfe",
+                "image_big": "http://cs630327.vk.me/v630327024/2bd1a/qi33OemU0is.jpg",
+                "image_src": "http://cs630327.vk.me/v630327024/2bd18/qjSDU6uzyGU.jpg",
+                "title": "Der Österreicher, Mensch 2 - Klasse?",
+                "url": "http://austria-netz.de/der-oesterreicher-mensch-2-klasse/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Ist der Österreicher, Mensch 2 - Klasse,afghanische Großfamilie in Österreich 5682 Euro Sozialhilfe",
+                "image_big": "http://cs630327.vk.me/v630327024/2bd1a/qi33OemU0is.jpg",
+                "image_src": "http://cs630327.vk.me/v630327024/2bd18/qjSDU6uzyGU.jpg",
+                "title": "Der Österreicher, Mensch 2 - Klasse?",
+                "url": "http://austria-netz.de/der-oesterreicher-mensch-2-klasse/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 1},
+        "date": 1462198671,
+        "from_id": -111873813,
+        "id": 177,
+        "likes": {"count": 2},
+        "post_type": "post",
+        "reposts": {"count": 1},
+        "signer_id": 337881024,
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Lutz Bachman einer der Mitbegründer von Pegida ist am Dienstag vom Amtsgericht in Dresden der Volksverhetzung schuldig gesprochen. Das Urteil lautete 9600 Euro (120 Tagessätze zu je 80 Euro)",
+                "image_src": "http://cs630328.vk.me/v630328024/34603/h8bGkg4gg1k.jpg",
+                "title": "Bachmann, Volksverhetzung, Justizskandal?",
+                "url": "http://austria-netz.de/lutz-bachmann-volksverhetzung-justizskandal/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Lutz Bachman einer der Mitbegründer von Pegida ist am Dienstag vom Amtsgericht in Dresden der Volksverhetzung schuldig gesprochen. Das Urteil lautete 9600 Euro (120 Tagessätze zu je 80 Euro)",
+                "image_src": "http://cs630328.vk.me/v630328024/34603/h8bGkg4gg1k.jpg",
+                "title": "Bachmann, Volksverhetzung, Justizskandal?",
+                "url": "http://austria-netz.de/lutz-bachmann-volksverhetzung-justizskandal/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1462303718,
+        "from_id": -111873813,
+        "id": 178,
+        "likes": {"count": 0},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Antifa Menschen ohne Vaterlands-stolz, Ehr - und Heimatgefühl",
+                "image_big": "http://cs630328.vk.me/v630328024/34611/KUAbqeZPHQM.jpg",
+                "image_src": "http://cs630328.vk.me/v630328024/3460f/BCbd5ElFSu4.jpg",
+                "title": "Die Antifa ist die SA der Neuzeit",
+                "url": "http://austria-netz.de/die-antifa-ist-die-sa-der-neuzeit/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Antifa Menschen ohne Vaterlands-stolz, Ehr - und Heimatgefühl",
+                "image_big": "http://cs630328.vk.me/v630328024/34611/KUAbqeZPHQM.jpg",
+                "image_src": "http://cs630328.vk.me/v630328024/3460f/BCbd5ElFSu4.jpg",
+                "title": "Die Antifa ist die SA der Neuzeit",
+                "url": "http://austria-netz.de/die-antifa-ist-die-sa-der-neuzeit/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "date": 1462303861,
+        "from_id": -111873813,
+        "id": 179,
+        "likes": {"count": 5},
+        "post_type": "post",
+        "reposts": {"count": 0},
+        "signer_id": 337881024,
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Liebe muslimische Mitleser, bitte lest euch diesen Beitrag mal durch! Erdogan wird niemals auf eurer Seite stehen! Erdogan ist kein  Muslime , sondern Jude! Er scheißt auf euren heiligen  Koran . Er wird nur seine jüdischen Interessen durchsetzen, wir dachten, ihr solltet das mal wissen! Laßt euch bitte nicht durch ihn gegen das deutsche Volk aufhetzen!  Während sich [\u2026]",
+                "image_big": "http://cs636229.vk.me/v636229315/91cf/fYvF4lWlKGA.jpg",
+                "image_src": "http://cs636229.vk.me/v636229315/91cd/iMSkVjm7Yo8.jpg",
+                "title": "Einige Fakten über Erdogans Stammbaum",
+                "url": "https://www.mzw-widerstand.com/einige-fakten-ueber-erdogans-stammbaum/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Liebe muslimische Mitleser, bitte lest euch diesen Beitrag mal durch! Erdogan wird niemals auf eurer Seite stehen! Erdogan ist kein  Muslime , sondern Jude! Er scheißt auf euren heiligen  Koran . Er wird nur seine jüdischen Interessen durchsetzen, wir dachten, ihr solltet das mal wissen! Laßt euch bitte nicht durch ihn gegen das deutsche Volk aufhetzen!  Während sich [\u2026]",
+                "image_big": "http://cs636229.vk.me/v636229315/91cf/fYvF4lWlKGA.jpg",
+                "image_src": "http://cs636229.vk.me/v636229315/91cd/iMSkVjm7Yo8.jpg",
+                "title": "Einige Fakten über Erdogans Stammbaum",
+                "url": "https://www.mzw-widerstand.com/einige-fakten-ueber-erdogans-stammbaum/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1463297124,
+        "copy_post_id": 10185,
+        "copy_post_type": "post",
+        "date": 1463298711,
+        "from_id": -111873813,
+        "id": 184,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "\u201cDer Völkerstreit und der Haß untereinander, er wird gepflegt von ganz bestimmten Interessenten. Es ist ein kleine wurzellose internationale Clique, die die Völker gegeneinander hetzt, die nicht will, daß sie zur Ruhe kommen. Es sind das die Menschen, die überall und nirgends zuhause sind, sondern die heute in Berlin leben, morgen genauso in Brüssel sein können, übermorgen in Paris und dann wieder in Prag oder Wien oder in London, und die sich überall zu Hause fühlen.Es sind die einzigen, die wirklich als internationale Elemente anzusprechen sind, weil sie überall ihre Geschäfte betätigen können, aber das Volk kann ihnen gar nicht nachfolgen, das Volk ist ja gekettet an seinen Boden, ist gekettet an seine Heimat, ist gebunden an die Lebensmöglichkeiten seines Staates, der Nation. Das Volk kann ihnen nicht nachgehen.<br><br>Weiterlesen: https://www.mzw-widerstand.com/einige-fakten-ueber-erdogans-stammbaum/ .",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 1},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1464587324,
+        "copy_post_id": 11001,
+        "copy_post_type": "post",
+        "date": 1464587705,
+        "from_id": -111873813,
+        "id": 185,
+        "likes": {"count": 5},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "ES FEHLT DER FÜHRER !!!<br>WENN ICH SEHE DAS DIE DEUTSCHEN RUM EIERN UND JAMMERN; ABER NICHT UNTERNEHMEN::: ES IST WIE ZU DER ZEITKURZ BEVOR DER FÜHRER KAM UND ENDLICH AUFGERÄUMT HAT !!<br>MEIN FÜHRER WO BIST DU ?? <br>DER EINE DER DAS VOLK WIEDER EINT UND FÜHRT !!<br>DIE DEUTSCHEN SIND STARK WENN SIE DEM RICHTIGEN MANN FOLGEN !! VIELLEICHT SOLLTE PUTIN EIN WORT AN DIE DEUTSCHEN RICHTEN UND SIE FÜHREN !!<br>ES FEHLT DER FÜHRER !!",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Beitrag von Newsroom  Zahlreiche Berichte kommen jetzt zu SuperStation95, dass eine Evakuierung von Militärfamilien aus Ramstein Air Force Base in Deutschland im Gange ist. Dies ist in der Regel nu\u2026",
+                "image_big": "http://cs631623.vk.me/v631623278/32cc1/PZABhM8E_BA.jpg",
+                "image_src": "http://cs631623.vk.me/v631623278/32cbf/D_2tj7RqtsU.jpg",
+                "title": "+++ Eilmeldung +++Military Evakuieren Frauen und Kinder von Ramstein Air Force Base in Deutschland +++ Eilmeldung +++",
+                "url": "https://kraeutermume.wordpress.com/2016/06/08/eilmeldung-military-evakuieren-frauen-und-kinder-von-ramstein-air-force-base-in-deutschland-eilmeldung/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Beitrag von Newsroom  Zahlreiche Berichte kommen jetzt zu SuperStation95, dass eine Evakuierung von Militärfamilien aus Ramstein Air Force Base in Deutschland im Gange ist. Dies ist in der Regel nu\u2026",
+                "image_big": "http://cs631623.vk.me/v631623278/32cc1/PZABhM8E_BA.jpg",
+                "image_src": "http://cs631623.vk.me/v631623278/32cbf/D_2tj7RqtsU.jpg",
+                "title": "+++ Eilmeldung +++Military Evakuieren Frauen und Kinder von Ramstein Air Force Base in Deutschland +++ Eilmeldung +++",
+                "url": "https://kraeutermume.wordpress.com/2016/06/08/eilmeldung-military-evakuieren-frauen-und-kinder-von-ramstein-air-force-base-in-deutschland-eilmeldung/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465496092,
+        "copy_post_id": 11581,
+        "copy_post_type": "post",
+        "date": 1465496124,
+        "from_id": -111873813,
+        "id": 190,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Reblogged auf WordPress.com",
+                "title": "Bier und Spiele\u2026 für den Untergang",
+                "url": "https://treueundehre.wordpress.com/2016/06/09/bier-und-spiele-fuer-den-untergang/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Reblogged auf WordPress.com",
+                "title": "Bier und Spiele\u2026 für den Untergang",
+                "url": "https://treueundehre.wordpress.com/2016/06/09/bier-und-spiele-fuer-den-untergang/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465496896,
+        "copy_post_id": 11588,
+        "copy_post_type": "post",
+        "date": 1465497953,
+        "from_id": -111873813,
+        "id": 191,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Während sich 1918 eine Besatzung im ganzen osmanischen Reich breit machte, wurde in der Region Rize und Trabzon der freie Staat RUM-PONTUS gegründet. Ca. 3 Jahre existierte dieser freie Staat. Die \u2026",
+                "image_big": "http://cs622017.vk.me/v622017215/259d7/LvL1fRPA9UA.jpg",
+                "image_src": "http://cs622017.vk.me/v622017215/259d5/IDX4rEGFGFE.jpg",
+                "title": "EINIGE FAKTEN ÜBER ERDOGANS STAMMBAUM",
+                "url": "https://selberdenkenhilftimmer.wordpress.com/2015/08/22/einige-fakten-ueber-erdogans-stammbaum/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Während sich 1918 eine Besatzung im ganzen osmanischen Reich breit machte, wurde in der Region Rize und Trabzon der freie Staat RUM-PONTUS gegründet. Ca. 3 Jahre existierte dieser freie Staat. Die \u2026",
+                "image_big": "http://cs622017.vk.me/v622017215/259d7/LvL1fRPA9UA.jpg",
+                "image_src": "http://cs622017.vk.me/v622017215/259d5/IDX4rEGFGFE.jpg",
+                "title": "EINIGE FAKTEN ÜBER ERDOGANS STAMMBAUM",
+                "url": "https://selberdenkenhilftimmer.wordpress.com/2015/08/22/einige-fakten-ueber-erdogans-stammbaum/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465494946,
+        "copy_post_id": 11575,
+        "copy_post_type": "post",
+        "date": 1465497978,
+        "from_id": -111873813,
+        "id": 192,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "",
+                "image_big": "http://cs626624.vk.me/v626624886/1317b/ZqRkg2nVQpM.jpg",
+                "image_src": "http://cs626624.vk.me/v626624886/13179/lWb5EkEQkwk.jpg",
+                "title": "Ein dramatischer Aufruf aus Frankreich \u2013 BERG. Blog",
+                "url": "http://blog.berg-kommunikation.de/ein-dramatischer-aufruf-aus-frankreich/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "",
+                "image_big": "http://cs626624.vk.me/v626624886/1317b/ZqRkg2nVQpM.jpg",
+                "image_src": "http://cs626624.vk.me/v626624886/13179/lWb5EkEQkwk.jpg",
+                "title": "Ein dramatischer Aufruf aus Frankreich \u2013 BERG. Blog",
+                "url": "http://blog.berg-kommunikation.de/ein-dramatischer-aufruf-aus-frankreich/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465493483,
+        "copy_post_id": 11572,
+        "copy_post_type": "post",
+        "date": 1465498008,
+        "from_id": -111873813,
+        "id": 193,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "type": "video",
+            "video": {
+                "access_key": "b9bce089d07d150e9c",
+                "date": 1465493323,
+                "description": "Notre pays existe depuis plus de 2000 ans, allons-nous le regarder disparaître sans broncher ? L'échec n'est pas une option. Pour sauver son identité, le peuple se battra jusqu'au bout. Ce 10 Juin, c'est encore pacifiquement et au nom du droit, que les forces armées sont légitimement réquisitionnées par le peuple pour rétablir l'ordre en arrêtant les malfaiteurs s'étant emparés du pouvoir!",
+                "duration": 1104,
+                "image": "http://cs633119.vk.me/u256162889/video/l_cec8f4f9.jpg",
+                "image_big": "http://cs633119.vk.me/u256162889/video/l_cec8f4f9.jpg",
+                "image_small": "http://cs633119.vk.me/u256162889/video/s_540ee62b.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "10 Juin, dernier avis",
+                "vid": 456240796,
+                "views": 21
+            }
+        },
+        "attachments": [{
+            "type": "video",
+            "video": {
+                "access_key": "b9bce089d07d150e9c",
+                "date": 1465493323,
+                "description": "Notre pays existe depuis plus de 2000 ans, allons-nous le regarder disparaître sans broncher ? L'échec n'est pas une option. Pour sauver son identité, le peuple se battra jusqu'au bout. Ce 10 Juin, c'est encore pacifiquement et au nom du droit, que les forces armées sont légitimement réquisitionnées par le peuple pour rétablir l'ordre en arrêtant les malfaiteurs s'étant emparés du pouvoir!",
+                "duration": 1104,
+                "image": "http://cs633119.vk.me/u256162889/video/l_cec8f4f9.jpg",
+                "image_big": "http://cs633119.vk.me/u256162889/video/l_cec8f4f9.jpg",
+                "image_small": "http://cs633119.vk.me/u256162889/video/s_540ee62b.jpg",
+                "owner_id": 349462215,
+                "platform": "YouTube",
+                "title": "10 Juin, dernier avis",
+                "vid": 456240796,
+                "views": 21
+            }
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465493322,
+        "copy_post_id": 11569,
+        "copy_post_type": "post",
+        "date": 1465498041,
+        "from_id": -111873813,
+        "id": 194,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Auf der einen Seite befinden sich die Dirigenten, die Frankreich zerstören und das Land in eine amerikanische Provinz umwandeln wollen. Auf der anderen Seite stehen die Franzosen, die nicht bereit sind auf ihre nationale Identität zu verzichten. Der Krieg hat schon begonnen!<br><br>Am 10. Juni haben die ehrlichen Streitkräfte die Aufgabe die Verräter und ihre Komplizen, die den Elyséepalast besetzen, zu verhaften. Das gesamte Volk ist aufgerufen, die Streitkräfte ab 10 Uhr auf dem Place de la Concorde zu unterstützen.",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "link": {
+                "description": "Mit einem flammenden Appell an die politische Vernunft der US-Führung hat sich der frühere britische Botschafter in Syrien, Peter Ford, auf RT zu Wort gemeldet. Ford kritisiert, Washington würde sich de facto mit der Terrororganisation Al-Qaida verbünden, nur um der eigenen Obsession nachgehen zu können, die sogenannte \u201emoderate Opposition\u201c bei ihrem Versuch zu unterstützen, die syrische Regierung zu stürzen. Das Vorgehen Russlands in Syrien beschrieb er als \"sehr vernünftig\".",
+                "image_big": "http://cs633827.vk.me/v633827485/2b80d/t3tWcwCACkc.jpg",
+                "image_src": "http://cs633827.vk.me/v633827485/2b80b/YBTZ6CrwsAM.jpg",
+                "title": "Britischer Ex-Botschafter zu RT: \"Verlust aller Moral, USA sind in Syrien mit al-Kaida verbündet\"",
+                "url": "https://deutsch.rt.com/der-nahe-osten/38791-britischer-ex-botschafter-usa-lernen/"
+            },
+            "type": "link"
+        },
+        "attachments": [{
+            "link": {
+                "description": "Mit einem flammenden Appell an die politische Vernunft der US-Führung hat sich der frühere britische Botschafter in Syrien, Peter Ford, auf RT zu Wort gemeldet. Ford kritisiert, Washington würde sich de facto mit der Terrororganisation Al-Qaida verbünden, nur um der eigenen Obsession nachgehen zu können, die sogenannte \u201emoderate Opposition\u201c bei ihrem Versuch zu unterstützen, die syrische Regierung zu stürzen. Das Vorgehen Russlands in Syrien beschrieb er als \"sehr vernünftig\".",
+                "image_big": "http://cs633827.vk.me/v633827485/2b80d/t3tWcwCACkc.jpg",
+                "image_src": "http://cs633827.vk.me/v633827485/2b80b/YBTZ6CrwsAM.jpg",
+                "title": "Britischer Ex-Botschafter zu RT: \"Verlust aller Moral, USA sind in Syrien mit al-Kaida verbündet\"",
+                "url": "https://deutsch.rt.com/der-nahe-osten/38791-britischer-ex-botschafter-usa-lernen/"
+            },
+            "type": "link"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 263756656,
+        "copy_post_date": 1465402766,
+        "copy_post_id": 17379,
+        "copy_post_type": "post",
+        "date": 1465498076,
+        "from_id": -111873813,
+        "id": 195,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 2},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 1465492700,
+        "copy_post_id": 11558,
+        "copy_post_type": "post",
+        "date": 1465498106,
+        "from_id": -111873813,
+        "id": 196,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "ES BEGINNT JETZT MEINE KAMERADEN !! HABE SO EBEND AUS SEHR SICHERER QUELLE ERFAHREN DAS DIE AMERIKANER ALLE FAMILLIEN; FRAUEN; KINDER; PRIVATPERSONEN AUS RAMMSTEIN MIT FLUGZEUGEN EVAKUIEREN !!! DAS IST KEIN SCHERZ !! ES HAT HEUTE MORGEN UM 10 UHR BEGONNEN RAMMSTEIN MIT FLUGZEUGEN ZU EVAKUIEREN; DIE AMERIKANER<br><br>Source: http://vk.com/video330045626_456239196",
+        "to_id": -111873813
+    },
+    {
+        "comments": {"count": 2},
+        "copy_owner_id": 322847615,
+        "copy_post_date": 1470761171,
+        "copy_post_id": 7545,
+        "copy_post_type": "post",
+        "date": 1470936780,
+        "from_id": -111873813,
+        "id": 199,
+        "likes": {"count": 3},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "Über den Wahrheitsgehalt des folgendem kann ich leider nichts sagen .<br><br>An alle RSV und Bürger, <br>heute gibt es hier eine wichtige Nachricht für das Überleben unserer deutschen Völker. Diese Information ist mehr wie ernst.und soll auch in alle Gruppen verteilt werden. Es gibt nur eine Lösung. Entweder wir gewinnen oder die Menschheit geht unter. Da ist Arroganz nicht mehr gefragt. Wir müssen alle zusammen stehen. Gebt diese Nachricht an alle Verteiler und alle Menschen, die Euch wichtig sind. Auch an sogenannte Beamte, da diese die Resonanz für Ihre Handlungen auch ertragen müssen. <br>Jeder ist zur Mithilfe angehalten, damit wir die Gefahr überwinden. Vom 15. zum 16. August 2016 mit Beginn eine Sekunde nach Mitternacht wollen die Eliten den Krieg auf Deutschen Boden ernsthaft beginnen. Wer kann, sollte die Großstädte verlassen. Vorrat sollte auch vorhanden sein. Meidet die Autobahnen für diesen Zeitraum. <br>Wir rufen alle Logistikunternehmen auf, sich bereit zu halten, die Truppenübungsplätze und die Autobahnauffahrten und Zufahrten für den Ernstfall zu blockieren. Ganz Europa ist gefragt, diesen Wahnsinn aufzuhalten. Wer Kontakte zu Logistikunternehmen hat wird gebeten, diese über die Gefahr zu informieren und dem Volk zu helfen. Alles was fahrbar zur Verfügung steht, sollte sich vorbereiten, um an diese Orten mit schweren Fahrzeugen die Zufahrten zu blockieren. Jede Form der Verteidigung ist daher richtig. <br>Es werden täglich tausende von sogenannten Asylanten in das deutsche und österreichische Gebiet geflogen. Es werden Containerdörfer aufgestellt zur Unterbringung. Jeder ist angehalten solche Bewegungen zu melden. <br>Auf Truppenübungsplätzen wird der IS trainiert. Auch solche Bewegungen bitte melden. Betroffen sind vermutlich die sogenannten stillgelegten Plätze der Armee. Die Überprüfung läuft bereits in vollen Zügen. Wir brauchen flächendeckend Unterstützung durch Informationen. Alle Möglichkeiten diesen Angriff aufzuhalten sind in Arbeit. Jetzt ist der Zusammenhalt gefragt. <br>Uns kommt Niemand zu Hilfe, auch diese Situation liegt bereits offen vor. Die Gefahr kommt von allen Seiten auf uns zu. Wir müssen gemeinsam da durch. Steht alle zueinander ohne irgendwelche Ausreden. Ob Euch das Gesicht gefällt oder nicht, ist für diese Aufgabe egal. Steht zusammen, dann haben wir eine Chance zu überleben. <br>Diese Information ist mehr wie ernst. Alle Vorinformationen laufen gerade über alle Verteiler, die zur Verfügung stehen. Verteilt diese Information soweit Ihr könnt. Jeder zweite Asylant ist ein ausgebildeter IS Kämpfer und darin liegt die Gefahr. Allein aus diesem Grund sind diese Leute hierv im deutschen Gebiet. Wir müssen es selber in die Hand nehmen. <br>Bereitet Euch auf den Ernstfall vor. Nehmt die Warnung ernst. Wir haben nur diese eine Chance. <br>Dagmar",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "a7f9ff66cd5f1e5b61",
+                "aid": -7,
+                "created": 1474964579,
+                "height": 489,
+                "owner_id": 349462215,
+                "pid": 433202309,
+                "post_id": 17245,
+                "src": "http://cs636226.vk.me/v636226215/28ea0/Ovuo7Be7r-I.jpg",
+                "src_big": "http://cs636226.vk.me/v636226215/28ea1/nlz8fCPu6uU.jpg",
+                "src_small": "http://cs636226.vk.me/v636226215/28e9f/fmvIqqbA6ag.jpg",
+                "src_xbig": "http://cs636226.vk.me/v636226215/28ea2/dICWH198jdk.jpg",
+                "text": "",
+                "width": 658
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "a7f9ff66cd5f1e5b61",
+                "aid": -7,
+                "created": 1474964579,
+                "height": 489,
+                "owner_id": 349462215,
+                "pid": 433202309,
+                "post_id": 17245,
+                "src": "http://cs636226.vk.me/v636226215/28ea0/Ovuo7Be7r-I.jpg",
+                "src_big": "http://cs636226.vk.me/v636226215/28ea1/nlz8fCPu6uU.jpg",
+                "src_small": "http://cs636226.vk.me/v636226215/28e9f/fmvIqqbA6ag.jpg",
+                "src_xbig": "http://cs636226.vk.me/v636226215/28ea2/dICWH198jdk.jpg",
+                "text": "",
+                "width": 658
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 0},
+        "copy_owner_id": 349462215,
+        "copy_post_date": 0,
+        "copy_post_id": 0,
+        "copy_post_type": "photo",
+        "date": 1474967302,
+        "from_id": -111873813,
+        "id": 205,
+        "likes": {"count": 0},
+        "post_type": "copy",
+        "reposts": {"count": 0},
+        "text": "",
+        "to_id": -111873813
+    },
+    {
+        "attachment": {
+            "photo": {
+                "access_key": "c7a03fefbf9ab008a0",
+                "aid": -7,
+                "created": 1474959657,
+                "height": 960,
+                "owner_id": 296044110,
+                "pid": 434253394,
+                "post_id": 19804,
+                "src": "http://cs638225.vk.me/v638225110/1cd5/GnzuxihigZA.jpg",
+                "src_big": "http://cs638225.vk.me/v638225110/1cd6/5p1ZMfrC1lo.jpg",
+                "src_small": "http://cs638225.vk.me/v638225110/1cd4/pk-3bzWtGt0.jpg",
+                "src_xbig": "http://cs638225.vk.me/v638225110/1cd7/tQCLxcEPOX8.jpg",
+                "src_xxbig": "http://cs638225.vk.me/v638225110/1cd8/46oxxdseXBw.jpg",
+                "text": "",
+                "width": 720
+            },
+            "type": "photo"
+        },
+        "attachments": [{
+            "photo": {
+                "access_key": "c7a03fefbf9ab008a0",
+                "aid": -7,
+                "created": 1474959657,
+                "height": 960,
+                "owner_id": 296044110,
+                "pid": 434253394,
+                "post_id": 19804,
+                "src": "http://cs638225.vk.me/v638225110/1cd5/GnzuxihigZA.jpg",
+                "src_big": "http://cs638225.vk.me/v638225110/1cd6/5p1ZMfrC1lo.jpg",
+                "src_small": "http://cs638225.vk.me/v638225110/1cd4/pk-3bzWtGt0.jpg",
+                "src_xbig": "http://cs638225.vk.me/v638225110/1cd7/tQCLxcEPOX8.jpg",
+                "src_xxbig": "http://cs638225.vk.me/v638225110/1cd8/46oxxdseXBw.jpg",
+                "text": "",
+                "width": 720
+            },
+            "type": "photo"
+        }],
+        "comments": {"count": 1},
+        "copy_owner_id": 296044110,
+        "copy_post_date": 0,
+        "copy_post_id": 0,
+        "copy_post_type": "photo",
+        "copy_text": "Michael Stawicki heute um 9:01 Uhr Freunde Mitbürger und Mitbürgerinnen, schaut Euch bitte daß hier an 😠teilt es Bitte so oft ihr könnt eh es unsere Unterdrücker und Deutschenfeindliche Politiker Verbrecher Bande wieder löscht! HIER IST ES SCHWARZ AUF WEIß, DASS DIE REGIERUNG GEGEN UNS ARBEITET UND SÖLDNER BEZAHLT UM DEUTSCHLAND IN DEN SICHEREN UNTERGANG ZU FÜHREN! NIE WIEDER SOLCHE MÖRDER, VATERLANDSVERÄTER UND ANTIDEUTSCHE POLITIKER WIE SCHWARZ, ROT, GRÜN VOLK ERHEBE DICH DENN WENN UNRECHT ZU RECHT WIRD IST WIEDERSTAND PFLICHT WIR DÜRFEN UNS SO ETWAS NICHT LÄNGER GEFALLEN LASSEN!",
+        "date": 1474968451,
+        "from_id": -111873813,
+        "id": 206,
+        "likes": {"count": 1},
+        "post_type": "copy",
+        "reposts": {"count": 1},
+        "text": "",
+        "to_id": -111873813
+    }
+]}
