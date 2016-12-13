@@ -18,8 +18,8 @@ import org.json.JSONObject;
  */
 public class Group {
     private JSONObject jsonObject;
-    private final String groupIdUrl = "http://api.vk.com/method/groups.getById?group_id=%s";
-    private final String groupIdsUrl = "http://api.vk.com/method/groups.getById?group_ids=%s";
+    private final String groupIdUrl = "https://api.vk.com/method/groups.getById?group_id=%s";
+    private final String groupIdsUrl = "https://api.vk.com/method/groups.getById?group_ids=%s";
     
     public Group(){
         this.jsonObject = new JSONObject();

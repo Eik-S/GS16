@@ -3,7 +3,9 @@
 
 1. Download The Repo [GS16_compiled](https://github.com/Eik-S/GS16_compiled)
 2. Execute GS16.jar in terminal using the following Arguments:
-  - wallGet: Get all Posts from the groups/persons wall set in 'vk_id_list.txt'
+  - updateData: Get all Posts from the groups/persons wall set in 'vk_id_list.txt' or update the already collected data for new posts 
+    - The data will be saved in the data Folder, containing also a 'groupInfo.json' :exclamation: dont touch :exclamation:
+    - Posts will be saved in files per execution day. Please use this method just once on the initial day because of huge files been written.
   - wallSearch: Search for All Keywords from 'vk_keyword_list.txt' in all groups/persons set in 'vk_id_list.txt'
   - createGroupInfo: Create a Table with Domain, Name and Url information to every id in 'vk_id_list.txt'
   - findIds: Add the ids of the groups in 'vk_domain_list.txt' to 'vk_id_list.txt'
@@ -18,7 +20,6 @@ java -jar GS16.jar wallSearch
 
 ## Important:
 The text lists are located at src/inputLists/fooBar.txt
-The output of 'wallGet' is located at postLists/fooBar.json
 'wallSearch' will create a new Folder named with the current date/time
 #### :exclamation: Actually its not possible to work with own filenames or directorys :exclamation: 
 

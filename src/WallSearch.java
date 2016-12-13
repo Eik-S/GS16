@@ -19,10 +19,10 @@ import org.json.JSONObject;
  */
 public class WallSearch {
     private JSONObject jsonObject;
-    private final String idKeywordUrl = "http://api.vk.com/method/wall.search?owner_id=%2d&count=100&query=%s";
-    private final String domainKeywordUrl = "http://api.vk.com/method/wall.search?domain=%s&count=100&query=%s";
-    private final String idKeywordUrlExtended = "http://api.vk.com/method/wall.search?owner_id=%2d&count=100&query=%s&extended=1";
-    private final String domainKeywordUrlExtended = "http://api.vk.com/method/wall.search?domain=%s&count=100&query=%s&extended=1";
+    private final String idKeywordUrl = "https://api.vk.com/method/wall.search?owner_id=%2d&count=100&query=%s";
+    private final String domainKeywordUrl = "https://api.vk.com/method/wall.search?domain=%s&count=100&query=%s";
+    private final String idKeywordUrlExtended = "https://api.vk.com/method/wall.search?owner_id=%2d&count=100&query=%s&extended=1";
+    private final String domainKeywordUrlExtended = "https://api.vk.com/method/wall.search?domain=%s&count=100&query=%s&extended=1";
     
     public WallSearch(){
         this.jsonObject = new JSONObject();

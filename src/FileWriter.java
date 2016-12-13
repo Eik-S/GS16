@@ -26,7 +26,7 @@ public class FileWriter {
             fileWriter.write(jsonString);
             fileWriter.close();
         }
-        System.out.println("### File was written to: " + defaultPath + " ###");
+        System.out.println("# File was written: " + defaultPath);
     }
     
     public static void writeToNewFile(JSONObject jsonObject, String path) throws IOException, JSONException{
@@ -38,7 +38,7 @@ public class FileWriter {
             fileWriter.write(jsonString);
             fileWriter.close();
         }
-        System.out.println("### File was written to: " + path + " ###");
+        System.out.println("# File was written: " + path);
     }
     
     public static void writeToNewFile(JSONArray jsonArray) throws IOException, JSONException{
@@ -50,7 +50,7 @@ public class FileWriter {
             fileWriter.close();
             System.out.println(jsonArray.length());
         }
-        System.out.println("### File was written to: " + defaultPath + " ###");
+        System.out.println("# File was written: " + defaultPath);
     }
     
     public static void appendToFile(JSONObject jsonObject, String path) throws IOException, JSONException{
@@ -62,6 +62,6 @@ public class FileWriter {
             fileWriter.write("\n" + jsonString);
             fileWriter.close();
         }
-        System.out.println("### Data has been added to File: " + path + " ###");
+        System.out.println("# Data has been added to File: " + path);
     }
 }

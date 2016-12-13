@@ -33,7 +33,6 @@ public class GroupIdSet {
     }
     
     public void setGroupIdSetFromFile(String fileName) throws FileNotFoundException, IOException{
-        System.out.println(System.getProperty("user.dir"));
         Scanner fileScanner = new Scanner(new File(relPath + fileName));
         int line;
         while(fileScanner.hasNext()){
